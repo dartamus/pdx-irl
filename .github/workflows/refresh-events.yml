@@ -1,0 +1,28 @@
+name: Refresh Portland events
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 13 * * *'   # daily ~6:17am Pacific during daylight time
+    - cron: '17 22 * * 4'   # Thursday afternoon Weekend Drop refresh
+permissions:
+  contents: write
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scripts/requirements.txt
+      - run: pip install -r scripts/requirements.txt
+      - name: Gather, normalize, and dedupe events
+        run: python scripts/refresh_events.py
+      - name: Commit fresh event data
+        run: |
+          git config user.name "pdx-irl-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events.json data/meta.json
+          git diff --cached --quiet || git commit -m "Refresh Portland events"
+          git push

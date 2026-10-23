@@ -1,0 +1,6 @@
+[
+ {"id":"paul-cauthen-20261023","title":"Paul Cauthen","date":"2026-10-23","time":"8:00 PM","venue":"Roseland Theater","category":"Music","adult":true,"tags":["concert","Friday","downtown"],"url":"https://www.roselandpdx.com/"},
+ {"id":"dadi-freyr-20261024","title":"Daði Freyr","date":"2026-10-24","time":"7:00 PM","venue":"Crystal Ballroom","category":"Music","adult":false,"tags":["concert","Saturday"],"url":"https://www.crystalballroompdx.com/"},
+ {"id":"theo-katzman-20261024","title":"Theo Katzman","date":"2026-10-24","time":"7:00 PM","venue":"Aladdin Theater","category":"Music","adult":false,"tags":["concert","Saturday"],"url":"https://www.aladdin-theater.com/"},
+ {"id":"ppp-20261024","title":"Pigeons Playing Ping Pong","date":"2026-10-24","time":"7:00 PM","venue":"Revolution Hall","category":"Music","adult":false,"tags":["concert","Saturday","SE"],"url":"https://www.revolutionhall.com/"}
+]

@@ -1,5 +1,25 @@
 [
   {
+    "id": "the-resistance-rise-of-the-shadowcell-20261023",
+    "title": "The Resistance: Rise of the Shadowcell",
+    "date": "2026-10-23",
+    "time": "10:00 PM",
+    "venue": "45 East",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-resistance-rise-of-the-shadowcell-portland-45-east-friday-october-23-2026-10-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for The Resistance: Rise of the Shadowcell at 45 East in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
     "id": "lenny-pearce-20261023",
     "title": "Lenny Pearce",
     "date": "2026-10-23",
@@ -11,13 +31,182 @@
     ],
     "adult": false,
     "tags": [
+      "Friday",
+      "Music",
+      "concert"
+    ],
+    "source": "JamBase",
+    "event_url": "https://www.travelportland.com/event/6a65fb96258ed6817282f668/",
+    "ticket_url": "https://portlandevents.org/tickets/lenny-pearce-portland-friday-october-23-2026-600-pm/",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Lenny Pearce at Arlene Schnitzer Concert Hall in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "yana-20261023",
+    "title": "Yana",
+    "date": "2026-10-23",
+    "time": "6:00 PM",
+    "venue": "Holocene",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/yana-portland-friday-october-23-2026-600-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Yana at Holocene in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "can-can-s-hitchcock-hotel-20261023",
+    "title": "Can Can's Hitchcock Hotel",
+    "date": "2026-10-23",
+    "time": "6:30 PM",
+    "venue": "Paris Theatre - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-friday-october-23-2026-630-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "portland-thorns-fc-vs-north-carolina-courage-20261023",
+    "title": "Portland Thorns FC vs. North Carolina Courage",
+    "date": "2026-10-23",
+    "time": "7:00 PM",
+    "venue": "Providence Park",
+    "category": "Sports",
+    "categories": [
+      "Sports",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-thorns-fc-vs-north-carolina-courage-portland-friday-october-23-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Portland Thorns FC vs. North Carolina Courage at Providence Park in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "tom-hamilton-20261023",
+    "title": "Tom Hamilton",
+    "date": "2026-10-23",
+    "time": "7:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
       "concert",
       "Friday"
     ],
     "source": "JamBase",
-    "event_url": "https://www.travelportland.com/event/6a65fb96258ed6817282f668/",
+    "event_url": "",
     "ticket_url": "",
     "source_url": ""
+  },
+  {
+    "id": "twin-peaks-a-conversation-with-the-stars-20261023",
+    "title": "Twin Peaks: A Conversation with The Stars",
+    "date": "2026-10-23",
+    "time": "7:10 PM",
+    "venue": "Aladdin Theater",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/twin-peaks-a-conversation-with-the-stars-portland-friday-october-23-2026-710-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Twin Peaks: A Conversation with The Stars at Aladdin Theater in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "oregon-symphony-kahane-still-copland-20261023",
+    "title": "Oregon Symphony: Kahane, Still & Copland",
+    "date": "2026-10-23",
+    "time": "7:30 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/oregon-symphony-kahane-still-and-copland-portland-friday-october-23-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Oregon Symphony: Kahane, Still & Copland at Arlene Schnitzer Concert Hall in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "paul-cauthen-20261023",
+    "title": "Paul Cauthen",
+    "date": "2026-10-23",
+    "time": "8:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Music",
+    "categories": [
+      "Art",
+      "Music",
+      "Nightlife"
+    ],
+    "adult": true,
+    "tags": [
+      "Art",
+      "Friday",
+      "concert",
+      "downtown"
+    ],
+    "source": "JamBase",
+    "event_url": "https://roselandpdx.com/event/paul-cauthen/roseland-theater/portland-oregon/",
+    "ticket_url": "https://portlandevents.org/tickets/paul-cauthen-portland-friday-october-23-2026-800-pm/",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Paul Cauthen at Roseland Theater in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "slow-pulp-20261023",
+    "title": "Slow Pulp",
+    "date": "2026-10-23",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/slow-pulp-portland-friday-october-23-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Slow Pulp at Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
   },
   {
     "id": "snuggle-20261023",
@@ -37,70 +226,6 @@
     ],
     "source": "JamBase",
     "event_url": "https://www.ticketmaster.com/slow-pulp-w-snuggle-portland-10-23-2026/event/Z7r9jZ1A70b3o",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "paul-cauthen-20261023",
-    "title": "Paul Cauthen",
-    "date": "2026-10-23",
-    "time": "8:00 PM",
-    "venue": "Roseland Theater",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Nightlife"
-    ],
-    "adult": true,
-    "tags": [
-      "concert",
-      "Friday",
-      "downtown"
-    ],
-    "source": "JamBase",
-    "event_url": "https://roselandpdx.com/event/paul-cauthen/roseland-theater/portland-oregon/",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "bedouine-20261023",
-    "title": "Bedouine",
-    "date": "2026-10-23",
-    "time": "9:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Friday"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "cut-chemist-20261023",
-    "title": "Cut Chemist",
-    "date": "2026-10-23",
-    "time": "9:00 PM",
-    "venue": "The Get Down",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Nightlife"
-    ],
-    "adult": true,
-    "tags": [
-      "concert",
-      "Friday"
-    ],
-    "source": "JamBase",
-    "event_url": "",
     "ticket_url": "",
     "source_url": ""
   },
@@ -126,16 +251,61 @@
     "source_url": ""
   },
   {
-    "id": "tom-hamilton-20261023",
-    "title": "Tom Hamilton",
+    "id": "violet-grohl-20261023",
+    "title": "Violet Grohl",
     "date": "2026-10-23",
-    "time": "7:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
+    "time": "8:00 PM",
+    "venue": "Star Theater Portland",
+    "category": "Art",
     "categories": [
-      "Music"
+      "Art"
     ],
     "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/violet-grohl-portland-friday-october-23-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Violet Grohl at Star Theater Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "bedouine-20261023",
+    "title": "Bedouine",
+    "date": "2026-10-23",
+    "time": "9:00 PM",
+    "venue": "Polaris Hall",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Nightlife",
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Friday",
+      "Other",
+      "concert"
+    ],
+    "source": "JamBase",
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/bedouine-portland-friday-october-23-2026-800-pm/",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Bedouine at Polaris Hall in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "cut-chemist-20261023",
+    "title": "Cut Chemist",
+    "date": "2026-10-23",
+    "time": "9:00 PM",
+    "venue": "The Get Down",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "adult": true,
     "tags": [
       "concert",
       "Friday"
@@ -146,221 +316,44 @@
     "source_url": ""
   },
   {
-    "id": "dadi-freyr-20261024",
-    "title": "Daði Freyr",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "venue": "Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday"
-    ],
-    "source": "JamBase",
-    "event_url": "https://www.axs.com/events/1383140/daoi-freyr-tickets",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "audien-20261024",
-    "title": "Audien",
-    "date": "2026-10-24",
-    "time": "10:00 PM",
-    "venue": "45 East",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Nightlife"
-    ],
-    "adult": true,
-    "tags": [
-      "concert",
-      "late night",
-      "Saturday"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "knox-20261024",
-    "title": "Knox",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "ppp-20261024",
-    "title": "Pigeons Playing Ping Pong + Sqwerv",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "venue": "Revolution Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday",
-      "SE"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "akeem-ali-20261024",
-    "title": "Akeem Ali",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "theo-katzman-20261024",
-    "title": "Theo Katzman",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "qdoc-20261023",
-    "title": "QDoc Film Festival",
+    "id": "juelz-artist-20261023",
+    "title": "Juelz - Artist",
     "date": "2026-10-23",
-    "endDate": "2026-10-25",
-    "time": "Various",
-    "venue": "Cinema 21",
+    "time": "9:00 PM",
+    "venue": "Realm - OR",
     "category": "Art",
     "categories": [
       "Art"
     ],
     "adult": false,
     "tags": [
-      "film",
-      "festival",
-      "LGBTQ+",
-      "weekend"
+      "Art"
     ],
-    "source": "Travel Portland",
-    "event_url": "https://www.travelportland.com/events/october/",
-    "ticket_url": "",
-    "source_url": ""
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/juelz-artist-portland-realm-or-friday-october-23-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Juelz - Artist at Realm - OR in Portland, OR. Ticket options may be available from verified providers."
   },
   {
-    "id": "great-pumpkin-run-20261024",
-    "title": "The Great Pumpkin Run",
-    "date": "2026-10-24",
-    "time": "See event",
-    "venue": "Sellwood Riverfront Park",
-    "category": "Sports",
-    "categories": [
-      "Sports",
-      "Outdoors",
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Halloween",
-      "run",
-      "Saturday"
-    ],
-    "source": "Travel Portland",
-    "event_url": "https://www.travelportland.com/events/october/",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "scaregrounds-20261023",
-    "title": "Oaks Park ScareGrounds",
+    "id": "tom-hamilton-band-20261023",
+    "title": "Tom Hamilton Band",
     "date": "2026-10-23",
-    "endDate": "2026-11-01",
-    "time": "See event",
-    "venue": "Oaks Amusement Park",
-    "category": "Weird",
+    "time": "9:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
     "categories": [
-      "Weird",
-      "Nightlife"
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Halloween",
-      "haunted",
-      "ongoing"
+      "Music"
     ],
-    "source": "Travel Portland",
-    "event_url": "https://www.travelportland.com/events/october/",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "haunted-corn-maze-20261023",
-    "title": "Haunted Corn Maze",
-    "date": "2026-10-23",
-    "endDate": "2026-10-30",
-    "time": "Evening",
-    "venue": "Bella Organic Pumpkin Patch & Winery",
-    "category": "Weird",
-    "categories": [
-      "Weird",
-      "Outdoors",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Halloween",
-      "haunted",
-      "corn maze"
-    ],
-    "source": "Travel Portland",
-    "event_url": "https://www.travelportland.com/events/october/",
-    "ticket_url": "",
-    "source_url": ""
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/tom-hamilton-band-portland-mississippi-studios-friday-october-23-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Tom Hamilton Band at Mississippi Studios in Portland, OR. Ticket options may be available from verified providers."
   },
   {
     "id": "wildwood-art-trail-20261023",
@@ -387,21 +380,23 @@
     "source_url": ""
   },
   {
-    "id": "dia-muertos-milagro-20261023",
-    "title": "Día de Los Muertos Festival: Marigolds y Memorias",
+    "id": "haunted-corn-maze-20261023",
+    "title": "Haunted Corn Maze",
     "date": "2026-10-23",
-    "endDate": "2026-11-10",
-    "time": "See event",
-    "venue": "Milagro – Miracle Theatre Group",
-    "category": "Art",
+    "endDate": "2026-10-30",
+    "time": "Evening",
+    "venue": "Bella Organic Pumpkin Patch & Winery",
+    "category": "Weird",
     "categories": [
-      "Art"
+      "Weird",
+      "Outdoors",
+      "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "culture",
-      "theater",
-      "ongoing"
+      "Halloween",
+      "haunted",
+      "corn maze"
     ],
     "source": "Travel Portland",
     "event_url": "https://www.travelportland.com/events/october/",
@@ -449,6 +444,241 @@
       "cabaret",
       "LGBTQ+",
       "weekend"
+    ],
+    "source": "Travel Portland",
+    "event_url": "https://www.travelportland.com/events/october/",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "dia-muertos-milagro-20261023",
+    "title": "Día de Los Muertos Festival: Marigolds y Memorias",
+    "date": "2026-10-23",
+    "endDate": "2026-11-10",
+    "time": "See event",
+    "venue": "Milagro – Miracle Theatre Group",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "culture",
+      "theater",
+      "ongoing"
+    ],
+    "source": "Travel Portland",
+    "event_url": "https://www.travelportland.com/events/october/",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "scaregrounds-20261023",
+    "title": "Oaks Park ScareGrounds",
+    "date": "2026-10-23",
+    "endDate": "2026-11-01",
+    "time": "See event",
+    "venue": "Oaks Amusement Park",
+    "category": "Weird",
+    "categories": [
+      "Weird",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Halloween",
+      "haunted",
+      "ongoing"
+    ],
+    "source": "Travel Portland",
+    "event_url": "https://www.travelportland.com/events/october/",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "qdoc-20261023",
+    "title": "QDoc Film Festival",
+    "date": "2026-10-23",
+    "endDate": "2026-10-25",
+    "time": "Various",
+    "venue": "Cinema 21",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "film",
+      "festival",
+      "LGBTQ+",
+      "weekend"
+    ],
+    "source": "Travel Portland",
+    "event_url": "https://www.travelportland.com/events/october/",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "audien-20261024",
+    "title": "Audien",
+    "date": "2026-10-24",
+    "time": "10:00 PM",
+    "venue": "45 East",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "adult": true,
+    "tags": [
+      "concert",
+      "late night",
+      "Saturday"
+    ],
+    "source": "JamBase",
+    "event_url": "",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "pride-and-prejudice-20261024",
+    "title": "Pride and Prejudice",
+    "date": "2026-10-24",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/pride-and-prejudice-portland-main-stage-at-portland-center-stage-saturday-october-24-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Pride and Prejudice at Main Stage At Portland Center Stage in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "dadi-freyr-20261024",
+    "title": "Daði Freyr",
+    "date": "2026-10-24",
+    "time": "7:00 PM",
+    "venue": "Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "concert",
+      "Saturday"
+    ],
+    "source": "JamBase",
+    "event_url": "https://www.axs.com/events/1383140/daoi-freyr-tickets",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "ppp-20261024",
+    "title": "Pigeons Playing Ping Pong + Sqwerv",
+    "date": "2026-10-24",
+    "time": "7:00 PM",
+    "venue": "Revolution Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "concert",
+      "Saturday",
+      "SE"
+    ],
+    "source": "JamBase",
+    "event_url": "",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "theo-katzman-20261024",
+    "title": "Theo Katzman",
+    "date": "2026-10-24",
+    "time": "7:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "concert",
+      "Saturday"
+    ],
+    "source": "JamBase",
+    "event_url": "",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "akeem-ali-20261024",
+    "title": "Akeem Ali",
+    "date": "2026-10-24",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "concert",
+      "Saturday"
+    ],
+    "source": "JamBase",
+    "event_url": "",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "knox-20261024",
+    "title": "Knox",
+    "date": "2026-10-24",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "concert",
+      "Saturday"
+    ],
+    "source": "JamBase",
+    "event_url": "",
+    "ticket_url": "",
+    "source_url": ""
+  },
+  {
+    "id": "great-pumpkin-run-20261024",
+    "title": "The Great Pumpkin Run",
+    "date": "2026-10-24",
+    "time": "See event",
+    "venue": "Sellwood Riverfront Park",
+    "category": "Sports",
+    "categories": [
+      "Sports",
+      "Outdoors",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Halloween",
+      "run",
+      "Saturday"
     ],
     "source": "Travel Portland",
     "event_url": "https://www.travelportland.com/events/october/",

@@ -1,1 +1,78 @@
-{"updatedAt":"2026-10-23T19:00:00Z","eventCount":21,"sources":[{"source":"Seed + live research","found":21,"ok":true}]}
+{
+  "updatedAt": "2026-10-23T20:21:03.773486+00:00",
+  "eventCount": 33,
+  "rawFound": 16,
+  "duplicatesWithinFresh": 1,
+  "sources": [
+    {
+      "source": "Travel Portland",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Travel Portland - Today",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Travel Portland - October",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Travel Portland - November",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Portland Events",
+      "found": 15,
+      "ok": true
+    },
+    {
+      "source": "PDX Pipeline",
+      "found": 1,
+      "ok": true
+    },
+    {
+      "source": "Shuffle Dating Portland",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Thursday Portland",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Revolution Hall",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Mississippi Studios",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Wonder Ballroom",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Aladdin Theater",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "Crystal Ballroom",
+      "found": 0,
+      "ok": true
+    },
+    {
+      "source": "45 East",
+      "found": 0,
+      "ok": true
+    }
+  ]
+}

@@ -9,7 +9,7 @@ from dateutil import parser as dtparse
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data/events.json'; SOURCES=ROOT/'scripts/sources.json'; META=ROOT/'data/meta.json'
 HEADERS={'User-Agent':'Mozilla/5.0 (compatible; PDX-IRL/0.3; +https://github.com/dartamus/pdx-irl)','Accept-Language':'en-US,en;q=0.9'}
-CAT_WORDS={'Music':['music','concert','band','dj','karaoke','singer','rock','pop','country','jazz','hip-hop'],'Singles':['singles','speed dating','dating','mixer','meet cute'],'Art':['art','gallery','museum','film','theater','theatre','dance','zine','poetry','book','design'],'Sports':['sports','game','match','run','race','soccer','basketball','hockey','roller derby','volleyball','timbers','thorns','winterhawks'],'Comedy':['comedy','comedian','stand-up','standup','improv'],'Food + Drink':['food','drink','beer','wine','dinner','tasting','brewery','cocktail','market'],'Nightlife':['nightlife','club','dance party','drag','cabaret','late night'],'Outdoors':['outdoor','hike','walk','run','park','trail','market'],'Weird':['halloween','haunted','ghost','oddities','weird','costume','paranormal','pumpkin']}
+CAT_WORDS={'Music':['music','concert','band','dj','karaoke','singer','rock','pop','country','jazz','hip-hop'],'Singles':['singles','single ','speed dating','dating','mixer','meet cute','matchmaking','delete the apps'],'Art':['art','gallery','museum','film','theater','theatre','dance','zine','poetry','book','design'],'Sports':['sports','game','match','run','race','soccer','basketball','hockey','roller derby','volleyball','timbers','thorns','winterhawks'],'Comedy':['comedy','comedian','stand-up','standup','improv'],'Food + Drink':['food','drink','beer','wine','dinner','tasting','brewery','cocktail','market'],'Nightlife':['nightlife','club','dance party','drag','cabaret','late night'],'Outdoors':['outdoor','hike','walk','run','park','trail','market'],'Weird':['halloween','haunted','ghost','oddities','weird','costume','paranormal','pumpkin']}
 MONTHS='January February March April May June July August September October November December Jan Feb Mar Apr May Jun Jul Aug Sep Sept Oct Nov Dec'.split()
 
 def slug(s): return re.sub(r'-+','-',re.sub(r'[^a-z0-9]+','-',s.lower())).strip('-')[:70]
@@ -125,6 +125,12 @@ def scrape(src):
  adapter=src.get('adapter','jsonld'); out=jsonld(soup,src)
  if adapter in ('travel_portland','local_radar'): out+=card_candidates(soup,src)
  elif adapter=='portland_events': out+=portland_events(soup,src)
+ elif adapter in ('pdx_pipeline','shuffle_dating','thursday_portland'):
+  extra=card_candidates(soup,src)
+  if adapter in ('shuffle_dating','thursday_portland'):
+   for e in extra:
+    e['categories']=sorted(set(['Singles','Social']+e.get('categories',[]))); e['category']='Singles'; e['tags']=sorted(set(['Singles','Social']+e.get('tags',[])))[:8]; e['source_url']=src['url']
+  out+=extra
  return out
 
 def key(e):return(re.sub(r'\W+','',e.get('title','').lower()),e.get('date',''),re.sub(r'\W+','',e.get('venue','').lower()))

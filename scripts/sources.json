@@ -1,9 +1,12 @@
 [
   {"name":"Travel Portland","url":"https://www.travelportland.com/events/","adapter":"travel_portland"},
+  {"name":"Travel Portland - Today","url":"https://www.travelportland.com/events/things-to-do-in-portland-today/","adapter":"travel_portland"},
   {"name":"Travel Portland - October","url":"https://www.travelportland.com/events/october/","adapter":"travel_portland"},
   {"name":"Travel Portland - November","url":"https://www.travelportland.com/events/november/","adapter":"travel_portland"},
   {"name":"Portland Events","url":"https://portlandevents.org/calendar/","adapter":"portland_events"},
-  {"name":"The Local Radar","url":"https://thelocalradar.com/portland/october-2026/","adapter":"local_radar"},
+  {"name":"PDX Pipeline","url":"https://www.pdxpipeline.com/","adapter":"pdx_pipeline"},
+  {"name":"Shuffle Dating Portland","url":"https://shuffle.dating/cities/pdx","adapter":"shuffle_dating"},
+  {"name":"Thursday Portland","url":"https://events.getthursday.com/portland/","adapter":"thursday_portland"},
   {"name":"Revolution Hall","url":"https://www.revolutionhall.com/","adapter":"jsonld"},
   {"name":"Mississippi Studios","url":"https://mississippistudios.com/","adapter":"jsonld"},
   {"name":"Wonder Ballroom","url":"https://wonderballroom.com/","adapter":"jsonld"},

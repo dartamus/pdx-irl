@@ -4,26 +4,27 @@
 
 A fast, funky Portland event discovery app built to answer one question: **what cool shit is happening?**
 
-## v0.1
+## v0.2 — Content Engine
+
 - Today / Tonight / Weekend / Upcoming
-- Category, search, and 21+ filters
+- Multi-category filtering, search, and 21+ filter
 - Want to Go + Attended stored locally
-- Add-to-calendar (.ics)
+- Calendar export
 - Surprise Me
-- Installable PWA foundation
-- Event data separated into `data/events.json`
+- 20+ current seed events while the automated engine ramps up
+- Automated event ingestion from Portland event/venue pages using JSON-LD
+- Normalization + deduplication
+- Daily refresh plus a Thursday Weekend Drop refresh via GitHub Actions
+- `data/meta.json` freshness/status metadata
 
-## Run locally
-Because the app fetches JSON, serve the folder instead of double-clicking `index.html`:
+## How event refresh works
 
-```bash
-python3 -m http.server 8000
-```
+`.github/workflows/refresh-events.yml` runs `scripts/refresh_events.py`. The script checks every page in `scripts/sources.json`, extracts structured Event data, normalizes categories and 21+ signals, deduplicates records, and updates `data/events.json`.
 
-Then open `http://localhost:8000`.
+To add another source, add its calendar URL to `scripts/sources.json`. Pages that publish schema.org Event / JSON-LD work best.
+
+You can also run the refresh manually from **GitHub → Actions → Refresh Portland events → Run workflow**.
 
 ## GitHub Pages
-Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
 
-## Next
-Automated multi-source event ingestion, normalization, deduplication, richer filters, calendar connection, and personalized recommendations.
+Serve from `main` / root.

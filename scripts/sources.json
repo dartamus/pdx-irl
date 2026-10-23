@@ -1,10 +1,13 @@
 [
-  {"name":"Travel Portland - October","url":"https://www.travelportland.com/events/october/"},
-  {"name":"Travel Portland - November","url":"https://www.travelportland.com/events/november/"},
-  {"name":"Revolution Hall","url":"https://www.revolutionhall.com/"},
-  {"name":"Mississippi Studios","url":"https://mississippistudios.com/"},
-  {"name":"Wonder Ballroom","url":"https://wonderballroom.com/"},
-  {"name":"Aladdin Theater","url":"https://www.aladdin-theater.com/"},
-  {"name":"Crystal Ballroom","url":"https://www.crystalballroompdx.com/"},
-  {"name":"45 East","url":"https://www.45eastpdx.com/"}
+  {"name":"Travel Portland","url":"https://www.travelportland.com/events/","adapter":"travel_portland"},
+  {"name":"Travel Portland - October","url":"https://www.travelportland.com/events/october/","adapter":"travel_portland"},
+  {"name":"Travel Portland - November","url":"https://www.travelportland.com/events/november/","adapter":"travel_portland"},
+  {"name":"Portland Events","url":"https://portlandevents.org/calendar/","adapter":"portland_events"},
+  {"name":"The Local Radar","url":"https://thelocalradar.com/portland/october-2026/","adapter":"local_radar"},
+  {"name":"Revolution Hall","url":"https://www.revolutionhall.com/","adapter":"jsonld"},
+  {"name":"Mississippi Studios","url":"https://mississippistudios.com/","adapter":"jsonld"},
+  {"name":"Wonder Ballroom","url":"https://wonderballroom.com/","adapter":"jsonld"},
+  {"name":"Aladdin Theater","url":"https://www.aladdin-theater.com/","adapter":"jsonld"},
+  {"name":"Crystal Ballroom","url":"https://www.crystalballroompdx.com/","adapter":"jsonld"},
+  {"name":"45 East","url":"https://www.45eastpdx.com/","adapter":"jsonld"}
 ]

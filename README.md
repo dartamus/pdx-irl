@@ -2,29 +2,28 @@
 
 **Portland is better offline.**
 
-A fast, funky Portland event discovery app built to answer one question: **what cool shit is happening?**
+A fast, funky, mobile-first Portland event discovery PWA built to answer one question: **what cool shit is happening?**
 
-## v0.2 — Content Engine
+## v0.3.1.1 — Real Event Engine + iPhone polish
 
 - Today / Tonight / Weekend / Upcoming
 - Multi-category filtering, search, and 21+ filter
-- Want to Go + Attended stored locally
-- Calendar export
+- Want to Go + Attended saved locally
+- Calendar export (.ics)
 - Surprise Me
-- 20+ current seed events while the automated engine ramps up
-- Automated event ingestion from Portland event/venue pages using JSON-LD
-- Normalization + deduplication
-- Daily refresh plus a Thursday Weekend Drop refresh via GitHub Actions
-- `data/meta.json` freshness/status metadata
+- iPhone safe areas, sticky mobile navigation, touch-sized controls
+- Installable PWA icons + standalone mode
+- Scheduled GitHub Actions event refresh
+- Source-specific collectors for Travel Portland and broader Portland calendars, with JSON-LD fallback for venues
+- Normalization, multi-category tagging, 21+ detection, and deduplication
+- Source-by-source counts in Actions logs
 
-## How event refresh works
+## Event refresh
 
-`.github/workflows/refresh-events.yml` runs `scripts/refresh_events.py`. The script checks every page in `scripts/sources.json`, extracts structured Event data, normalizes categories and 21+ signals, deduplicates records, and updates `data/events.json`.
+`.github/workflows/refresh-events.yml` runs the collector daily and Thursday afternoon. You can also run **Refresh Portland events** manually from GitHub Actions.
 
-To add another source, add its calendar URL to `scripts/sources.json`. Pages that publish schema.org Event / JSON-LD work best.
+The event engine is intentionally adapter-based. Websites change. A source failing should not take down the rest of the feed; its failure is reported in `data/meta.json` and the Actions log.
 
-You can also run the refresh manually from **GitHub → Actions → Refresh Portland events → Run workflow**.
+## Install on iPhone
 
-## GitHub Pages
-
-Serve from `main` / root.
+Open the GitHub Pages site in Safari → Share → **Add to Home Screen**. PDX IRL launches in standalone mode.

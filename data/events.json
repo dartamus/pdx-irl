@@ -1,360 +1,5 @@
 [
   {
-    "id": "audien-20261024",
-    "title": "Audien",
-    "date": "2026-10-24",
-    "time": "10:00 PM",
-    "venue": "45 East",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Nightlife",
-      "Other"
-    ],
-    "adult": true,
-    "tags": [
-      "Other",
-      "Saturday",
-      "concert",
-      "late night"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/audien-portland-saturday-october-24-2026-1000-pm/",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Audien at 45 East in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "pride-and-prejudice-20261024",
-    "title": "Pride and Prejudice",
-    "date": "2026-10-24",
-    "time": "2:00 PM",
-    "venue": "Main Stage At Portland Center Stage",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pride-and-prejudice-portland-main-stage-at-portland-center-stage-saturday-october-24-2026-2-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Pride and Prejudice at Main Stage At Portland Center Stage in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "uncle-jumbo-20261024",
-    "title": "Uncle Jumbo",
-    "date": "2026-10-24",
-    "time": "2:00 PM",
-    "venue": "Patricia Reser Center for the Arts",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/uncle-jumbo-beaverton-patricia-reser-center-for-the-arts-saturday-october-24-2026-2-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Uncle Jumbo at Patricia Reser Center for the Arts in Beaverton, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "dadi-freyr-20261024",
-    "title": "Daði Freyr",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "venue": "Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday"
-    ],
-    "source": "JamBase",
-    "event_url": "https://www.axs.com/events/1383140/daoi-freyr-tickets",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "pigeons-playing-ping-pong-20261024",
-    "title": "Pigeons Playing Ping Pong",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pigeons-playing-ping-pong-portland-saturday-october-24-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Pigeons Playing Ping Pong at Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "ppp-20261024",
-    "title": "Pigeons Playing Ping Pong + Sqwerv",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "venue": "Revolution Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday",
-      "SE"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "portland-state-vikings-volleyball-vs-northern-colorado-bears-20261024",
-    "title": "Portland State Vikings Volleyball vs. Northern Colorado Bears",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "venue": "Portland State's Viking Pavilion",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-volleyball-vs-northern-colorado-bears-portland-portland-states-viking-pavilion-saturday-october-24-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Portland State Vikings Volleyball vs. Northern Colorado Bears at Portland State's Viking Pavilion in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "theo-katzman-20261024",
-    "title": "Theo Katzman",
-    "date": "2026-10-24",
-    "time": "7:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "oregon-symphony-kahane-still-copland-20261024",
-    "title": "Oregon Symphony: Kahane, Still & Copland",
-    "date": "2026-10-24",
-    "time": "7:30 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/oregon-symphony-kahane-still-and-copland-portland-saturday-october-24-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Oregon Symphony: Kahane, Still & Copland at Arlene Schnitzer Concert Hall in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "portland-timbers-vs-charlotte-fc-20261024",
-    "title": "Portland Timbers vs. Charlotte FC",
-    "date": "2026-10-24",
-    "time": "7:30 PM",
-    "venue": "Providence Park",
-    "category": "Sports",
-    "categories": [
-      "Sports",
-      "Outdoors"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports",
-      "Outdoors"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-timbers-vs-charlotte-fc-portland-saturday-october-24-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Portland Timbers vs. Charlotte FC at Providence Park in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "akeem-ali-20261024",
-    "title": "Akeem Ali",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Saturday",
-      "concert"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/akeem-ali-portland-saturday-october-24-2026-800-pm/",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Akeem Ali at Hawthorne Theatre in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "dadi-freyr-20261024",
-    "title": "Dadi Freyr",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dadi-freyr-portland-saturday-october-24-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Dadi Freyr at McMenamins Crystal Ballroom in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "knox-20261024",
-    "title": "Knox",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "concert",
-      "Saturday"
-    ],
-    "source": "JamBase",
-    "event_url": "",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
-    "id": "knox-artist-20261024",
-    "title": "Knox - Artist",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/knox-artist-portland-saturday-october-24-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Knox - Artist at Wonder Ballroom in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "laura-veirs-20261024",
-    "title": "Laura Veirs",
-    "date": "2026-10-24",
-    "time": "8:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/laura-veirs-portland-saturday-october-24-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Laura Veirs at Polaris Hall in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "cid-20261024",
-    "title": "CID",
-    "date": "2026-10-24",
-    "time": "9:30 PM",
-    "venue": "Realm - OR",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/cid-portland-realm-or-saturday-october-24-2026-9-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for CID at Realm - OR in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "great-pumpkin-run-20261024",
-    "title": "The Great Pumpkin Run",
-    "date": "2026-10-24",
-    "time": "See event",
-    "venue": "Sellwood Riverfront Park",
-    "category": "Sports",
-    "categories": [
-      "Sports",
-      "Outdoors",
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Halloween",
-      "run",
-      "Saturday"
-    ],
-    "source": "Travel Portland",
-    "event_url": "https://www.travelportland.com/events/october/",
-    "ticket_url": "",
-    "source_url": ""
-  },
-  {
     "id": "sinferno-cabaret-20261025",
     "title": "Sinferno Cabaret",
     "date": "2026-10-25",
@@ -541,6 +186,74 @@
     "description": "Portland Events lists ticket options for Dillinger Escape Plan at Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
   },
   {
+    "id": "this-week-in-portland-halloween-events-festivals-music-comedy-trivia-t-20261025",
+    "title": "THIS WEEK in Portland: Halloween Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
+    "date": "2026-10-25",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy",
+      "Weird"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "THIS WEEK in Portland: Halloween Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Oct 25, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read M"
+  },
+  {
+    "id": "win-tickets-100-new-year-s-eve-2026-27-w-garcia-birthday-band-mission--20261025",
+    "title": "Win Tickets ($100): New Year’s Eve 2026/27 w/ Garcia Birthday Band @ Mission Theater (SOLD OUT) | Celebrating the Grateful Dead Universe",
+    "date": "2026-10-25",
+    "time": "See event",
+    "venue": "NW Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($100): New Year’s Eve 2026/27 w/ Garcia Birthday Band @ Mission Theater (SOLD OUT) | Celebrating the Grateful Dead Universe Oct 25, 2026 | events , music , NW Portland December 31 - Garcia Birthday Band, based in Portland Oregon, isn't your mother"
+  },
+  {
+    "id": "win-tickets-110-94-7fm-knrk-presents-december-to-remember-w-cannons-cr-20261025",
+    "title": "Win Tickets ($110): 94/7FM KNRK presents “December to Remember” w/ Cannons @ Crystal Ballroom | Electro-Pop",
+    "date": "2026-10-25",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($110): 94/7FM KNRK presents “December to Remember” w/ Cannons @ Crystal Ballroom | Electro-Pop Oct 25, 2026 | All Ages , downtown , music December 7 - Los Angeles-based trio Cannons, comprises Michelle Joy (vocals), Ryan Clapham (lead guitar), and"
+  },
+  {
     "id": "katsura-sunshine-s-rakugo-20261026",
     "title": "Katsura Sunshine's Rakugo",
     "date": "2026-10-26",
@@ -679,5 +392,247 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Portland Events lists ticket options for We Are Scientists at Mississippi Studios in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "karaoke-from-hell-20261026",
+    "title": "Karaoke From Hell",
+    "date": "2026-10-26",
+    "time": "9:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/karaoke-from-hell-portland-dantes-caffe-italiano-monday-october-26-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Karaoke From Hell at Dante's Caffe Italiano in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "catch-your-breath-20261027",
+    "title": "Catch Your Breath",
+    "date": "2026-10-27",
+    "time": "7:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/catch-your-breath-portland-tuesday-october-27-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Catch Your Breath at Roseland Theater in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "science-on-tap-k9-conservationists-dogs-helping-wolf-research-20261027",
+    "title": "Science on Tap: K9 Conservationists - Dogs Helping Wolf Research",
+    "date": "2026-10-27",
+    "time": "7:00 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/science-on-tap-k9-conservationists-dogs-helping-wolf-research-portland-tuesday-october-27-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Science on Tap: K9 Conservationists - Dogs Helping Wolf Research at Alberta Rose Theatre in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "imho-live-20261027",
+    "title": "IMHO: Live!",
+    "date": "2026-10-27",
+    "time": "7:30 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/imho-live-portland-helium-comedy-club-portland-tuesday-october-27-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for IMHO: Live! at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "a-twink-and-a-redhead-20261027",
+    "title": "A Twink and a Redhead",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/a-twink-and-a-redhead-portland-tuesday-october-27-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for A Twink and a Redhead at Hawthorne Theatre in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "blitzkid-20261027",
+    "title": "Blitzkid",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/blitzkid-portland-tuesday-october-27-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Blitzkid at Dante's Caffe Italiano in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "bunii-20261027",
+    "title": "Bunii",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/bunii-portland-wonder-ballroom-tuesday-october-27-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Bunii at Wonder Ballroom in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "butttootking-20261027",
+    "title": "Butttootking",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/butttootking-portland-tuesday-october-27-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Butttootking at McMenamins Crystal Ballroom in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "dermot-kennedy-20261027",
+    "title": "Dermot Kennedy",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dermot-kennedy-portland-tuesday-october-27-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Dermot Kennedy at Moda Center at the Rose Quarter in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "joy-oladokun-20261027",
+    "title": "Joy Oladokun",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/joy-oladokun-portland-aladdin-theater-tuesday-october-27-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Joy Oladokun at Aladdin Theater in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "mon-laferte-20261027",
+    "title": "Mon Laferte",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/mon-laferte-portland-tuesday-october-27-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Mon Laferte at Arlene Schnitzer Concert Hall in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "the-tubs-20261027",
+    "title": "The Tubs",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-tubs-portland-mississippi-studios-tuesday-october-27-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for The Tubs at Mississippi Studios in Portland, OR. Ticket options may be available from verified providers."
   }
 ]

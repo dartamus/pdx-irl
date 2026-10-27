@@ -1,259 +1,5 @@
 [
   {
-    "id": "sinferno-cabaret-20261025",
-    "title": "Sinferno Cabaret",
-    "date": "2026-10-25",
-    "time": "10:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Nightlife",
-    "categories": [
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/sinferno-cabaret-portland-dantes-caffe-italiano-sunday-october-25-2026-10-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Sinferno Cabaret at Dante's Caffe Italiano in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "oregon-symphony-kahane-still-copland-20261025",
-    "title": "Oregon Symphony: Kahane, Still & Copland",
-    "date": "2026-10-25",
-    "time": "2:00 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/oregon-symphony-kahane-still-and-copland-portland-sunday-october-25-2026-200-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Oregon Symphony: Kahane, Still & Copland at Arlene Schnitzer Concert Hall in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "pride-and-prejudice-20261025",
-    "title": "Pride and Prejudice",
-    "date": "2026-10-25",
-    "time": "2:00 PM",
-    "venue": "Main Stage At Portland Center Stage",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pride-and-prejudice-portland-main-stage-at-portland-center-stage-sunday-october-25-2026-2-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Pride and Prejudice at Main Stage At Portland Center Stage in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "steve-wrigley-20261025",
-    "title": "Steve Wrigley",
-    "date": "2026-10-25",
-    "time": "4:00 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/steve-wrigley-portland-sunday-october-25-2026-400-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Steve Wrigley at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "logic-g-eazy-20261025",
-    "title": "Logic & G-Eazy",
-    "date": "2026-10-25",
-    "time": "7:00 PM",
-    "venue": "Moda Center at the Rose Quarter",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/logic-and-g-eazy-portland-sunday-october-25-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Logic & G-Eazy at Moda Center at the Rose Quarter in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "steve-furey-20261025",
-    "title": "Steve Furey",
-    "date": "2026-10-25",
-    "time": "7:00 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/steve-furey-portland-sunday-october-25-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Steve Furey at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "jon-delcollo-20261025",
-    "title": "Jon DelCollo",
-    "date": "2026-10-25",
-    "time": "7:30 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jon-delcollo-portland-neon-room-at-helium-comedy-club-portland-sunday-october-25-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Jon DelCollo at Neon Room at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "casual-eddie-20261025",
-    "title": "Casual Eddie",
-    "date": "2026-10-25",
-    "time": "8:00 PM",
-    "venue": "Showdown Saloon",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/casual-eddie-portland-showdown-saloon-sunday-october-25-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Casual Eddie at Showdown Saloon in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "dillinger-escape-plan-20261025",
-    "title": "Dillinger Escape Plan",
-    "date": "2026-10-25",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dillinger-escape-plan-portland-sunday-october-25-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Dillinger Escape Plan at Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "this-week-in-portland-halloween-events-festivals-music-comedy-trivia-t-20261025",
-    "title": "THIS WEEK in Portland: Halloween Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
-    "date": "2026-10-25",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy",
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy",
-      "Weird"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "THIS WEEK in Portland: Halloween Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Oct 25, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read M"
-  },
-  {
-    "id": "win-tickets-100-new-year-s-eve-2026-27-w-garcia-birthday-band-mission--20261025",
-    "title": "Win Tickets ($100): New Year’s Eve 2026/27 w/ Garcia Birthday Band @ Mission Theater (SOLD OUT) | Celebrating the Grateful Dead Universe",
-    "date": "2026-10-25",
-    "time": "See event",
-    "venue": "NW Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "Win Tickets ($100): New Year’s Eve 2026/27 w/ Garcia Birthday Band @ Mission Theater (SOLD OUT) | Celebrating the Grateful Dead Universe Oct 25, 2026 | events , music , NW Portland December 31 - Garcia Birthday Band, based in Portland Oregon, isn't your mother"
-  },
-  {
-    "id": "win-tickets-110-94-7fm-knrk-presents-december-to-remember-w-cannons-cr-20261025",
-    "title": "Win Tickets ($110): 94/7FM KNRK presents “December to Remember” w/ Cannons @ Crystal Ballroom | Electro-Pop",
-    "date": "2026-10-25",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "Win Tickets ($110): 94/7FM KNRK presents “December to Remember” w/ Cannons @ Crystal Ballroom | Electro-Pop Oct 25, 2026 | All Ages , downtown , music December 7 - Los Angeles-based trio Cannons, comprises Michelle Joy (vocals), Ryan Clapham (lead guitar), and"
-  },
-  {
     "id": "katsura-sunshine-s-rakugo-20261026",
     "title": "Katsura Sunshine's Rakugo",
     "date": "2026-10-26",
@@ -576,6 +322,26 @@
     "description": "Portland Events lists ticket options for Dermot Kennedy at Moda Center at the Rose Quarter in Portland, OR. Ticket options may be available from verified providers."
   },
   {
+    "id": "francis-of-delirium-20261027",
+    "title": "Francis of Delirium",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Show Bar At Revolution Hall - Portland",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/francis-of-delirium-portland-tuesday-october-27-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Francis of Delirium at Show Bar At Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
     "id": "joy-oladokun-20261027",
     "title": "Joy Oladokun",
     "date": "2026-10-27",
@@ -634,5 +400,109 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Portland Events lists ticket options for The Tubs at Mississippi Studios in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "weatherday-20261027",
+    "title": "Weatherday",
+    "date": "2026-10-27",
+    "time": "8:00 PM",
+    "venue": "Polaris Hall",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/weatherday-portland-tuesday-october-27-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Weatherday at Polaris Hall in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "basement-20261028",
+    "title": "Basement",
+    "date": "2026-10-28",
+    "time": "7:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/basement-portland-wednesday-october-28-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Basement at Roseland Theater in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "portland-winterhawks-vs-vancouver-giants-20261028",
+    "title": "Portland Winterhawks vs. Vancouver Giants",
+    "date": "2026-10-28",
+    "time": "7:00 PM",
+    "venue": "Portland Veterans Memorial Coliseum",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-vancouver-giants-portland-wednesday-october-28-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Portland Winterhawks vs. Vancouver Giants at Portland Veterans Memorial Coliseum in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "shannon-fiedler-20261028",
+    "title": "Shannon Fiedler",
+    "date": "2026-10-28",
+    "time": "7:00 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/shannon-fiedler-portland-neon-room-at-helium-comedy-club-portland-wednesday-october-28-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Shannon Fiedler at Neon Room at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "j-t-parr-20261028",
+    "title": "J.T. Parr",
+    "date": "2026-10-28",
+    "time": "7:30 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/jt-parr-portland-wednesday-october-28-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for J.T. Parr at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
   }
 ]

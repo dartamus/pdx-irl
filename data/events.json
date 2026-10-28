@@ -1,165 +1,5 @@
 [
   {
-    "id": "katsura-sunshine-s-rakugo-20261026",
-    "title": "Katsura Sunshine's Rakugo",
-    "date": "2026-10-26",
-    "time": "7:00 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/katsura-sunshines-rakugo-portland-alberta-rose-theatre-monday-october-26-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Katsura Sunshine's Rakugo at Alberta Rose Theatre in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "you-should-be-dancing-a-tribute-to-the-bee-gees-20261026",
-    "title": "You Should Be Dancing - A Tribute to the Bee Gees",
-    "date": "2026-10-26",
-    "time": "7:30 PM",
-    "venue": "Aladdin Theater",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/you-should-be-dancing-a-tribute-to-the-bee-gees-portland-monday-october-26-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for You Should Be Dancing - A Tribute to the Bee Gees at Aladdin Theater in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "george-clanton-20261026",
-    "title": "George Clanton",
-    "date": "2026-10-26",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/george-clanton-portland-revolution-hall-portland-monday-october-26-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for George Clanton at Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "julia-jacklin-20261026",
-    "title": "Julia Jacklin",
-    "date": "2026-10-26",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/julia-jacklin-portland-monday-october-26-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Julia Jacklin at McMenamins Crystal Ballroom in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "kota-the-friend-20261026",
-    "title": "KOTA The Friend",
-    "date": "2026-10-26",
-    "time": "8:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/kota-the-friend-portland-hawthorne-theatre-monday-october-26-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for KOTA The Friend at Hawthorne Theatre in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "stanley-simmons-20261026",
-    "title": "Stanley Simmons",
-    "date": "2026-10-26",
-    "time": "8:00 PM",
-    "venue": "Holocene",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/stanley-simmons-portland-holocene-monday-october-26-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Stanley Simmons at Holocene in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "we-are-scientists-20261026",
-    "title": "We Are Scientists",
-    "date": "2026-10-26",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/we-are-scientists-portland-monday-october-26-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for We Are Scientists at Mississippi Studios in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "karaoke-from-hell-20261026",
-    "title": "Karaoke From Hell",
-    "date": "2026-10-26",
-    "time": "9:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/karaoke-from-hell-portland-dantes-caffe-italiano-monday-october-26-2026-9-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Karaoke From Hell at Dante's Caffe Italiano in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
     "id": "catch-your-breath-20261027",
     "title": "Catch Your Breath",
     "date": "2026-10-27",
@@ -504,5 +344,261 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Portland Events lists ticket options for J.T. Parr at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "la-velada-a-flamenco-performance-by-marta-galvez-20261028",
+    "title": "La Velada - A Flamenco Performance by Marta Galvez",
+    "date": "2026-10-28",
+    "time": "7:30 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/la-velada-a-flamenco-performance-by-marta-galvez-portland-wednesday-october-28-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for La Velada - A Flamenco Performance by Marta Galvez at Alberta Rose Theatre in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "oregon-symphony-psycho-in-concert-20261028",
+    "title": "Oregon Symphony: Psycho In Concert",
+    "date": "2026-10-28",
+    "time": "7:30 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/oregon-symphony-psycho-in-concert-portland-wednesday-october-28-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Oregon Symphony: Psycho In Concert at Arlene Schnitzer Concert Hall in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "team-dresch-20261028",
+    "title": "Team Dresch",
+    "date": "2026-10-28",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/team-dresch-portland-wednesday-october-28-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Team Dresch at Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "this-week-in-portland-halloween-events-festivals-music-comedy-trivia-t-20261028",
+    "title": "THIS WEEK in Portland: Halloween Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
+    "date": "2026-10-28",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy",
+      "Weird"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "THIS WEEK in Portland: Halloween Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Oct 28, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read M"
+  },
+  {
+    "id": "kinky-creatures-market-20261029",
+    "title": "Kinky Creatures Market",
+    "date": "2026-10-29",
+    "time": "6:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Food + Drink",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Food + Drink",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/kinky-creatures-market-portland-hawthorne-theatre-thursday-october-29-2026-6-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Kinky Creatures Market at Hawthorne Theatre in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "portland-state-vikings-volleyball-vs-eastern-washington-eagles-20261029",
+    "title": "Portland State Vikings Volleyball vs. Eastern Washington Eagles",
+    "date": "2026-10-29",
+    "time": "7:00 PM",
+    "venue": "Portland State's Viking Pavilion",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-volleyball-vs-eastern-washington-eagles-portland-portland-states-viking-pavilion-thursday-october-29-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Portland State Vikings Volleyball vs. Eastern Washington Eagles at Portland State's Viking Pavilion in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "portland-trail-blazers-vs-memphis-grizzlies-20261029",
+    "title": "Portland Trail Blazers vs. Memphis Grizzlies",
+    "date": "2026-10-29",
+    "time": "7:00 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-trail-blazers-vs-memphis-grizzlies-portland-moda-center-at-the-rose-quarter-thursday-october-29-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Portland Trail Blazers vs. Memphis Grizzlies at Moda Center at the Rose Quarter in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "protomartyr-20261029",
+    "title": "Protomartyr",
+    "date": "2026-10-29",
+    "time": "7:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/protomartyr-portland-thursday-october-29-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Protomartyr at Aladdin Theater in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "bryson-tiller-20261029",
+    "title": "Bryson Tiller",
+    "date": "2026-10-29",
+    "time": "7:30 PM",
+    "venue": "Portland Veterans Memorial Coliseum",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/bryson-tiller-portland-thursday-october-29-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Bryson Tiller at Portland Veterans Memorial Coliseum in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "marlon-wayans-20261029",
+    "title": "Marlon Wayans",
+    "date": "2026-10-29",
+    "time": "7:30 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/marlon-wayans-portland-helium-comedy-club-portland-thursday-october-29-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Marlon Wayans at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "nate-varrone-20261029",
+    "title": "Nate Varrone",
+    "date": "2026-10-29",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/nate-varrone-portland-mississippi-studios-thursday-october-29-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Nate Varrone at Mississippi Studios in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "zac-townsend-20261029",
+    "title": "Zac Townsend",
+    "date": "2026-10-29",
+    "time": "8:00 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/zac-townsend-portland-neon-room-at-helium-comedy-club-portland-thursday-october-29-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Portland Events lists ticket options for Zac Townsend at Neon Room at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
   }
 ]

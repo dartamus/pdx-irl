@@ -1,267 +1,5 @@
 [
   {
-    "id": "catch-your-breath-20261027",
-    "title": "Catch Your Breath",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "venue": "Roseland Theater",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/catch-your-breath-portland-tuesday-october-27-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Catch Your Breath at Roseland Theater in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "science-on-tap-k9-conservationists-dogs-helping-wolf-research-20261027",
-    "title": "Science on Tap: K9 Conservationists - Dogs Helping Wolf Research",
-    "date": "2026-10-27",
-    "time": "7:00 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/science-on-tap-k9-conservationists-dogs-helping-wolf-research-portland-tuesday-october-27-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Science on Tap: K9 Conservationists - Dogs Helping Wolf Research at Alberta Rose Theatre in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "imho-live-20261027",
-    "title": "IMHO: Live!",
-    "date": "2026-10-27",
-    "time": "7:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/imho-live-portland-helium-comedy-club-portland-tuesday-october-27-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for IMHO: Live! at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "a-twink-and-a-redhead-20261027",
-    "title": "A Twink and a Redhead",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/a-twink-and-a-redhead-portland-tuesday-october-27-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for A Twink and a Redhead at Hawthorne Theatre in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "blitzkid-20261027",
-    "title": "Blitzkid",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/blitzkid-portland-tuesday-october-27-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Blitzkid at Dante's Caffe Italiano in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "bunii-20261027",
-    "title": "Bunii",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/bunii-portland-wonder-ballroom-tuesday-october-27-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Bunii at Wonder Ballroom in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "butttootking-20261027",
-    "title": "Butttootking",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/butttootking-portland-tuesday-october-27-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Butttootking at McMenamins Crystal Ballroom in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "dermot-kennedy-20261027",
-    "title": "Dermot Kennedy",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Moda Center at the Rose Quarter",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dermot-kennedy-portland-tuesday-october-27-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Dermot Kennedy at Moda Center at the Rose Quarter in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "francis-of-delirium-20261027",
-    "title": "Francis of Delirium",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Show Bar At Revolution Hall - Portland",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/francis-of-delirium-portland-tuesday-october-27-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Francis of Delirium at Show Bar At Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "joy-oladokun-20261027",
-    "title": "Joy Oladokun",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/joy-oladokun-portland-aladdin-theater-tuesday-october-27-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Joy Oladokun at Aladdin Theater in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "mon-laferte-20261027",
-    "title": "Mon Laferte",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/mon-laferte-portland-tuesday-october-27-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Mon Laferte at Arlene Schnitzer Concert Hall in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "the-tubs-20261027",
-    "title": "The Tubs",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-tubs-portland-mississippi-studios-tuesday-october-27-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for The Tubs at Mississippi Studios in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "weatherday-20261027",
-    "title": "Weatherday",
-    "date": "2026-10-27",
-    "time": "8:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/weatherday-portland-tuesday-october-27-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Weatherday at Polaris Hall in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
     "id": "basement-20261028",
     "title": "Basement",
     "date": "2026-10-28",
@@ -413,16 +151,16 @@
     "venue": "Portland",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Weird"
     ],
     "event_url": "",
@@ -484,12 +222,14 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/portland-trail-blazers-vs-memphis-grizzlies-portland-moda-center-at-the-rose-quarter-thursday-october-29-2026-7-00-pm/",
@@ -505,11 +245,13 @@
     "venue": "Aladdin Theater",
     "category": "Art",
     "categories": [
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/protomartyr-portland-thursday-october-29-2026-700-pm/",
@@ -525,10 +267,12 @@
     "venue": "Portland Veterans Memorial Coliseum",
     "category": "Other",
     "categories": [
+      "Music",
       "Other"
     ],
     "adult": false,
     "tags": [
+      "Music",
       "Other"
     ],
     "event_url": "",
@@ -560,6 +304,50 @@
     "description": "Portland Events lists ticket options for Marlon Wayans at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
   },
   {
+    "id": "dapperlesque-20261029",
+    "title": "Dapperlesque",
+    "date": "2026-10-29",
+    "time": "8:00 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dapperlesque-portland-thursday-october-29-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Dapperlesque at Alberta Rose Theatre in Portland, OR on Thu, October 29, 2026 at 8:00 PM."
+  },
+  {
+    "id": "medium-build-20261029",
+    "title": "Medium Build",
+    "date": "2026-10-29",
+    "time": "8:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/medium-build-portland-thursday-october-29-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Medium Build at Roseland Theater in Portland, OR on Thu, October 29, 2026 at 8:00 PM."
+  },
+  {
     "id": "nate-varrone-20261029",
     "title": "Nate Varrone",
     "date": "2026-10-29",
@@ -578,6 +366,46 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Portland Events lists ticket options for Nate Varrone at Mississippi Studios in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "olive-klug-20261029",
+    "title": "Olive Klug",
+    "date": "2026-10-29",
+    "time": "8:00 PM",
+    "venue": "Polaris Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/olive-klug-portland-polaris-hall-thursday-october-29-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Olive Klug at Polaris Hall in Portland, OR on Thu, October 29, 2026 at 8:00 PM."
+  },
+  {
+    "id": "rebecca-black-20261029",
+    "title": "Rebecca Black",
+    "date": "2026-10-29",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/rebecca-black-portland-thursday-october-29-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Rebecca Black at Wonder Ballroom in Portland, OR on Thu, October 29, 2026 at 8:00 PM."
   },
   {
     "id": "zac-townsend-20261029",
@@ -600,5 +428,111 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Portland Events lists ticket options for Zac Townsend at Neon Room at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
+  },
+  {
+    "id": "38-cramps-20261029",
+    "title": "38 Cramps",
+    "date": "2026-10-29",
+    "time": "9:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/38-cramps-portland-dantes-caffe-italiano-thursday-october-29-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: 38 Cramps at Dante's Caffe Italiano in Portland, OR on Thu, October 29, 2026 at 9:00 PM."
+  },
+  {
+    "id": "can-can-s-hitchcock-hotel-20261030",
+    "title": "Can Can's Hitchcock Hotel",
+    "date": "2026-10-30",
+    "time": "6:30 PM",
+    "venue": "Paris Theatre - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-friday-october-30-2026-630-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Fri, October 30, 2026 at 6:30 PM."
+  },
+  {
+    "id": "conversational-lube-the-first-live-comedy-dating-show-20261030",
+    "title": "Conversational Lube - The First Live Comedy Dating Show",
+    "date": "2026-10-30",
+    "time": "7:00 PM",
+    "venue": "McMenamins Al's Den",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-october-30-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, October 30, 2026 at 7:00 PM."
+  },
+  {
+    "id": "gorillaz-deltron-3030-little-simz-20261030",
+    "title": "Gorillaz, Deltron 3030 & Little Simz",
+    "date": "2026-10-30",
+    "time": "7:00 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/gorillaz-portland-friday-october-30-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Gorillaz, Deltron 3030 & Little Simz at Moda Center at the Rose Quarter in Portland, OR on Fri, October 30, 2026 at 7:00 PM."
+  },
+  {
+    "id": "pain-of-truth-20261030",
+    "title": "Pain Of Truth",
+    "date": "2026-10-30",
+    "time": "7:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/pain-of-truth-portland-hawthorne-theatre-friday-october-30-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Pain Of Truth at Hawthorne Theatre in Portland, OR on Fri, October 30, 2026 at 7:00 PM."
   }
 ]

@@ -287,16 +287,16 @@
     "venue": "Portland",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Weird"
     ],
     "event_url": "",
@@ -421,13 +421,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/ax-and-the-hatchetmen-portland-friday-october-30-2026-800-pm/",
@@ -454,6 +454,26 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Dockin' Yachts - Tribute to Michael McDonald at Jack London Revue in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
+  },
+  {
+    "id": "floater-20261030",
+    "title": "Floater",
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/floater-portland-mcmenamins-crystal-ballroom-friday-october-30-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Floater at McMenamins Crystal Ballroom in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
   },
   {
     "id": "glitterfox-20261030",
@@ -536,5 +556,131 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Weener - Seattle's Tribute to Ween at McMenamins White Eagle Saloon in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
+  },
+  {
+    "id": "fusion-halloween-edition-20261030",
+    "title": "Fusion - Halloween Edition",
+    "date": "2026-10-30",
+    "time": "8:30 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Weird"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/fusion-halloween-edition-portland-dantes-caffe-italiano-friday-october-30-2026-8-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Fusion - Halloween Edition at Dante's Caffe Italiano in Portland, OR on Fri, October 30, 2026 at 8:30 PM."
+  },
+  {
+    "id": "the-wldlfe-20261030",
+    "title": "The Wldlfe",
+    "date": "2026-10-30",
+    "time": "9:00 PM",
+    "venue": "Polaris Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-wldlfe-portland-friday-october-30-2026-900-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: The Wldlfe at Polaris Hall in Portland, OR on Fri, October 30, 2026 at 9:00 PM."
+  },
+  {
+    "id": "tokimonsta-20261030",
+    "title": "TokiMonsta",
+    "date": "2026-10-30",
+    "time": "9:00 PM",
+    "venue": "Realm - OR",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/tokimonsta-portland-realm-or-friday-october-30-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: TokiMonsta at Realm - OR in Portland, OR on Fri, October 30, 2026 at 9:00 PM."
+  },
+  {
+    "id": "portland-state-vikings-vs-idaho-vandals-20261031",
+    "title": "Portland State Vikings vs. Idaho Vandals",
+    "date": "2026-10-31",
+    "time": "1:00 PM",
+    "venue": "Hillsboro Stadium",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-vs-idaho-vandals-hillsboro-saturday-october-31-2026-tba/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland State Vikings vs. Idaho Vandals at Hillsboro Stadium in Hillsboro, OR on Sat, October 31, 2026 at 1:00 PM."
+  },
+  {
+    "id": "portland-winterhawks-vs-kelowna-rockets-20261031",
+    "title": "Portland Winterhawks vs. Kelowna Rockets",
+    "date": "2026-10-31",
+    "time": "3:00 PM",
+    "venue": "Portland Veterans Memorial Coliseum",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-kelowna-rockets-portland-saturday-october-31-2026-300-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland Winterhawks vs. Kelowna Rockets at Portland Veterans Memorial Coliseum in Portland, OR on Sat, October 31, 2026 at 3:00 PM."
+  },
+  {
+    "id": "jason-salmon-20261031",
+    "title": "Jason Salmon",
+    "date": "2026-10-31",
+    "time": "4:00 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/jason-salmon-portland-helium-comedy-club-portland-saturday-october-31-2026-4-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Jason Salmon at Helium Comedy Club - Portland in Portland, OR on Sat, October 31, 2026 at 4:00 PM."
   }
 ]

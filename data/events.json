@@ -1,175 +1,5 @@
 [
   {
-    "id": "basement-20261028",
-    "title": "Basement",
-    "date": "2026-10-28",
-    "time": "7:00 PM",
-    "venue": "Roseland Theater",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/basement-portland-wednesday-october-28-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Basement at Roseland Theater in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "portland-winterhawks-vs-vancouver-giants-20261028",
-    "title": "Portland Winterhawks vs. Vancouver Giants",
-    "date": "2026-10-28",
-    "time": "7:00 PM",
-    "venue": "Portland Veterans Memorial Coliseum",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-vancouver-giants-portland-wednesday-october-28-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Portland Winterhawks vs. Vancouver Giants at Portland Veterans Memorial Coliseum in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "shannon-fiedler-20261028",
-    "title": "Shannon Fiedler",
-    "date": "2026-10-28",
-    "time": "7:00 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/shannon-fiedler-portland-neon-room-at-helium-comedy-club-portland-wednesday-october-28-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Shannon Fiedler at Neon Room at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "j-t-parr-20261028",
-    "title": "J.T. Parr",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jt-parr-portland-wednesday-october-28-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for J.T. Parr at Helium Comedy Club - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "la-velada-a-flamenco-performance-by-marta-galvez-20261028",
-    "title": "La Velada - A Flamenco Performance by Marta Galvez",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/la-velada-a-flamenco-performance-by-marta-galvez-portland-wednesday-october-28-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for La Velada - A Flamenco Performance by Marta Galvez at Alberta Rose Theatre in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "oregon-symphony-psycho-in-concert-20261028",
-    "title": "Oregon Symphony: Psycho In Concert",
-    "date": "2026-10-28",
-    "time": "7:30 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/oregon-symphony-psycho-in-concert-portland-wednesday-october-28-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Oregon Symphony: Psycho In Concert at Arlene Schnitzer Concert Hall in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "team-dresch-20261028",
-    "title": "Team Dresch",
-    "date": "2026-10-28",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/team-dresch-portland-wednesday-october-28-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Portland Events lists ticket options for Team Dresch at Revolution Hall - Portland in Portland, OR. Ticket options may be available from verified providers."
-  },
-  {
-    "id": "this-week-in-portland-halloween-events-festivals-music-comedy-trivia-t-20261028",
-    "title": "THIS WEEK in Portland: Halloween Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
-    "date": "2026-10-28",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Comedy",
-      "Music",
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy",
-      "Music",
-      "Weird"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "THIS WEEK in Portland: Halloween Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Oct 28, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read M"
-  },
-  {
     "id": "kinky-creatures-market-20261029",
     "title": "Kinky Creatures Market",
     "date": "2026-10-29",
@@ -450,6 +280,32 @@
     "description": "Concert: 38 Cramps at Dante's Caffe Italiano in Portland, OR on Thu, October 29, 2026 at 9:00 PM."
   },
   {
+    "id": "many-weekend-events-giveaways-1-800-halloween-festivals-concerts-comed-20261029",
+    "title": "MANY Weekend Events & Giveaways ($1,800+): Halloween, Festivals, Concerts, Comedy, Theater, Film, & More!",
+    "date": "2026-10-29",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy",
+      "Weird"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "MANY Weekend Events & Giveaways ($1,800+): Halloween, Festivals, Concerts, Comedy, Theater, Film, & More! Oct 29, 2026 | Weekend A round up of what's going on in Portland this weekend including live music, concerts, comedy, trivia, happy hours, movies & more! "
+  },
+  {
     "id": "can-can-s-hitchcock-hotel-20261030",
     "title": "Can Can's Hitchcock Hotel",
     "date": "2026-10-30",
@@ -477,13 +333,13 @@
     "venue": "McMenamins Al's Den",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Comedy"
+      "Comedy",
+      "Singles"
     ],
     "adult": false,
     "tags": [
-      "Singles",
-      "Comedy"
+      "Comedy",
+      "Singles"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-october-30-2026-700-pm/",
@@ -499,13 +355,13 @@
     "venue": "Moda Center at the Rose Quarter",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/gorillaz-portland-friday-october-30-2026-700-pm/",
@@ -521,6 +377,50 @@
     "venue": "Hawthorne Theatre",
     "category": "Music",
     "categories": [
+      "Art",
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/pain-of-truth-portland-hawthorne-theatre-friday-october-30-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Pain Of Truth at Hawthorne Theatre in Portland, OR on Fri, October 30, 2026 at 7:00 PM."
+  },
+  {
+    "id": "zac-townsend-20261030",
+    "title": "Zac Townsend",
+    "date": "2026-10-30",
+    "time": "7:30 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/zac-townsend-portland-helium-comedy-club-portland-friday-october-30-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Zac Townsend at Neon Room at Helium Comedy Club - Portland in Portland, OR on Fri, October 30, 2026 at 7:30 PM."
+  },
+  {
+    "id": "ax-and-the-hatchetmen-20261030",
+    "title": "Ax and the Hatchetmen",
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
       "Music",
       "Art"
     ],
@@ -530,9 +430,111 @@
       "Art"
     ],
     "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pain-of-truth-portland-hawthorne-theatre-friday-october-30-2026-7-00-pm/",
+    "ticket_url": "https://portlandevents.org/tickets/ax-and-the-hatchetmen-portland-friday-october-30-2026-800-pm/",
     "source": "Portland Events",
     "source_url": "",
-    "description": "Concert: Pain Of Truth at Hawthorne Theatre in Portland, OR on Fri, October 30, 2026 at 7:00 PM."
+    "description": "Concert: Ax and the Hatchetmen at Aladdin Theater in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
+  },
+  {
+    "id": "dockin-yachts-tribute-to-michael-mcdonald-20261030",
+    "title": "Dockin' Yachts - Tribute to Michael McDonald",
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "venue": "Jack London Revue",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dockin-yachts-tribute-to-michael-mcdonald-portland-jack-london-revue-friday-october-30-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Dockin' Yachts - Tribute to Michael McDonald at Jack London Revue in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
+  },
+  {
+    "id": "glitterfox-20261030",
+    "title": "Glitterfox",
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/glitterfox-portland-revolution-hall-portland-friday-october-30-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Glitterfox at Revolution Hall - Portland in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
+  },
+  {
+    "id": "great-lake-swimmers-20261030",
+    "title": "Great Lake Swimmers",
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "venue": "McMenamins Mission Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/great-lake-swimmers-portland-friday-october-30-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Great Lake Swimmers at McMenamins Mission Theatre in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
+  },
+  {
+    "id": "steely-dead-20261030",
+    "title": "Steely Dead",
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "venue": "The Get Down",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/steely-dead-portland-friday-october-30-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Steely Dead at The Get Down in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
+  },
+  {
+    "id": "weener-seattle-s-tribute-to-ween-20261030",
+    "title": "Weener - Seattle's Tribute to Ween",
+    "date": "2026-10-30",
+    "time": "8:00 PM",
+    "venue": "McMenamins White Eagle Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/weener-seattles-tribute-to-ween-portland-mcmenamins-white-eagle-saloon-friday-october-30-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Weener - Seattle's Tribute to Ween at McMenamins White Eagle Saloon in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
   }
 ]

@@ -1,345 +1,5 @@
 [
   {
-    "id": "can-can-s-hitchcock-hotel-20261030",
-    "title": "Can Can's Hitchcock Hotel",
-    "date": "2026-10-30",
-    "time": "6:30 PM",
-    "venue": "Paris Theatre - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-friday-october-30-2026-630-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Fri, October 30, 2026 at 6:30 PM."
-  },
-  {
-    "id": "conversational-lube-the-first-live-comedy-dating-show-20261030",
-    "title": "Conversational Lube - The First Live Comedy Dating Show",
-    "date": "2026-10-30",
-    "time": "7:00 PM",
-    "venue": "McMenamins Al's Den",
-    "category": "Singles",
-    "categories": [
-      "Comedy",
-      "Singles"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Singles"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-october-30-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, October 30, 2026 at 7:00 PM."
-  },
-  {
-    "id": "gorillaz-deltron-3030-little-simz-20261030",
-    "title": "Gorillaz, Deltron 3030 & Little Simz",
-    "date": "2026-10-30",
-    "time": "7:00 PM",
-    "venue": "Moda Center at the Rose Quarter",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/gorillaz-portland-friday-october-30-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Gorillaz, Deltron 3030 & Little Simz at Moda Center at the Rose Quarter in Portland, OR on Fri, October 30, 2026 at 7:00 PM."
-  },
-  {
-    "id": "pain-of-truth-20261030",
-    "title": "Pain Of Truth",
-    "date": "2026-10-30",
-    "time": "7:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pain-of-truth-portland-hawthorne-theatre-friday-october-30-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Pain Of Truth at Hawthorne Theatre in Portland, OR on Fri, October 30, 2026 at 7:00 PM."
-  },
-  {
-    "id": "zac-townsend-20261030",
-    "title": "Zac Townsend",
-    "date": "2026-10-30",
-    "time": "7:30 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/zac-townsend-portland-helium-comedy-club-portland-friday-october-30-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Zac Townsend at Neon Room at Helium Comedy Club - Portland in Portland, OR on Fri, October 30, 2026 at 7:30 PM."
-  },
-  {
-    "id": "ax-and-the-hatchetmen-20261030",
-    "title": "Ax and the Hatchetmen",
-    "date": "2026-10-30",
-    "time": "8:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/ax-and-the-hatchetmen-portland-friday-october-30-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Ax and the Hatchetmen at Aladdin Theater in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
-  },
-  {
-    "id": "dockin-yachts-tribute-to-michael-mcdonald-20261030",
-    "title": "Dockin' Yachts - Tribute to Michael McDonald",
-    "date": "2026-10-30",
-    "time": "8:00 PM",
-    "venue": "Jack London Revue",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dockin-yachts-tribute-to-michael-mcdonald-portland-jack-london-revue-friday-october-30-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Dockin' Yachts - Tribute to Michael McDonald at Jack London Revue in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
-  },
-  {
-    "id": "floater-20261030",
-    "title": "Floater",
-    "date": "2026-10-30",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/floater-portland-mcmenamins-crystal-ballroom-friday-october-30-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Floater at McMenamins Crystal Ballroom in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
-  },
-  {
-    "id": "glitterfox-20261030",
-    "title": "Glitterfox",
-    "date": "2026-10-30",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/glitterfox-portland-revolution-hall-portland-friday-october-30-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Glitterfox at Revolution Hall - Portland in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
-  },
-  {
-    "id": "great-lake-swimmers-20261030",
-    "title": "Great Lake Swimmers",
-    "date": "2026-10-30",
-    "time": "8:00 PM",
-    "venue": "McMenamins Mission Theatre",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/great-lake-swimmers-portland-friday-october-30-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Great Lake Swimmers at McMenamins Mission Theatre in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
-  },
-  {
-    "id": "steely-dead-20261030",
-    "title": "Steely Dead",
-    "date": "2026-10-30",
-    "time": "8:00 PM",
-    "venue": "The Get Down",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/steely-dead-portland-friday-october-30-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Steely Dead at The Get Down in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
-  },
-  {
-    "id": "weener-seattle-s-tribute-to-ween-20261030",
-    "title": "Weener - Seattle's Tribute to Ween",
-    "date": "2026-10-30",
-    "time": "8:00 PM",
-    "venue": "McMenamins White Eagle Saloon",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/weener-seattles-tribute-to-ween-portland-mcmenamins-white-eagle-saloon-friday-october-30-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Weener - Seattle's Tribute to Ween at McMenamins White Eagle Saloon in Portland, OR on Fri, October 30, 2026 at 8:00 PM."
-  },
-  {
-    "id": "fusion-halloween-edition-20261030",
-    "title": "Fusion - Halloween Edition",
-    "date": "2026-10-30",
-    "time": "8:30 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Weird"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/fusion-halloween-edition-portland-dantes-caffe-italiano-friday-october-30-2026-8-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Fusion - Halloween Edition at Dante's Caffe Italiano in Portland, OR on Fri, October 30, 2026 at 8:30 PM."
-  },
-  {
-    "id": "the-wldlfe-20261030",
-    "title": "The Wldlfe",
-    "date": "2026-10-30",
-    "time": "9:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-wldlfe-portland-friday-october-30-2026-900-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: The Wldlfe at Polaris Hall in Portland, OR on Fri, October 30, 2026 at 9:00 PM."
-  },
-  {
-    "id": "tokimonsta-20261030",
-    "title": "TokiMonsta",
-    "date": "2026-10-30",
-    "time": "9:00 PM",
-    "venue": "Realm - OR",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/tokimonsta-portland-realm-or-friday-october-30-2026-9-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: TokiMonsta at Realm - OR in Portland, OR on Fri, October 30, 2026 at 9:00 PM."
-  },
-  {
-    "id": "many-weekend-events-giveaways-1-800-halloween-festivals-concerts-comed-20261030",
-    "title": "MANY Weekend Events & Giveaways ($1,800+): Halloween, Festivals, Concerts, Comedy, Theater, Film, & More!",
-    "date": "2026-10-30",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy",
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy",
-      "Weird"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "MANY Weekend Events & Giveaways ($1,800+): Halloween, Festivals, Concerts, Comedy, Theater, Film, & More! Oct 30, 2026 | Weekend A round up of what's going on in Portland this weekend including live music, concerts, comedy, trivia, happy hours, movies & more! "
-  },
-  {
     "id": "portland-state-vikings-vs-idaho-vandals-20261031",
     "title": "Portland State Vikings vs. Idaho Vandals",
     "date": "2026-10-31",
@@ -572,6 +232,32 @@
     "description": "Comedy show: Marlon Wayans at Helium Comedy Club - Portland in Portland, OR on Sat, October 31, 2026 at 9:30 PM."
   },
   {
+    "id": "many-weekend-events-giveaways-1-800-halloween-festivals-concerts-comed-20261031",
+    "title": "MANY Weekend Events & Giveaways ($1,800+): Halloween, Festivals, Concerts, Comedy, Theater, Film, & More!",
+    "date": "2026-10-31",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy",
+      "Weird"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "MANY Weekend Events & Giveaways ($1,800+): Halloween, Festivals, Concerts, Comedy, Theater, Film, & More! Oct 31, 2026 | Weekend A round up of what's going on in Portland this weekend including live music, concerts, comedy, trivia, happy hours, movies & more! "
+  },
+  {
     "id": "oregon-symphony-norman-huynh-stravinsky-beethoven-20261101",
     "title": "Oregon Symphony: Norman Huynh - Stravinsky & Beethoven",
     "date": "2026-11-01",
@@ -599,13 +285,13 @@
     "venue": "Providence Park",
     "category": "Sports",
     "categories": [
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/portland-timbers-vs-houston-dynamo-fc-portland-sunday-november-1-2026-500-pm/",
@@ -652,5 +338,259 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Sun, November 1, 2026 at 6:30 PM."
+  },
+  {
+    "id": "plini-20261101",
+    "title": "Plini",
+    "date": "2026-11-01",
+    "time": "7:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/plini-portland-sunday-november-1-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Plini at Revolution Hall - Portland in Portland, OR on Sun, November 1, 2026 at 7:00 PM."
+  },
+  {
+    "id": "tokyo-kanpai-boys-20261101",
+    "title": "Tokyo Kanpai Boys",
+    "date": "2026-11-01",
+    "time": "7:00 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/tokyo-kanpai-boys-portland-helium-comedy-club-portland-sunday-november-1-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Tokyo Kanpai Boys at Helium Comedy Club - Portland in Portland, OR on Sun, November 1, 2026 at 7:00 PM."
+  },
+  {
+    "id": "lime-garden-20261101",
+    "title": "Lime Garden",
+    "date": "2026-11-01",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/lime-garden-portland-sunday-november-1-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Lime Garden at Mississippi Studios in Portland, OR on Sun, November 1, 2026 at 8:00 PM."
+  },
+  {
+    "id": "rival-sons-20261101",
+    "title": "Rival Sons",
+    "date": "2026-11-01",
+    "time": "8:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/rival-sons-portland-sunday-november-1-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Rival Sons at Roseland Theater in Portland, OR on Sun, November 1, 2026 at 8:00 PM."
+  },
+  {
+    "id": "smashing-pumpkins-20261101",
+    "title": "Smashing Pumpkins",
+    "date": "2026-11-01",
+    "time": "8:00 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Weird"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/smashing-pumpkins-portland-sunday-november-1-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Smashing Pumpkins at Moda Center at the Rose Quarter in Portland, OR on Sun, November 1, 2026 at 8:00 PM."
+  },
+  {
+    "id": "square-dancing-old-time-highway-caller-amy-hofer-20261102",
+    "title": "Square Dancing: Old Time Highway & Caller Amy Hofer",
+    "date": "2026-11-02",
+    "time": "7:00 PM",
+    "venue": "Showdown Saloon",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/square-dancing-old-time-highway-and-caller-amy-hofer-portland-showdown-saloon-monday-november-2-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Square Dancing: Old Time Highway & Caller Amy Hofer at Showdown Saloon in Portland, OR on Mon, November 2, 2026 at 7:00 PM."
+  },
+  {
+    "id": "king-buffalo-l-a-witch-20261102",
+    "title": "King Buffalo & L.A. Witch",
+    "date": "2026-11-02",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/king-buffalo-and-la-witch-portland-monday-november-2-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: King Buffalo & L.A. Witch at Aladdin Theater in Portland, OR on Mon, November 2, 2026 at 8:00 PM."
+  },
+  {
+    "id": "slothrust-20261102",
+    "title": "Slothrust",
+    "date": "2026-11-02",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/slothrust-portland-monday-november-2-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Slothrust at Revolution Hall - Portland in Portland, OR on Mon, November 2, 2026 at 8:00 PM."
+  },
+  {
+    "id": "karaoke-from-hell-20261102",
+    "title": "Karaoke From Hell",
+    "date": "2026-11-02",
+    "time": "9:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/karaoke-from-hell-portland-monday-november-2-2026-900-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Karaoke From Hell at Dante's Caffe Italiano in Portland, OR on Mon, November 2, 2026 at 9:00 PM."
+  },
+  {
+    "id": "cam-bertrand-20261103",
+    "title": "Cam Bertrand",
+    "date": "2026-11-03",
+    "time": "7:30 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/cam-bertrand-portland-helium-comedy-club-portland-tuesday-november-3-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Cam Bertrand at Helium Comedy Club - Portland in Portland, OR on Tue, November 3, 2026 at 7:30 PM."
+  },
+  {
+    "id": "cardinal-bloom-20261103",
+    "title": "Cardinal Bloom",
+    "date": "2026-11-03",
+    "time": "8:00 PM",
+    "venue": "Show Bar At Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/cardinal-bloom-portland-tuesday-november-3-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Cardinal Bloom at Show Bar At Revolution Hall - Portland in Portland, OR on Tue, November 3, 2026 at 8:00 PM."
+  },
+  {
+    "id": "daley-20261103",
+    "title": "Daley",
+    "date": "2026-11-03",
+    "time": "8:00 PM",
+    "venue": "Star Theater Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/daley-portland-tuesday-november-3-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Daley at Star Theater Portland in Portland, OR on Tue, November 3, 2026 at 8:00 PM."
   }
 ]

@@ -1,263 +1,5 @@
 [
   {
-    "id": "portland-state-vikings-vs-idaho-vandals-20261031",
-    "title": "Portland State Vikings vs. Idaho Vandals",
-    "date": "2026-10-31",
-    "time": "1:00 PM",
-    "venue": "Hillsboro Stadium",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-vs-idaho-vandals-hillsboro-saturday-october-31-2026-tba/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland State Vikings vs. Idaho Vandals at Hillsboro Stadium in Hillsboro, OR on Sat, October 31, 2026 at 1:00 PM."
-  },
-  {
-    "id": "portland-winterhawks-vs-kelowna-rockets-20261031",
-    "title": "Portland Winterhawks vs. Kelowna Rockets",
-    "date": "2026-10-31",
-    "time": "3:00 PM",
-    "venue": "Portland Veterans Memorial Coliseum",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-kelowna-rockets-portland-saturday-october-31-2026-300-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland Winterhawks vs. Kelowna Rockets at Portland Veterans Memorial Coliseum in Portland, OR on Sat, October 31, 2026 at 3:00 PM."
-  },
-  {
-    "id": "jason-salmon-20261031",
-    "title": "Jason Salmon",
-    "date": "2026-10-31",
-    "time": "4:00 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jason-salmon-portland-helium-comedy-club-portland-saturday-october-31-2026-4-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Jason Salmon at Helium Comedy Club - Portland in Portland, OR on Sat, October 31, 2026 at 4:00 PM."
-  },
-  {
-    "id": "portland-state-vikings-volleyball-vs-idaho-vandals-20261031",
-    "title": "Portland State Vikings Volleyball vs. Idaho Vandals",
-    "date": "2026-10-31",
-    "time": "7:00 PM",
-    "venue": "Portland State's Viking Pavilion",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-volleyball-vs-idaho-vandals-portland-portland-states-viking-pavilion-saturday-october-31-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland State Vikings Volleyball vs. Idaho Vandals at Portland State's Viking Pavilion in Portland, OR on Sat, October 31, 2026 at 7:00 PM."
-  },
-  {
-    "id": "liberace-and-liza-a-tribute-20261031",
-    "title": "Liberace and Liza: A Tribute",
-    "date": "2026-10-31",
-    "time": "7:30 PM",
-    "venue": "Patricia Reser Center for the Arts",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/liberace-and-liza-a-tribute-beaverton-patricia-reser-center-for-the-arts-saturday-october-31-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Liberace and Liza: A Tribute at Patricia Reser Center for the Arts in Beaverton, OR on Sat, October 31, 2026 at 7:30 PM."
-  },
-  {
-    "id": "oregon-symphony-norman-huynh-stravinsky-beethoven-20261031",
-    "title": "Oregon Symphony: Norman Huynh - Stravinsky & Beethoven",
-    "date": "2026-10-31",
-    "time": "7:30 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/oregon-symphony-norman-huynh-stravinsky-and-beethoven-portland-saturday-october-31-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Oregon Symphony: Norman Huynh - Stravinsky & Beethoven at Arlene Schnitzer Concert Hall in Portland, OR on Sat, October 31, 2026 at 7:30 PM."
-  },
-  {
-    "id": "zac-townsend-20261031",
-    "title": "Zac Townsend",
-    "date": "2026-10-31",
-    "time": "7:30 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/zac-townsend-portland-neon-room-at-helium-comedy-club-portland-saturday-october-31-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Zac Townsend at Neon Room at Helium Comedy Club - Portland in Portland, OR on Sat, October 31, 2026 at 10:00 PM."
-  },
-  {
-    "id": "portland-erotic-ball-20261031",
-    "title": "Portland Erotic Ball",
-    "date": "2026-10-31",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-erotic-ball-portland-saturday-october-31-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Portland Erotic Ball at McMenamins Crystal Ballroom in Portland, OR on Sat, October 31, 2026 at 8:00 PM."
-  },
-  {
-    "id": "katie-pruitt-20261031",
-    "title": "Katie Pruitt",
-    "date": "2026-10-31",
-    "time": "9:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/katie-pruitt-portland-saturday-october-31-2026-900-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Katie Pruitt at Mississippi Studios in Portland, OR on Sat, October 31, 2026 at 9:00 PM."
-  },
-  {
-    "id": "can-can-s-hitchcock-hotel-20261031",
-    "title": "Can Can's Hitchcock Hotel",
-    "date": "2026-10-31",
-    "time": "9:30 PM",
-    "venue": "Paris Theatre - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-saturday-october-31-2026-930-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Sat, October 31, 2026 at 9:30 PM."
-  },
-  {
-    "id": "marlon-wayans-20261031",
-    "title": "Marlon Wayans",
-    "date": "2026-10-31",
-    "time": "9:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/marlon-wayans-portland-helium-comedy-club-portland-saturday-october-31-2026-9-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Marlon Wayans at Helium Comedy Club - Portland in Portland, OR on Sat, October 31, 2026 at 9:30 PM."
-  },
-  {
-    "id": "many-weekend-events-giveaways-1-800-halloween-festivals-concerts-comed-20261031",
-    "title": "MANY Weekend Events & Giveaways ($1,800+): Halloween, Festivals, Concerts, Comedy, Theater, Film, & More!",
-    "date": "2026-10-31",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy",
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy",
-      "Weird"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "MANY Weekend Events & Giveaways ($1,800+): Halloween, Festivals, Concerts, Comedy, Theater, Film, & More! Oct 31, 2026 | Weekend A round up of what's going on in Portland this weekend including live music, concerts, comedy, trivia, happy hours, movies & more! "
-  },
-  {
     "id": "oregon-symphony-norman-huynh-stravinsky-beethoven-20261101",
     "title": "Oregon Symphony: Norman Huynh - Stravinsky & Beethoven",
     "date": "2026-11-01",
@@ -448,6 +190,170 @@
     "description": "Concert: Smashing Pumpkins at Moda Center at the Rose Quarter in Portland, OR on Sun, November 1, 2026 at 8:00 PM."
   },
   {
+    "id": "drag-bingo-w-peachy-springs-jackie-s-holy-ghost-rupaul-s-drag-race-mee-20261101",
+    "title": "Drag Bingo w/ Peachy Springs @ Jackie’s & Holy Ghost | RuPaul’s Drag Race Meets The Price is Right",
+    "date": "2026-11-01",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Sports",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Sports",
+      "Comedy",
+      "Food + Drink"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Drag Bingo w/ Peachy Springs @ Jackie’s & Holy Ghost | RuPaul’s Drag Race Meets The Price is Right Nov 1, 2026 | Comedy , events , Food & Drink , LGBTQ , music Tuesdays & Wednesdays - A BINGO night like no other, as a cross between RuPaul’s Drag Race and The P"
+  },
+  {
+    "id": "holiday-afternoon-tea-victorian-belle-artisan-teas-pastries-savories-20261101",
+    "title": "Holiday Afternoon Tea @ Victorian Belle | Artisan Teas, Pastries, Savories",
+    "date": "2026-11-01",
+    "time": "See event",
+    "venue": "north portland",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Food + Drink"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Holiday Afternoon Tea @ Victorian Belle | Artisan Teas, Pastries, Savories Nov 1, 2026 | All Ages , events , Food & Drink , north portland December 5-27 - The Victorian Belle's Holiday Afternoon Tea is a fun and elegant way to celebrate the holidays! Read More"
+  },
+  {
+    "id": "win-tickets-22-decadent-80s-crystal-ballroom-portland-s-longest-runnin-20261101",
+    "title": "Win Tickets ($22): Decadent 80s @ Crystal Ballroom | Portland’s Longest Running 80s Dance Night",
+    "date": "2026-11-01",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($22): Decadent 80s @ Crystal Ballroom | Portland’s Longest Running 80s Dance Night Nov 1, 2026 | downtown , events , music November 27 - Get ready for a fun night of dancing to all your favorite hits and requests from the 1980s! Read More"
+  },
+  {
+    "id": "win-tickets-36-pnw-stompeders-lola-s-room-line-dance-night-lessons-20261101",
+    "title": "Win Tickets ($36): PNW Stompeders @ Lola’s Room | Line Dance Night, Lessons",
+    "date": "2026-11-01",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($36): PNW Stompeders @ Lola’s Room | Line Dance Night, Lessons Nov 1, 2026 | All Ages , Dance , downtown , events , music December 17 - Join The PNW Stompeders for a fun night of line dance lessons, beginner-friendly guided dancing, and plenty of "
+  },
+  {
+    "id": "win-tickets-60-that-1-guy-mission-theater-one-man-band-feat-homemade-i-20261101",
+    "title": "Win Tickets ($60): That 1 Guy @ Mission Theater | One Man Band feat. Homemade Instruments",
+    "date": "2026-11-01",
+    "time": "See event",
+    "venue": "NW Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($60): That 1 Guy @ Mission Theater | One Man Band feat. Homemade Instruments Nov 1, 2026 | All Ages , events , music , NW Portland December 10 - That 1 Guy is the solo project of Mike Silverman, a classically trained bassist who built his own inst"
+  },
+  {
+    "id": "win-tickets-80-mcmenamins-holiday-bazaar-brewfest-crystal-ballroom-40--20261101",
+    "title": "Win Tickets ($80): McMenamins Holiday Bazaar Brewfest @ Crystal Ballroom | 40+ Beverages, Local Artisan Vendors, Live Music",
+    "date": "2026-11-01",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Food + Drink"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($80): McMenamins Holiday Bazaar Brewfest @ Crystal Ballroom | 40+ Beverages, Local Artisan Vendors, Live Music Nov 1, 2026 | downtown , events , Food & Drink , music , Shopping November 28 - With four floors packed with festive fun, Crystal Ballro"
+  },
+  {
+    "id": "portland-pilots-basketball-vs-willamette-bearcats-basketball-20261102",
+    "title": "Portland Pilots Basketball vs. Willamette Bearcats Basketball",
+    "date": "2026-11-02",
+    "time": "5:00 PM",
+    "venue": "Earle A. Chiles Center",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-pilots-basketball-vs-willamette-bearcats-basketball-portland-earle-a-chiles-center-monday-november-2-2026-5-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland Pilots Basketball vs. Willamette Bearcats Basketball at Earle A. Chiles Center in Portland, OR on Mon, November 2, 2026 at 5:00 PM."
+  },
+  {
     "id": "square-dancing-old-time-highway-caller-amy-hofer-20261102",
     "title": "Square Dancing: Old Time Highway & Caller Amy Hofer",
     "date": "2026-11-02",
@@ -475,13 +381,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/king-buffalo-and-la-witch-portland-monday-november-2-2026-800-pm/",
@@ -530,6 +436,30 @@
     "description": "Concert: Karaoke From Hell at Dante's Caffe Italiano in Portland, OR on Mon, November 2, 2026 at 9:00 PM."
   },
   {
+    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261102",
+    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
+    "date": "2026-11-02",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 2, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
+  },
+  {
     "id": "cam-bertrand-20261103",
     "title": "Cam Bertrand",
     "date": "2026-11-03",
@@ -550,6 +480,26 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Comedy show: Cam Bertrand at Helium Comedy Club - Portland in Portland, OR on Tue, November 3, 2026 at 7:30 PM."
+  },
+  {
+    "id": "big-star-quintet-20261103",
+    "title": "Big Star Quintet",
+    "date": "2026-11-03",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/big-star-quintet-portland-mississippi-studios-tuesday-november-3-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Big Star Quintet at Mississippi Studios in Portland, OR on Tue, November 3, 2026 at 8:00 PM."
   },
   {
     "id": "cardinal-bloom-20261103",
@@ -592,5 +542,199 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Daley at Star Theater Portland in Portland, OR on Tue, November 3, 2026 at 8:00 PM."
+  },
+  {
+    "id": "georgia-parker-20261103",
+    "title": "Georgia Parker",
+    "date": "2026-11-03",
+    "time": "8:00 PM",
+    "venue": "McMenamins Mission Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/georgia-parker-portland-mcmenamins-mission-theatre-tuesday-november-3-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Georgia Parker at McMenamins Mission Theatre in Portland, OR on Tue, November 3, 2026 at 8:00 PM."
+  },
+  {
+    "id": "greg-freeman-20261103",
+    "title": "Greg Freeman",
+    "date": "2026-11-03",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/greg-freeman-portland-tuesday-november-3-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Greg Freeman at Aladdin Theater in Portland, OR on Tue, November 3, 2026 at 8:00 PM."
+  },
+  {
+    "id": "john-scofield-oteil-burbridge-20261103",
+    "title": "John Scofield & Oteil Burbridge",
+    "date": "2026-11-03",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/john-scofield-and-oteil-burbridge-portland-tuesday-november-3-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: John Scofield & Oteil Burbridge at Revolution Hall - Portland in Portland, OR on Tue, November 3, 2026 at 8:00 PM."
+  },
+  {
+    "id": "icon-for-hire-20261104",
+    "title": "Icon for Hire",
+    "date": "2026-11-04",
+    "time": "7:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/icon-for-hire-portland-wednesday-november-4-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Icon for Hire at Hawthorne Theatre in Portland, OR on Wed, November 4, 2026 at 7:00 PM."
+  },
+  {
+    "id": "portland-winterhawks-vs-medicine-hat-tigers-20261104",
+    "title": "Portland Winterhawks vs. Medicine Hat Tigers",
+    "date": "2026-11-04",
+    "time": "7:00 PM",
+    "venue": "Portland Veterans Memorial Coliseum",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-medicine-hat-tigers-portland-wednesday-november-4-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland Winterhawks vs. Medicine Hat Tigers at Portland Veterans Memorial Coliseum in Portland, OR on Wed, November 4, 2026 at 7:00 PM."
+  },
+  {
+    "id": "davide-de-pierro-20261104",
+    "title": "Davide De Pierro",
+    "date": "2026-11-04",
+    "time": "7:30 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/davide-de-pierro-portland-wednesday-november-4-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Davide De Pierro at Alberta Rose Theatre in Portland, OR on Wed, November 4, 2026 at 7:30 PM."
+  },
+  {
+    "id": "philip-glass-ensemble-powaqqatsi-20261104",
+    "title": "Philip Glass Ensemble: Powaqqatsi",
+    "date": "2026-11-04",
+    "time": "7:30 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/philip-glass-ensemble-powaqqatsi-portland-wednesday-november-4-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Philip Glass Ensemble: Powaqqatsi at Arlene Schnitzer Concert Hall in Portland, OR on Wed, November 4, 2026 at 7:30 PM."
+  },
+  {
+    "id": "yvette-segan-20261104",
+    "title": "Yvette Segan",
+    "date": "2026-11-04",
+    "time": "7:30 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/yvette-segan-portland-wednesday-november-4-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Yvette Segan at Helium Comedy Club - Portland in Portland, OR on Wed, November 4, 2026 at 7:30 PM."
+  },
+  {
+    "id": "improvement-movement-20261104",
+    "title": "Improvement Movement",
+    "date": "2026-11-04",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/improvement-movement-portland-wednesday-november-4-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Improvement Movement at Mississippi Studios in Portland, OR on Wed, November 4, 2026 at 8:00 PM."
   }
 ]

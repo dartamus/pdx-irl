@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-03T20:08:49.336100+00:00",
-  "eventCount": 28,
-  "rawFound": 17,
+  "updatedAt": "2026-11-04T20:26:57.145052+00:00",
+  "eventCount": 41,
+  "rawFound": 32,
   "duplicatesWithinFresh": 0,
   "sources": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "source": "Portland Events",
-      "found": 15,
+      "found": 30,
       "ok": true
     },
     {

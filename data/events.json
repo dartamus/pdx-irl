@@ -1,151 +1,5 @@
 [
   {
-    "id": "portland-pilots-basketball-vs-willamette-bearcats-basketball-20261102",
-    "title": "Portland Pilots Basketball vs. Willamette Bearcats Basketball",
-    "date": "2026-11-02",
-    "time": "5:00 PM",
-    "venue": "Earle A. Chiles Center",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-pilots-basketball-vs-willamette-bearcats-basketball-portland-earle-a-chiles-center-monday-november-2-2026-5-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland Pilots Basketball vs. Willamette Bearcats Basketball at Earle A. Chiles Center in Portland, OR on Mon, November 2, 2026 at 5:00 PM."
-  },
-  {
-    "id": "square-dancing-old-time-highway-caller-amy-hofer-20261102",
-    "title": "Square Dancing: Old Time Highway & Caller Amy Hofer",
-    "date": "2026-11-02",
-    "time": "7:00 PM",
-    "venue": "Showdown Saloon",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/square-dancing-old-time-highway-and-caller-amy-hofer-portland-showdown-saloon-monday-november-2-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Square Dancing: Old Time Highway & Caller Amy Hofer at Showdown Saloon in Portland, OR on Mon, November 2, 2026 at 7:00 PM."
-  },
-  {
-    "id": "king-buffalo-l-a-witch-20261102",
-    "title": "King Buffalo & L.A. Witch",
-    "date": "2026-11-02",
-    "time": "8:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/king-buffalo-and-la-witch-portland-monday-november-2-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: King Buffalo & L.A. Witch at Aladdin Theater in Portland, OR on Mon, November 2, 2026 at 8:00 PM."
-  },
-  {
-    "id": "slothrust-20261102",
-    "title": "Slothrust",
-    "date": "2026-11-02",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/slothrust-portland-monday-november-2-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Slothrust at Revolution Hall - Portland in Portland, OR on Mon, November 2, 2026 at 8:00 PM."
-  },
-  {
-    "id": "karaoke-from-hell-20261102",
-    "title": "Karaoke From Hell",
-    "date": "2026-11-02",
-    "time": "9:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/karaoke-from-hell-portland-monday-november-2-2026-900-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Karaoke From Hell at Dante's Caffe Italiano in Portland, OR on Mon, November 2, 2026 at 9:00 PM."
-  },
-  {
-    "id": "mx-dahlia-belle-presents-affirmed-polaris-hall-stand-up-comedy-hannah--20261102",
-    "title": "Mx. Dahlia Belle presents “Affirmed” @ Polaris Hall | Stand Up Comedy, Hannah Gadsby’s ‘Gender Agenda’",
-    "date": "2026-11-02",
-    "time": "See event",
-    "venue": "north portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "Mx. Dahlia Belle presents “Affirmed” @ Polaris Hall | Stand Up Comedy, Hannah Gadsby’s ‘Gender Agenda’ Nov 2, 2026 | Comedy , events , north portland November 22 - he princess of Portland comedy, Mx. Dahlia Belle, returns with 60 brand new minutes of unbridled"
-  },
-  {
-    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261102",
-    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
-    "date": "2026-11-02",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 2, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
-  },
-  {
     "id": "cam-bertrand-20261103",
     "title": "Cam Bertrand",
     "date": "2026-11-03",
@@ -294,6 +148,26 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: John Scofield & Oteil Burbridge at Revolution Hall - Portland in Portland, OR on Tue, November 3, 2026 at 8:00 PM."
+  },
+  {
+    "id": "get-passes-50-being-heumann-regal-bridgeport-village-oscar-winning-cod-20261103",
+    "title": "Get Passes ($50): “Being Heumann” @ Regal Bridgeport Village | Oscar-winning CODA Director Siân Heder",
+    "date": "2026-11-03",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Get Passes ($50): “Being Heumann” @ Regal Bridgeport Village | Oscar-winning CODA Director Siân Heder Nov 3, 2026 | events , Film November 9-11 - Get your pair of tickets to a November 9th screening of “Being Heumann,” the new film from Oscar-winning CODA Dire"
   },
   {
     "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261103",
@@ -515,19 +389,43 @@
     "venue": "Roseland Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/pinhead-gunpowder-portland-wednesday-november-4-2026-800-pm/",
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Pinhead Gunpowder at Roseland Theater in Portland, OR on Wed, November 4, 2026 at 8:00 PM."
+  },
+  {
+    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261104",
+    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
+    "date": "2026-11-04",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 4, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
   },
   {
     "id": "periphery-ne-obliviscaris-greyhaven-20261105",
@@ -537,13 +435,13 @@
     "venue": "Roseland Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/periphery-portland-thursday-november-5-2026-630-pm/",
@@ -592,5 +490,381 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Comedy show: Matthew Broussard at Helium Comedy Club - Portland in Portland, OR on Thu, November 5, 2026 at 7:00 PM."
+  },
+  {
+    "id": "fan-halen-a-tribute-to-van-halen-20261105",
+    "title": "Fan Halen - A Tribute To Van Halen",
+    "date": "2026-11-05",
+    "time": "7:30 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/fan-halen-a-tribute-to-van-halen-portland-thursday-november-5-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Fan Halen - A Tribute To Van Halen at Alberta Rose Theatre in Portland, OR on Thu, November 5, 2026 at 7:30 PM."
+  },
+  {
+    "id": "brandi-carlile-20261105",
+    "title": "Brandi Carlile",
+    "date": "2026-11-05",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/brandi-carlile-portland-revolution-hall-portland-thursday-november-5-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Brandi Carlile at Revolution Hall - Portland in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
+  },
+  {
+    "id": "buzzcocks-20261105",
+    "title": "Buzzcocks",
+    "date": "2026-11-05",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/buzzcocks-portland-thursday-november-5-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Buzzcocks at Wonder Ballroom in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
+  },
+  {
+    "id": "cut-copy-20261105",
+    "title": "Cut Copy",
+    "date": "2026-11-05",
+    "time": "8:00 PM",
+    "venue": "Realm - OR",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/cut-copy-portland-realm-or-thursday-november-5-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Cut Copy at Realm - OR in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
+  },
+  {
+    "id": "jake-xerxes-fussell-20261105",
+    "title": "Jake Xerxes Fussell",
+    "date": "2026-11-05",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/jake-xerxes-fussell-portland-thursday-november-5-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Jake Xerxes Fussell at Aladdin Theater in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
+  },
+  {
+    "id": "lucy-cooper-b-handy-20261105",
+    "title": "LUCY (Cooper B. Handy)",
+    "date": "2026-11-05",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/lucy-cooper-b-handy-portland-mississippi-studios-thursday-november-5-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: LUCY (Cooper B. Handy) at Mississippi Studios in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
+  },
+  {
+    "id": "the-last-revel-20261105",
+    "title": "The Last Revel",
+    "date": "2026-11-05",
+    "time": "8:00 PM",
+    "venue": "The Get Down",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-last-revel-portland-the-get-down-at-the-melody-event-center-thursday-november-5-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: The Last Revel at The Get Down in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
+  },
+  {
+    "id": "token-20261105",
+    "title": "Token",
+    "date": "2026-11-05",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/token-portland-hawthorne-theatre-thursday-november-5-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Token at Hawthorne Theatre in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
+  },
+  {
+    "id": "true-fear-20261105",
+    "title": "True Fear",
+    "date": "2026-11-05",
+    "time": "8:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/true-fear-portland-dantes-caffe-italiano-thursday-november-5-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: True Fear at Dante's Caffe Italiano in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
+  },
+  {
+    "id": "brendan-james-20261106",
+    "title": "Brendan James",
+    "date": "2026-11-06",
+    "time": "7:00 PM",
+    "venue": "Artichoke Community Music",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/brendan-james-portland-artichoke-community-music-friday-november-6-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Brendan James at Artichoke Community Music in Portland, OR on Fri, November 6, 2026 at 7:00 PM."
+  },
+  {
+    "id": "conversational-lube-the-first-live-comedy-dating-show-20261106",
+    "title": "Conversational Lube - The First Live Comedy Dating Show",
+    "date": "2026-11-06",
+    "time": "7:00 PM",
+    "venue": "McMenamins Al's Den",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-november-6-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, November 6, 2026 at 7:00 PM."
+  },
+  {
+    "id": "kathy-griffin-20261106",
+    "title": "Kathy Griffin",
+    "date": "2026-11-06",
+    "time": "7:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/kathy-griffin-portland-friday-november-6-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Kathy Griffin at Aladdin Theater in Portland, OR on Fri, November 6, 2026 at 7:00 PM."
+  },
+  {
+    "id": "matthew-broussard-20261106",
+    "title": "Matthew Broussard",
+    "date": "2026-11-06",
+    "time": "7:00 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/matthew-broussard-portland-helium-comedy-club-portland-friday-november-6-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Matthew Broussard at Helium Comedy Club - Portland in Portland, OR on Fri, November 6, 2026 at 7:00 PM."
+  },
+  {
+    "id": "portland-winterhawks-vs-spokane-chiefs-20261106",
+    "title": "Portland Winterhawks vs. Spokane Chiefs",
+    "date": "2026-11-06",
+    "time": "7:00 PM",
+    "venue": "Portland Veterans Memorial Coliseum",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-spokane-chiefs-portland-friday-november-6-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland Winterhawks vs. Spokane Chiefs at Portland Veterans Memorial Coliseum in Portland, OR on Fri, November 6, 2026 at 7:00 PM."
+  },
+  {
+    "id": "tauren-wells-20261106",
+    "title": "Tauren Wells",
+    "date": "2026-11-06",
+    "time": "7:00 PM",
+    "venue": "Rolling Hills Community Church",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/tauren-wells-tualatin-rolling-hills-community-church-friday-november-6-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Tauren Wells at Rolling Hills Community Church in Tualatin, OR on Fri, November 6, 2026 at 7:00 PM."
+  },
+  {
+    "id": "chris-smither-20261106",
+    "title": "Chris Smither",
+    "date": "2026-11-06",
+    "time": "7:30 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/chris-smither-portland-friday-november-6-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Chris Smither at Alberta Rose Theatre in Portland, OR on Fri, November 6, 2026 at 7:30 PM."
+  },
+  {
+    "id": "inoha-20261106",
+    "title": "INOHA",
+    "date": "2026-11-06",
+    "time": "7:30 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/inoha-portland-friday-november-6-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: INOHA at Wonder Ballroom in Portland, OR on Fri, November 6, 2026 at 7:30 PM."
+  },
+  {
+    "id": "murray-hill-20261106",
+    "title": "Murray Hill",
+    "date": "2026-11-06",
+    "time": "7:30 PM",
+    "venue": "Polaris Hall",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/murray-hill-portland-friday-november-6-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Murray Hill at Polaris Hall in Portland, OR on Fri, November 6, 2026 at 7:30 PM."
   }
 ]

@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T20:41:34.719707+00:00",
-  "eventCount": 48,
-  "rawFound": 32,
+  "updatedAt": "2026-11-06T02:27:12.458343+00:00",
+  "eventCount": 37,
+  "rawFound": 30,
   "duplicatesWithinFresh": 1,
   "sources": [
     {
@@ -26,12 +26,12 @@
     },
     {
       "source": "Portland Events",
-      "found": 30,
+      "found": 29,
       "ok": true
     },
     {
       "source": "PDX Pipeline",
-      "found": 2,
+      "found": 1,
       "ok": true
     },
     {

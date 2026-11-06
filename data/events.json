@@ -1,261 +1,5 @@
 [
   {
-    "id": "icon-for-hire-20261104",
-    "title": "Icon for Hire",
-    "date": "2026-11-04",
-    "time": "7:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/icon-for-hire-portland-wednesday-november-4-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Icon for Hire at Hawthorne Theatre in Portland, OR on Wed, November 4, 2026 at 7:00 PM."
-  },
-  {
-    "id": "portland-winterhawks-vs-medicine-hat-tigers-20261104",
-    "title": "Portland Winterhawks vs. Medicine Hat Tigers",
-    "date": "2026-11-04",
-    "time": "7:00 PM",
-    "venue": "Portland Veterans Memorial Coliseum",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-medicine-hat-tigers-portland-wednesday-november-4-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland Winterhawks vs. Medicine Hat Tigers at Portland Veterans Memorial Coliseum in Portland, OR on Wed, November 4, 2026 at 7:00 PM."
-  },
-  {
-    "id": "davide-de-pierro-20261104",
-    "title": "Davide De Pierro",
-    "date": "2026-11-04",
-    "time": "7:30 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/davide-de-pierro-portland-wednesday-november-4-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Davide De Pierro at Alberta Rose Theatre in Portland, OR on Wed, November 4, 2026 at 7:30 PM."
-  },
-  {
-    "id": "philip-glass-ensemble-powaqqatsi-20261104",
-    "title": "Philip Glass Ensemble: Powaqqatsi",
-    "date": "2026-11-04",
-    "time": "7:30 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/philip-glass-ensemble-powaqqatsi-portland-wednesday-november-4-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Philip Glass Ensemble: Powaqqatsi at Arlene Schnitzer Concert Hall in Portland, OR on Wed, November 4, 2026 at 7:30 PM."
-  },
-  {
-    "id": "yvette-segan-20261104",
-    "title": "Yvette Segan",
-    "date": "2026-11-04",
-    "time": "7:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/yvette-segan-portland-wednesday-november-4-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Yvette Segan at Helium Comedy Club - Portland in Portland, OR on Wed, November 4, 2026 at 7:30 PM."
-  },
-  {
-    "id": "bahamas-20261104",
-    "title": "Bahamas",
-    "date": "2026-11-04",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/bahamas-portland-wednesday-november-4-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Bahamas at Revolution Hall - Portland in Portland, OR on Wed, November 4, 2026 at 8:00 PM."
-  },
-  {
-    "id": "ian-sweet-20261104",
-    "title": "Ian Sweet",
-    "date": "2026-11-04",
-    "time": "8:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/ian-sweet-portland-wednesday-november-4-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Ian Sweet at Polaris Hall in Portland, OR on Wed, November 4, 2026 at 8:00 PM."
-  },
-  {
-    "id": "improvement-movement-20261104",
-    "title": "Improvement Movement",
-    "date": "2026-11-04",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Comedy",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/improvement-movement-portland-wednesday-november-4-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Improvement Movement at Mississippi Studios in Portland, OR on Wed, November 4, 2026 at 8:00 PM."
-  },
-  {
-    "id": "isaiah-rashad-20261104",
-    "title": "Isaiah Rashad",
-    "date": "2026-11-04",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/isaiah-rashad-portland-mcmenamins-crystal-ballroom-wednesday-november-4-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Isaiah Rashad at McMenamins Crystal Ballroom in Portland, OR on Wed, November 4, 2026 at 8:00 PM."
-  },
-  {
-    "id": "pinhead-gunpowder-20261104",
-    "title": "Pinhead Gunpowder",
-    "date": "2026-11-04",
-    "time": "8:00 PM",
-    "venue": "Roseland Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pinhead-gunpowder-portland-wednesday-november-4-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Pinhead Gunpowder at Roseland Theater in Portland, OR on Wed, November 4, 2026 at 8:00 PM."
-  },
-  {
-    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261104",
-    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
-    "date": "2026-11-04",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 4, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
-  },
-  {
-    "id": "win-tickets-320-kumoricon-2026-oregon-convention-center-anime-japanese-20261104",
-    "title": "Win Tickets ($320): Kumoricon 2026 @ Oregon Convention Center | Anime & Japanese Culture Convention",
-    "date": "2026-11-04",
-    "time": "See event",
-    "venue": "NE Portland",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Food + Drink"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Food + Drink"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "Win Tickets ($320): Kumoricon 2026 @ Oregon Convention Center | Anime & Japanese Culture Convention Nov 4, 2026 | All Ages , Books , events , Food & Drink , NE Portland , Shopping , Visual Art Celebrating more than twenty years of anime and Japanese culture, K"
-  },
-  {
     "id": "periphery-ne-obliviscaris-greyhaven-20261105",
     "title": "Periphery, Ne Obliviscaris & Greyhaven",
     "date": "2026-11-05",
@@ -513,15 +257,15 @@
     "venue": "Portland",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "",
@@ -807,13 +551,13 @@
     "venue": "McMenamins Mission Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/gully-boys-portland-mcmenamins-mission-theatre-friday-november-6-2026-8-00-pm/",
@@ -829,13 +573,13 @@
     "venue": "Hawthorne Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/lilyisthatyou-portland-friday-november-6-2026-800-pm/",
@@ -871,13 +615,13 @@
     "venue": "Revolution Hall - Portland",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/railroad-earth-portland-friday-november-6-2026-800-pm/",
@@ -933,13 +677,13 @@
     "venue": "Star Theater Portland",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/the-hyrule-ball-portland-star-theater-portland-friday-november-6-2026-8-00-pm/",
@@ -1006,5 +750,25 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Fri, November 6, 2026 at 9:30 PM."
+  },
+  {
+    "id": "oddities-and-curiosities-expo-20261107",
+    "title": "Oddities and Curiosities Expo",
+    "date": "2026-11-07",
+    "time": "10:00 AM",
+    "venue": "Oregon Convention Center",
+    "category": "Weird",
+    "categories": [
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Weird"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/oddities-and-curiosities-expo-portland-saturday-november-7-2026-1000-am/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Oddities and Curiosities Expo at Oregon Convention Center in Portland, OR on Sat, November 7, 2026 at 10:00 AM."
   }
 ]

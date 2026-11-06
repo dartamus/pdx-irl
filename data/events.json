@@ -770,5 +770,277 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Live event: Oddities and Curiosities Expo at Oregon Convention Center in Portland, OR on Sat, November 7, 2026 at 10:00 AM."
+  },
+  {
+    "id": "dustin-anderson-20261107",
+    "title": "Dustin Anderson",
+    "date": "2026-11-07",
+    "time": "4:00 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dustin-anderson-portland-helium-comedy-club-portland-saturday-november-7-2026-4-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Dustin Anderson at Helium Comedy Club - Portland in Portland, OR on Sat, November 7, 2026 at 4:00 PM."
+  },
+  {
+    "id": "portland-winterhawks-vs-spokane-chiefs-20261107",
+    "title": "Portland Winterhawks vs. Spokane Chiefs",
+    "date": "2026-11-07",
+    "time": "6:00 PM",
+    "venue": "Portland Veterans Memorial Coliseum",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-spokane-chiefs-portland-saturday-november-7-2026-600-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland Winterhawks vs. Spokane Chiefs at Portland Veterans Memorial Coliseum in Portland, OR on Sat, November 7, 2026 at 6:00 PM."
+  },
+  {
+    "id": "portland-trail-blazers-vs-san-antonio-spurs-20261107",
+    "title": "Portland Trail Blazers vs. San Antonio Spurs",
+    "date": "2026-11-07",
+    "time": "7:00 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-trail-blazers-vs-san-antonio-spurs-portland-moda-center-at-the-rose-quarter-saturday-november-7-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland Trail Blazers vs. San Antonio Spurs at Moda Center at the Rose Quarter in Portland, OR on Sat, November 7, 2026 at 7:00 PM."
+  },
+  {
+    "id": "dessa-the-oregon-symphony-20261107",
+    "title": "Dessa & The Oregon Symphony",
+    "date": "2026-11-07",
+    "time": "7:30 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dessa-and-the-oregon-symphony-portland-saturday-november-7-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Dessa & The Oregon Symphony at Arlene Schnitzer Concert Hall in Portland, OR on Sat, November 7, 2026 at 7:30 PM."
+  },
+  {
+    "id": "cigar-20261107",
+    "title": "Cigar",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "McMenamins White Eagle Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/cigar-portland-mcmenamins-white-eagle-saloon-saturday-november-7-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Cigar at McMenamins White Eagle Saloon in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "exhumed-20261107",
+    "title": "Exhumed",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "Star Theater Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/exhumed-portland-star-theater-portland-saturday-november-7-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Exhumed at Star Theater Portland in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "joseph-the-band-20261107",
+    "title": "Joseph - The Band",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/joseph-the-band-portland-wonder-ballroom-saturday-november-7-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Joseph - The Band at Wonder Ballroom in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "marc-broussard-20261107",
+    "title": "Marc Broussard",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/marc-broussard-portland-saturday-november-7-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Marc Broussard at Aladdin Theater in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "pancakes-booze-20261107",
+    "title": "Pancakes & Booze",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/pancakes-and-booze-portland-hawthorne-theatre-saturday-november-7-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Pancakes & Booze at Hawthorne Theatre in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "pedro-the-lion-20261107",
+    "title": "Pedro the Lion",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "Polaris Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/pedro-the-lion-portland-saturday-november-7-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Pedro the Lion at Polaris Hall in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "quadeca-20261107",
+    "title": "Quadeca",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/quadeca-portland-saturday-november-7-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Quadeca at Revolution Hall - Portland in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "sienna-spiro-20261107",
+    "title": "Sienna Spiro",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/sienna-spiro-portland-saturday-november-7-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Sienna Spiro at McMenamins Crystal Ballroom in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "stop-light-observations-20261107",
+    "title": "Stop Light Observations",
+    "date": "2026-11-07",
+    "time": "8:00 PM",
+    "venue": "Jack London Revue",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/stop-light-observations-portland-saturday-november-7-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Stop Light Observations at Jack London Revue in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
   }
 ]

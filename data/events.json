@@ -1,279 +1,5 @@
 [
   {
-    "id": "periphery-ne-obliviscaris-greyhaven-20261105",
-    "title": "Periphery, Ne Obliviscaris & Greyhaven",
-    "date": "2026-11-05",
-    "time": "6:30 PM",
-    "venue": "Roseland Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/periphery-portland-thursday-november-5-2026-630-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Periphery, Ne Obliviscaris & Greyhaven at Roseland Theater in Portland, OR on Thu, November 5, 2026 at 6:30 PM."
-  },
-  {
-    "id": "chuck-israels-jazz-orchestra-20261105",
-    "title": "Chuck Israels Jazz Orchestra",
-    "date": "2026-11-05",
-    "time": "7:00 PM",
-    "venue": "Jack London Revue",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/chuck-israels-jazz-orchestra-portland-jack-london-revue-thursday-november-5-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Chuck Israels Jazz Orchestra at Jack London Revue in Portland, OR on Thu, November 5, 2026 at 7:00 PM."
-  },
-  {
-    "id": "matthew-broussard-20261105",
-    "title": "Matthew Broussard",
-    "date": "2026-11-05",
-    "time": "7:00 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/matthew-broussard-portland-helium-comedy-club-portland-thursday-november-5-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Matthew Broussard at Helium Comedy Club - Portland in Portland, OR on Thu, November 5, 2026 at 7:00 PM."
-  },
-  {
-    "id": "fan-halen-a-tribute-to-van-halen-20261105",
-    "title": "Fan Halen - A Tribute To Van Halen",
-    "date": "2026-11-05",
-    "time": "7:30 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/fan-halen-a-tribute-to-van-halen-portland-thursday-november-5-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Fan Halen - A Tribute To Van Halen at Alberta Rose Theatre in Portland, OR on Thu, November 5, 2026 at 7:30 PM."
-  },
-  {
-    "id": "brandi-carlile-20261105",
-    "title": "Brandi Carlile",
-    "date": "2026-11-05",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/brandi-carlile-portland-revolution-hall-portland-thursday-november-5-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Brandi Carlile at Revolution Hall - Portland in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
-  },
-  {
-    "id": "buzzcocks-20261105",
-    "title": "Buzzcocks",
-    "date": "2026-11-05",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/buzzcocks-portland-thursday-november-5-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Buzzcocks at Wonder Ballroom in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
-  },
-  {
-    "id": "cut-copy-20261105",
-    "title": "Cut Copy",
-    "date": "2026-11-05",
-    "time": "8:00 PM",
-    "venue": "Realm - OR",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/cut-copy-portland-realm-or-thursday-november-5-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Cut Copy at Realm - OR in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
-  },
-  {
-    "id": "jake-xerxes-fussell-20261105",
-    "title": "Jake Xerxes Fussell",
-    "date": "2026-11-05",
-    "time": "8:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jake-xerxes-fussell-portland-thursday-november-5-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Jake Xerxes Fussell at Aladdin Theater in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
-  },
-  {
-    "id": "lucy-cooper-b-handy-20261105",
-    "title": "LUCY (Cooper B. Handy)",
-    "date": "2026-11-05",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/lucy-cooper-b-handy-portland-mississippi-studios-thursday-november-5-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: LUCY (Cooper B. Handy) at Mississippi Studios in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
-  },
-  {
-    "id": "the-last-revel-20261105",
-    "title": "The Last Revel",
-    "date": "2026-11-05",
-    "time": "8:00 PM",
-    "venue": "The Get Down",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-last-revel-portland-the-get-down-at-the-melody-event-center-thursday-november-5-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: The Last Revel at The Get Down in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
-  },
-  {
-    "id": "token-20261105",
-    "title": "Token",
-    "date": "2026-11-05",
-    "time": "8:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/token-portland-hawthorne-theatre-thursday-november-5-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Token at Hawthorne Theatre in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
-  },
-  {
-    "id": "true-fear-20261105",
-    "title": "True Fear",
-    "date": "2026-11-05",
-    "time": "8:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/true-fear-portland-dantes-caffe-italiano-thursday-november-5-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: True Fear at Dante's Caffe Italiano in Portland, OR on Thu, November 5, 2026 at 8:00 PM."
-  },
-  {
-    "id": "many-weekend-events-giveaways-1-800-festivals-concerts-comedy-theater--20261105",
-    "title": "MANY Weekend Events & Giveaways ($1,800+): Festivals, Concerts, Comedy, Theater, Film, & More!",
-    "date": "2026-11-05",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Comedy",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "MANY Weekend Events & Giveaways ($1,800+): Festivals, Concerts, Comedy, Theater, Film, & More! Nov 5, 2026 | Weekend A round up of what's going on in Portland this weekend including live music, concerts, comedy, trivia, happy hours, movies & more! Read More"
-  },
-  {
     "id": "comedy-night-hosted-by-brandon-lyons-20261106",
     "title": "Comedy Night Hosted by Brandon Lyons",
     "date": "2026-11-06",
@@ -772,6 +498,46 @@
     "description": "Live event: Oddities and Curiosities Expo at Oregon Convention Center in Portland, OR on Sat, November 7, 2026 at 10:00 AM."
   },
   {
+    "id": "christian-loffler-20261107",
+    "title": "Christian Loffler",
+    "date": "2026-11-07",
+    "time": "10:00 PM",
+    "venue": "The Den PDX",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/christian-loffler-portland-the-den-pdx-saturday-november-7-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Christian Loffler at The Den PDX in Portland, OR on Sat, November 7, 2026 at 10:00 PM."
+  },
+  {
+    "id": "gabriel-dresden-20261107",
+    "title": "Gabriel & Dresden",
+    "date": "2026-11-07",
+    "time": "10:00 PM",
+    "venue": "45 East",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/gabriel-and-dresden-portland-45-east-saturday-november-7-2026-10-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Gabriel & Dresden at 45 East in Portland, OR on Sat, November 7, 2026 at 10:00 PM."
+  },
+  {
     "id": "dustin-anderson-20261107",
     "title": "Dustin Anderson",
     "date": "2026-11-07",
@@ -822,14 +588,14 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/portland-trail-blazers-vs-san-antonio-spurs-portland-moda-center-at-the-rose-quarter-saturday-november-7-2026-7-00-pm/",
@@ -885,13 +651,13 @@
     "venue": "Star Theater Portland",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/exhumed-portland-star-theater-portland-saturday-november-7-2026-8-00-pm/",
@@ -927,13 +693,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/marc-broussard-portland-saturday-november-7-2026-800-pm/",
@@ -1042,5 +808,343 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Stop Light Observations at Jack London Revue in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
+  },
+  {
+    "id": "can-can-s-hitchcock-hotel-20261107",
+    "title": "Can Can's Hitchcock Hotel",
+    "date": "2026-11-07",
+    "time": "9:30 PM",
+    "venue": "Paris Theatre - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-saturday-november-7-2026-930-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Sat, November 7, 2026 at 9:30 PM."
+  },
+  {
+    "id": "matthew-broussard-20261107",
+    "title": "Matthew Broussard",
+    "date": "2026-11-07",
+    "time": "9:30 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/matthew-broussard-portland-helium-comedy-club-portland-saturday-november-7-2026-9-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Matthew Broussard at Helium Comedy Club - Portland in Portland, OR on Sat, November 7, 2026 at 9:30 PM."
+  },
+  {
+    "id": "oddities-and-curiosities-expo-20261108",
+    "title": "Oddities and Curiosities Expo",
+    "date": "2026-11-08",
+    "time": "10:00 AM",
+    "venue": "Oregon Convention Center",
+    "category": "Weird",
+    "categories": [
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Weird"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/oddities-and-curiosities-expo-portland-sunday-november-8-2026-1000-am/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Oddities and Curiosities Expo at Oregon Convention Center in Portland, OR on Sun, November 8, 2026 at 10:00 AM."
+  },
+  {
+    "id": "warren-miller-s-days-off-20261108",
+    "title": "Warren Miller's Days Off",
+    "date": "2026-11-08",
+    "time": "1:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/warren-millers-days-off-portland-aladdin-theater-sunday-november-8-2026-1-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Warren Miller's Days Off at Aladdin Theater in Portland, OR on Sun, November 8, 2026 at 1:00 PM."
+  },
+  {
+    "id": "rocky-mountain-high-experience-a-john-denver-christmas-20261108",
+    "title": "Rocky Mountain High Experience - A John Denver Christmas",
+    "date": "2026-11-08",
+    "time": "2:00 PM",
+    "venue": "The Dolores Winningstad Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/rocky-mountain-high-experience-a-john-denver-christmas-portland-the-dolores-winningstad-theatre-sunday-november-8-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Rocky Mountain High Experience - A John Denver Christmas at The Dolores Winningstad Theatre in Portland, OR on Sun, November 8, 2026 at 2:00 PM."
+  },
+  {
+    "id": "masood-boomgaard-20261108",
+    "title": "Masood Boomgaard",
+    "date": "2026-11-08",
+    "time": "3:30 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/masood-boomgaard-portland-helium-comedy-club-portland-sunday-november-8-2026-3-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Masood Boomgaard at Helium Comedy Club - Portland in Portland, OR on Sun, November 8, 2026 at 3:30 PM."
+  },
+  {
+    "id": "can-can-s-hitchcock-hotel-20261108",
+    "title": "Can Can's Hitchcock Hotel",
+    "date": "2026-11-08",
+    "time": "6:30 PM",
+    "venue": "Paris Theatre - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-sunday-november-8-2026-630-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Sun, November 8, 2026 at 6:30 PM."
+  },
+  {
+    "id": "souvenirs-celebrating-the-songs-of-john-prine-20261108",
+    "title": "Souvenirs - Celebrating the Songs of John Prine",
+    "date": "2026-11-08",
+    "time": "7:00 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/souvenirs-celebrating-the-songs-of-john-prine-portland-alberta-rose-theatre-sunday-november-8-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Souvenirs - Celebrating the Songs of John Prine at Alberta Rose Theatre in Portland, OR on Sun, November 8, 2026 at 7:00 PM."
+  },
+  {
+    "id": "teddy-swims-20261108",
+    "title": "Teddy Swims",
+    "date": "2026-11-08",
+    "time": "7:00 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/teddy-swims-portland-sunday-november-8-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Teddy Swims at Moda Center at the Rose Quarter in Portland, OR on Sun, November 8, 2026 at 7:00 PM."
+  },
+  {
+    "id": "myles-weber-20261108",
+    "title": "Myles Weber",
+    "date": "2026-11-08",
+    "time": "7:30 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/myles-weber-portland-neon-room-at-helium-comedy-club-portland-sunday-november-8-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Myles Weber at Neon Room at Helium Comedy Club - Portland in Portland, OR on Sun, November 8, 2026 at 7:30 PM."
+  },
+  {
+    "id": "dax-20261108",
+    "title": "Dax",
+    "date": "2026-11-08",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dax-portland-sunday-november-8-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Dax at Wonder Ballroom in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
+  },
+  {
+    "id": "derek-hough-20261108",
+    "title": "Derek Hough",
+    "date": "2026-11-08",
+    "time": "8:00 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/derek-hough-portland-sunday-november-8-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Derek Hough at Arlene Schnitzer Concert Hall in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
+  },
+  {
+    "id": "roger-clyne-and-the-peacemakers-20261108",
+    "title": "Roger Clyne And The Peacemakers",
+    "date": "2026-11-08",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/roger-clyne-and-the-peacemakers-portland-sunday-november-8-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Roger Clyne And The Peacemakers at Mississippi Studios in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
+  },
+  {
+    "id": "sparta-20261108",
+    "title": "Sparta",
+    "date": "2026-11-08",
+    "time": "8:00 PM",
+    "venue": "Show Bar At Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/sparta-portland-show-bar-at-revolution-hall-portland-sunday-november-8-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Sparta at Show Bar At Revolution Hall - Portland in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
+  },
+  {
+    "id": "syd-20261108",
+    "title": "Syd",
+    "date": "2026-11-08",
+    "time": "8:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/syd-portland-roseland-theater-sunday-november-8-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Syd at Roseland Theater in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
+  },
+  {
+    "id": "the-tallest-man-on-earth-20261108",
+    "title": "The Tallest Man on Earth",
+    "date": "2026-11-08",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-tallest-man-on-earth-portland-sunday-november-8-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: The Tallest Man on Earth at Revolution Hall - Portland in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
   }
 ]

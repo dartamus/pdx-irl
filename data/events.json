@@ -1,379 +1,5 @@
 [
   {
-    "id": "oddities-and-curiosities-expo-20261107",
-    "title": "Oddities and Curiosities Expo",
-    "date": "2026-11-07",
-    "time": "10:00 AM",
-    "venue": "Oregon Convention Center",
-    "category": "Weird",
-    "categories": [
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Weird"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/oddities-and-curiosities-expo-portland-saturday-november-7-2026-1000-am/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Oddities and Curiosities Expo at Oregon Convention Center in Portland, OR on Sat, November 7, 2026 at 10:00 AM."
-  },
-  {
-    "id": "christian-loffler-20261107",
-    "title": "Christian Loffler",
-    "date": "2026-11-07",
-    "time": "10:00 PM",
-    "venue": "The Den PDX",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/christian-loffler-portland-the-den-pdx-saturday-november-7-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Christian Loffler at The Den PDX in Portland, OR on Sat, November 7, 2026 at 10:00 PM."
-  },
-  {
-    "id": "gabriel-dresden-20261107",
-    "title": "Gabriel & Dresden",
-    "date": "2026-11-07",
-    "time": "10:00 PM",
-    "venue": "45 East",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/gabriel-and-dresden-portland-45-east-saturday-november-7-2026-10-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Gabriel & Dresden at 45 East in Portland, OR on Sat, November 7, 2026 at 10:00 PM."
-  },
-  {
-    "id": "dustin-anderson-20261107",
-    "title": "Dustin Anderson",
-    "date": "2026-11-07",
-    "time": "4:00 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dustin-anderson-portland-helium-comedy-club-portland-saturday-november-7-2026-4-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Dustin Anderson at Helium Comedy Club - Portland in Portland, OR on Sat, November 7, 2026 at 4:00 PM."
-  },
-  {
-    "id": "portland-winterhawks-vs-spokane-chiefs-20261107",
-    "title": "Portland Winterhawks vs. Spokane Chiefs",
-    "date": "2026-11-07",
-    "time": "6:00 PM",
-    "venue": "Portland Veterans Memorial Coliseum",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-spokane-chiefs-portland-saturday-november-7-2026-600-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland Winterhawks vs. Spokane Chiefs at Portland Veterans Memorial Coliseum in Portland, OR on Sat, November 7, 2026 at 6:00 PM."
-  },
-  {
-    "id": "portland-trail-blazers-vs-san-antonio-spurs-20261107",
-    "title": "Portland Trail Blazers vs. San Antonio Spurs",
-    "date": "2026-11-07",
-    "time": "7:00 PM",
-    "venue": "Moda Center at the Rose Quarter",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Outdoors",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Outdoors",
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-trail-blazers-vs-san-antonio-spurs-portland-moda-center-at-the-rose-quarter-saturday-november-7-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland Trail Blazers vs. San Antonio Spurs at Moda Center at the Rose Quarter in Portland, OR on Sat, November 7, 2026 at 7:00 PM."
-  },
-  {
-    "id": "dessa-the-oregon-symphony-20261107",
-    "title": "Dessa & The Oregon Symphony",
-    "date": "2026-11-07",
-    "time": "7:30 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dessa-and-the-oregon-symphony-portland-saturday-november-7-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Dessa & The Oregon Symphony at Arlene Schnitzer Concert Hall in Portland, OR on Sat, November 7, 2026 at 7:30 PM."
-  },
-  {
-    "id": "cigar-20261107",
-    "title": "Cigar",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "McMenamins White Eagle Saloon",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/cigar-portland-mcmenamins-white-eagle-saloon-saturday-november-7-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Cigar at McMenamins White Eagle Saloon in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "exhumed-20261107",
-    "title": "Exhumed",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "Star Theater Portland",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/exhumed-portland-star-theater-portland-saturday-november-7-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Exhumed at Star Theater Portland in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "joseph-the-band-20261107",
-    "title": "Joseph - The Band",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/joseph-the-band-portland-wonder-ballroom-saturday-november-7-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Joseph - The Band at Wonder Ballroom in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "marc-broussard-20261107",
-    "title": "Marc Broussard",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/marc-broussard-portland-saturday-november-7-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Marc Broussard at Aladdin Theater in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "pancakes-booze-20261107",
-    "title": "Pancakes & Booze",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pancakes-and-booze-portland-hawthorne-theatre-saturday-november-7-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Pancakes & Booze at Hawthorne Theatre in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "pedro-the-lion-20261107",
-    "title": "Pedro the Lion",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pedro-the-lion-portland-saturday-november-7-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Pedro the Lion at Polaris Hall in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "quadeca-20261107",
-    "title": "Quadeca",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/quadeca-portland-saturday-november-7-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Quadeca at Revolution Hall - Portland in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "sienna-spiro-20261107",
-    "title": "Sienna Spiro",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/sienna-spiro-portland-saturday-november-7-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Sienna Spiro at McMenamins Crystal Ballroom in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "stop-light-observations-20261107",
-    "title": "Stop Light Observations",
-    "date": "2026-11-07",
-    "time": "8:00 PM",
-    "venue": "Jack London Revue",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/stop-light-observations-portland-saturday-november-7-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Stop Light Observations at Jack London Revue in Portland, OR on Sat, November 7, 2026 at 8:00 PM."
-  },
-  {
-    "id": "can-can-s-hitchcock-hotel-20261107",
-    "title": "Can Can's Hitchcock Hotel",
-    "date": "2026-11-07",
-    "time": "9:30 PM",
-    "venue": "Paris Theatre - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-saturday-november-7-2026-930-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Sat, November 7, 2026 at 9:30 PM."
-  },
-  {
-    "id": "matthew-broussard-20261107",
-    "title": "Matthew Broussard",
-    "date": "2026-11-07",
-    "time": "9:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/matthew-broussard-portland-helium-comedy-club-portland-saturday-november-7-2026-9-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Matthew Broussard at Helium Comedy Club - Portland in Portland, OR on Sat, November 7, 2026 at 9:30 PM."
-  },
-  {
     "id": "oddities-and-curiosities-expo-20261108",
     "title": "Oddities and Curiosities Expo",
     "date": "2026-11-08",
@@ -799,13 +425,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/foy-vance-portland-tuesday-november-10-2026-700-pm/",
@@ -883,13 +509,13 @@
     "venue": "Roseland Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/band-of-horses-portland-tuesday-november-10-2026-800-pm/",
@@ -966,14 +592,14 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/portland-trail-blazers-vs-oklahoma-city-thunder-portland-moda-center-at-the-rose-quarter-tuesday-november-10-2026-8-00-pm/",
@@ -1029,13 +655,13 @@
     "venue": "Alberta Rose Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/john-mccutcheon-portland-wednesday-november-11-2026-700-pm/",
@@ -1072,14 +698,14 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/portland-trail-blazers-vs-oklahoma-city-thunder-portland-moda-center-at-the-rose-quarter-wednesday-november-11-2026-7-00-pm/",
@@ -1108,5 +734,313 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Comedy show: Perfect Person Live at Helium Comedy Club - Portland in Portland, OR on Wed, November 11, 2026 at 7:30 PM."
+  },
+  {
+    "id": "portugal-the-man-the-oregon-symphony-20261111",
+    "title": "Portugal. The Man & The Oregon Symphony",
+    "date": "2026-11-11",
+    "time": "7:30 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portugal-the-man-and-the-oregon-symphony-portland-wednesday-november-11-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Portugal. The Man & The Oregon Symphony at Arlene Schnitzer Concert Hall in Portland, OR on Wed, November 11, 2026 at 7:30 PM."
+  },
+  {
+    "id": "a-strange-bird-20261111",
+    "title": "A Strange Bird",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/a-strange-bird-portland-dantes-caffe-italiano-wednesday-november-11-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: A Strange Bird at Dante's Caffe Italiano in Portland, OR on Wed, November 11, 2026 at 8:00 PM."
+  },
+  {
+    "id": "bill-squire-20261111",
+    "title": "Bill Squire",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/bill-squire-portland-neon-room-at-helium-comedy-club-portland-wednesday-november-11-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Bill Squire at Neon Room at Helium Comedy Club - Portland in Portland, OR on Wed, November 11, 2026 at 8:00 PM."
+  },
+  {
+    "id": "lucy-bedroque-20261111",
+    "title": "Lucy Bedroque",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/lucy-bedroque-portland-wonder-ballroom-wednesday-november-11-2026-tba/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Lucy Bedroque at Wonder Ballroom in Portland, OR on Wed, November 11, 2026 at 8:00 PM."
+  },
+  {
+    "id": "other-lives-20261111",
+    "title": "Other Lives",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/other-lives-portland-wednesday-november-11-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Other Lives at Mississippi Studios in Portland, OR on Wed, November 11, 2026 at 8:00 PM."
+  },
+  {
+    "id": "squirrel-flower-20261111",
+    "title": "Squirrel Flower",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/squirrel-flower-portland-wednesday-november-11-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Squirrel Flower at Aladdin Theater in Portland, OR on Wed, November 11, 2026 at 8:00 PM."
+  },
+  {
+    "id": "tank-and-the-bangas-20261111",
+    "title": "Tank and The Bangas",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/tank-and-the-bangas-portland-revolution-hall-portland-wednesday-november-11-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Tank and The Bangas at Revolution Hall - Portland in Portland, OR on Wed, November 11, 2026 at 8:00 PM."
+  },
+  {
+    "id": "the-hails-20261111",
+    "title": "The Hails",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "venue": "McMenamins Mission Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-hails-portland-wednesday-november-11-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: The Hails at McMenamins Mission Theatre in Portland, OR on Wed, November 11, 2026 at 8:00 PM."
+  },
+  {
+    "id": "vansire-20261111",
+    "title": "Vansire",
+    "date": "2026-11-11",
+    "time": "8:00 PM",
+    "venue": "Polaris Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/vansire-portland-polaris-hall-wednesday-november-11-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Vansire at Polaris Hall in Portland, OR on Wed, November 11, 2026 at 8:00 PM."
+  },
+  {
+    "id": "mel-brown-b-3-organ-group-20261112",
+    "title": "Mel Brown B-3 Organ Group",
+    "date": "2026-11-12",
+    "time": "7:00 PM",
+    "venue": "Jack London Revue",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/mel-brown-b-3-organ-group-portland-jack-london-revue-thursday-november-12-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Mel Brown B-3 Organ Group at Jack London Revue in Portland, OR on Thu, November 12, 2026 at 7:00 PM."
+  },
+  {
+    "id": "portland-state-vikings-volleyball-vs-idaho-state-bengals-20261112",
+    "title": "Portland State Vikings Volleyball vs. Idaho State Bengals",
+    "date": "2026-11-12",
+    "time": "7:00 PM",
+    "venue": "Portland State's Viking Pavilion",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-volleyball-vs-idaho-state-bengals-portland-portland-states-viking-pavilion-thursday-november-12-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland State Vikings Volleyball vs. Idaho State Bengals at Portland State's Viking Pavilion in Portland, OR on Thu, November 12, 2026 at 7:00 PM."
+  },
+  {
+    "id": "allison-russell-20261112",
+    "title": "Allison Russell",
+    "date": "2026-11-12",
+    "time": "7:30 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/allison-russell-portland-mcmenamins-crystal-ballroom-thursday-november-12-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Allison Russell at Wonder Ballroom in Portland, OR on Thu, November 12, 2026 at 7:30 PM."
+  },
+  {
+    "id": "drive-by-truckers-20261112",
+    "title": "Drive By Truckers",
+    "date": "2026-11-12",
+    "time": "7:30 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/drive-by-truckers-portland-thursday-november-12-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Drive By Truckers at Revolution Hall - Portland in Portland, OR on Thu, November 12, 2026 at 7:30 PM."
+  },
+  {
+    "id": "mark-paul-20261112",
+    "title": "Mark Paul",
+    "date": "2026-11-12",
+    "time": "7:30 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/mark-paul-portland-thursday-november-12-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Mark Paul at Neon Room at Helium Comedy Club - Portland in Portland, OR on Thu, November 12, 2026 at 7:30 PM."
+  },
+  {
+    "id": "portugal-the-man-the-oregon-symphony-20261112",
+    "title": "Portugal. The Man & The Oregon Symphony",
+    "date": "2026-11-12",
+    "time": "7:30 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portugal-the-man-and-the-oregon-symphony-portland-thursday-november-12-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Portugal. The Man & The Oregon Symphony at Arlene Schnitzer Concert Hall in Portland, OR on Thu, November 12, 2026 at 7:30 PM."
   }
 ]

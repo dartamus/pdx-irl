@@ -1,321 +1,5 @@
 [
   {
-    "id": "oddities-and-curiosities-expo-20261108",
-    "title": "Oddities and Curiosities Expo",
-    "date": "2026-11-08",
-    "time": "10:00 AM",
-    "venue": "Oregon Convention Center",
-    "category": "Weird",
-    "categories": [
-      "Weird"
-    ],
-    "adult": false,
-    "tags": [
-      "Weird"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/oddities-and-curiosities-expo-portland-sunday-november-8-2026-1000-am/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Oddities and Curiosities Expo at Oregon Convention Center in Portland, OR on Sun, November 8, 2026 at 10:00 AM."
-  },
-  {
-    "id": "warren-miller-s-days-off-20261108",
-    "title": "Warren Miller's Days Off",
-    "date": "2026-11-08",
-    "time": "1:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/warren-millers-days-off-portland-aladdin-theater-sunday-november-8-2026-1-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Warren Miller's Days Off at Aladdin Theater in Portland, OR on Sun, November 8, 2026 at 1:00 PM."
-  },
-  {
-    "id": "rocky-mountain-high-experience-a-john-denver-christmas-20261108",
-    "title": "Rocky Mountain High Experience - A John Denver Christmas",
-    "date": "2026-11-08",
-    "time": "2:00 PM",
-    "venue": "The Dolores Winningstad Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/rocky-mountain-high-experience-a-john-denver-christmas-portland-the-dolores-winningstad-theatre-sunday-november-8-2026-2-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Rocky Mountain High Experience - A John Denver Christmas at The Dolores Winningstad Theatre in Portland, OR on Sun, November 8, 2026 at 2:00 PM."
-  },
-  {
-    "id": "masood-boomgaard-20261108",
-    "title": "Masood Boomgaard",
-    "date": "2026-11-08",
-    "time": "3:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/masood-boomgaard-portland-helium-comedy-club-portland-sunday-november-8-2026-3-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Masood Boomgaard at Helium Comedy Club - Portland in Portland, OR on Sun, November 8, 2026 at 3:30 PM."
-  },
-  {
-    "id": "can-can-s-hitchcock-hotel-20261108",
-    "title": "Can Can's Hitchcock Hotel",
-    "date": "2026-11-08",
-    "time": "6:30 PM",
-    "venue": "Paris Theatre - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-sunday-november-8-2026-630-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Sun, November 8, 2026 at 6:30 PM."
-  },
-  {
-    "id": "souvenirs-celebrating-the-songs-of-john-prine-20261108",
-    "title": "Souvenirs - Celebrating the Songs of John Prine",
-    "date": "2026-11-08",
-    "time": "7:00 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/souvenirs-celebrating-the-songs-of-john-prine-portland-alberta-rose-theatre-sunday-november-8-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Souvenirs - Celebrating the Songs of John Prine at Alberta Rose Theatre in Portland, OR on Sun, November 8, 2026 at 7:00 PM."
-  },
-  {
-    "id": "teddy-swims-20261108",
-    "title": "Teddy Swims",
-    "date": "2026-11-08",
-    "time": "7:00 PM",
-    "venue": "Moda Center at the Rose Quarter",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/teddy-swims-portland-sunday-november-8-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Teddy Swims at Moda Center at the Rose Quarter in Portland, OR on Sun, November 8, 2026 at 7:00 PM."
-  },
-  {
-    "id": "myles-weber-20261108",
-    "title": "Myles Weber",
-    "date": "2026-11-08",
-    "time": "7:30 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/myles-weber-portland-neon-room-at-helium-comedy-club-portland-sunday-november-8-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Myles Weber at Neon Room at Helium Comedy Club - Portland in Portland, OR on Sun, November 8, 2026 at 7:30 PM."
-  },
-  {
-    "id": "dax-20261108",
-    "title": "Dax",
-    "date": "2026-11-08",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dax-portland-sunday-november-8-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Dax at Wonder Ballroom in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
-  },
-  {
-    "id": "derek-hough-20261108",
-    "title": "Derek Hough",
-    "date": "2026-11-08",
-    "time": "8:00 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/derek-hough-portland-sunday-november-8-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Derek Hough at Arlene Schnitzer Concert Hall in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
-  },
-  {
-    "id": "pedro-the-lion-20261108",
-    "title": "Pedro the Lion",
-    "date": "2026-11-08",
-    "time": "8:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/pedro-the-lion-portland-sunday-november-8-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Pedro the Lion at Polaris Hall in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
-  },
-  {
-    "id": "roger-clyne-and-the-peacemakers-20261108",
-    "title": "Roger Clyne And The Peacemakers",
-    "date": "2026-11-08",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/roger-clyne-and-the-peacemakers-portland-sunday-november-8-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Roger Clyne And The Peacemakers at Mississippi Studios in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
-  },
-  {
-    "id": "sparta-20261108",
-    "title": "Sparta",
-    "date": "2026-11-08",
-    "time": "8:00 PM",
-    "venue": "Show Bar At Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/sparta-portland-show-bar-at-revolution-hall-portland-sunday-november-8-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Sparta at Show Bar At Revolution Hall - Portland in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
-  },
-  {
-    "id": "syd-20261108",
-    "title": "Syd",
-    "date": "2026-11-08",
-    "time": "8:00 PM",
-    "venue": "Roseland Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/syd-portland-roseland-theater-sunday-november-8-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Syd at Roseland Theater in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
-  },
-  {
-    "id": "the-tallest-man-on-earth-20261108",
-    "title": "The Tallest Man on Earth",
-    "date": "2026-11-08",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-tallest-man-on-earth-portland-sunday-november-8-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: The Tallest Man on Earth at Revolution Hall - Portland in Portland, OR on Sun, November 8, 2026 at 8:00 PM."
-  },
-  {
     "id": "jake-minch-20261109",
     "title": "Jake Minch",
     "date": "2026-11-09",
@@ -845,13 +529,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/squirrel-flower-portland-wednesday-november-11-2026-800-pm/",
@@ -887,13 +571,13 @@
     "venue": "McMenamins Mission Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/the-hails-portland-wednesday-november-11-2026-800-pm/",
@@ -1042,5 +726,87 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Portugal. The Man & The Oregon Symphony at Arlene Schnitzer Concert Hall in Portland, OR on Thu, November 12, 2026 at 7:30 PM."
+  },
+  {
+    "id": "2slimey-20261112",
+    "title": "2Slimey",
+    "date": "2026-11-12",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/2slimey-portland-hawthorne-theatre-thursday-november-12-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: 2Slimey at Hawthorne Theatre in Portland, OR on Thu, November 12, 2026 at 8:00 PM."
+  },
+  {
+    "id": "clay-street-unit-20261112",
+    "title": "Clay Street Unit",
+    "date": "2026-11-12",
+    "time": "8:00 PM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/clay-street-unit-portland-showdown-saloon-thursday-november-12-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Clay Street Unit at Showdown Saloon in Portland, OR on Thu, November 12, 2026 at 8:00 PM."
+  },
+  {
+    "id": "deathtape-20261112",
+    "title": "Deathtape",
+    "date": "2026-11-12",
+    "time": "8:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/deathtape-portland-dantes-caffe-italiano-thursday-november-12-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Deathtape at Dante's Caffe Italiano in Portland, OR on Thu, November 12, 2026 at 8:00 PM."
+  },
+  {
+    "id": "penn-teller-20261112",
+    "title": "Penn & Teller",
+    "date": "2026-11-12",
+    "time": "8:00 PM",
+    "venue": "Keller Auditorium",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/penn-and-teller-portland-keller-auditorium-thursday-november-12-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Penn & Teller at Keller Auditorium in Portland, OR on Thu, November 12, 2026 at 8:00 PM."
   }
 ]

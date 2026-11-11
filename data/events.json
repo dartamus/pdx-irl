@@ -1,107 +1,5 @@
 [
   {
-    "id": "jake-minch-20261109",
-    "title": "Jake Minch",
-    "date": "2026-11-09",
-    "time": "7:00 PM",
-    "venue": "Holocene",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jake-minch-portland-monday-november-9-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Jake Minch at Holocene in Portland, OR on Mon, November 9, 2026 at 7:00 PM."
-  },
-  {
-    "id": "square-dancing-20261109",
-    "title": "Square Dancing",
-    "date": "2026-11-09",
-    "time": "7:00 PM",
-    "venue": "Showdown Saloon",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/square-dancing-portland-showdown-saloon-monday-november-9-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Square Dancing at Showdown Saloon in Portland, OR on Mon, November 9, 2026 at 7:00 PM."
-  },
-  {
-    "id": "aterciopelados-20261109",
-    "title": "Aterciopelados",
-    "date": "2026-11-09",
-    "time": "8:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/aterciopelados-portland-aladdin-theater-monday-november-9-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Aterciopelados at Aladdin Theater in Portland, OR on Mon, November 9, 2026 at 8:00 PM."
-  },
-  {
-    "id": "emily-scott-robinson-20261109",
-    "title": "Emily Scott Robinson",
-    "date": "2026-11-09",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/emily-scott-robinson-portland-mississippi-studios-monday-november-9-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Emily Scott Robinson at Mississippi Studios in Portland, OR on Mon, November 9, 2026 at 8:00 PM."
-  },
-  {
-    "id": "karaoke-from-hell-20261109",
-    "title": "Karaoke From Hell",
-    "date": "2026-11-09",
-    "time": "9:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/karaoke-from-hell-portland-monday-november-9-2026-900-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Karaoke From Hell at Dante's Caffe Italiano in Portland, OR on Mon, November 9, 2026 at 9:00 PM."
-  },
-  {
     "id": "foy-vance-20261110",
     "title": "Foy Vance",
     "date": "2026-11-10",
@@ -735,13 +633,13 @@
     "venue": "Hawthorne Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/2slimey-portland-hawthorne-theatre-thursday-november-12-2026-8-00-pm/",
@@ -790,6 +688,26 @@
     "description": "Concert: Deathtape at Dante's Caffe Italiano in Portland, OR on Thu, November 12, 2026 at 8:00 PM."
   },
   {
+    "id": "goodnight-texas-20261112",
+    "title": "Goodnight, Texas",
+    "date": "2026-11-12",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/goodnight-texas-portland-mississippi-studios-thursday-november-12-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Goodnight, Texas at Mississippi Studios in Portland, OR on Thu, November 12, 2026 at 8:00 PM."
+  },
+  {
     "id": "penn-teller-20261112",
     "title": "Penn & Teller",
     "date": "2026-11-12",
@@ -808,5 +726,283 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Show: Penn & Teller at Keller Auditorium in Portland, OR on Thu, November 12, 2026 at 8:00 PM."
+  },
+  {
+    "id": "lee-syatt-20261112",
+    "title": "Lee Syatt",
+    "date": "2026-11-12",
+    "time": "9:30 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/lee-syatt-portland-thursday-november-12-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Lee Syatt at Neon Room at Helium Comedy Club - Portland in Portland, OR on Thu, November 12, 2026 at 9:30 PM."
+  },
+  {
+    "id": "conversational-lube-the-first-live-comedy-dating-show-20261113",
+    "title": "Conversational Lube - The First Live Comedy Dating Show",
+    "date": "2026-11-13",
+    "time": "7:00 PM",
+    "venue": "McMenamins Al's Den",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-november-13-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
+  },
+  {
+    "id": "d-l-hughley-don-lemon-20261113",
+    "title": "D.L. Hughley & Don Lemon",
+    "date": "2026-11-13",
+    "time": "7:00 PM",
+    "venue": "Arlene Schnitzer Concert Hall",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dl-hughley-and-don-lemon-portland-friday-november-13-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: D.L. Hughley & Don Lemon at Arlene Schnitzer Concert Hall in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
+  },
+  {
+    "id": "fred-armisen-s-comedy-for-musicians-but-everyone-is-welcome-20261113",
+    "title": "Fred Armisen's Comedy For Musicians But Everyone Is Welcome",
+    "date": "2026-11-13",
+    "time": "7:00 PM",
+    "venue": "Newmark Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/fred-armisens-comedy-for-musicians-but-everyone-is-welcome-portland-newmark-theatre-friday-november-13-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Fred Armisen's Comedy For Musicians But Everyone Is Welcome at Newmark Theatre in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
+  },
+  {
+    "id": "portland-state-vikings-vs-southern-utah-thunderbirds-20261113",
+    "title": "Portland State Vikings vs. Southern Utah Thunderbirds",
+    "date": "2026-11-13",
+    "time": "7:00 PM",
+    "venue": "Hillsboro Stadium",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-vs-southern-utah-thunderbirds-hillsboro-saturday-november-14-2026-tba/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Portland State Vikings vs. Southern Utah Thunderbirds at Hillsboro Stadium in Hillsboro, OR on Fri, November 13, 2026 at 7:00 PM."
+  },
+  {
+    "id": "static-dress-20261113",
+    "title": "Static Dress",
+    "date": "2026-11-13",
+    "time": "7:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/static-dress-portland-hawthorne-theatre-friday-november-13-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Static Dress at Hawthorne Theatre in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
+  },
+  {
+    "id": "tim-meadows-20261113",
+    "title": "Tim Meadows",
+    "date": "2026-11-13",
+    "time": "7:00 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/tim-meadows-portland-helium-comedy-club-portland-friday-november-13-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Tim Meadows at Helium Comedy Club - Portland in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
+  },
+  {
+    "id": "armored-saint-metal-church-20261113",
+    "title": "Armored Saint & Metal Church",
+    "date": "2026-11-13",
+    "time": "7:30 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/armored-saint-and-metal-church-portland-friday-november-13-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Armored Saint & Metal Church at Dante's Caffe Italiano in Portland, OR on Fri, November 13, 2026 at 7:30 PM."
+  },
+  {
+    "id": "lee-syatt-20261113",
+    "title": "Lee Syatt",
+    "date": "2026-11-13",
+    "time": "7:30 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/lee-syatt-portland-friday-november-13-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Lee Syatt at Neon Room at Helium Comedy Club - Portland in Portland, OR on Fri, November 13, 2026 at 7:30 PM."
+  },
+  {
+    "id": "drive-by-truckers-20261113",
+    "title": "Drive By Truckers",
+    "date": "2026-11-13",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/drive-by-truckers-portland-friday-november-13-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Drive By Truckers at Revolution Hall - Portland in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
+  },
+  {
+    "id": "houndmouth-20261113",
+    "title": "Houndmouth",
+    "date": "2026-11-13",
+    "time": "8:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/houndmouth-portland-friday-november-13-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Houndmouth at McMenamins Crystal Ballroom in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
+  },
+  {
+    "id": "silverada-20261113",
+    "title": "Silverada",
+    "date": "2026-11-13",
+    "time": "8:00 PM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/silverada-portland-showdown-saloon-friday-november-13-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Silverada at Showdown Saloon in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
+  },
+  {
+    "id": "tik-tok-2010s-recession-pop-dance-night-20261113",
+    "title": "TiK ToK: 2010s Recession Pop Dance Night",
+    "date": "2026-11-13",
+    "time": "8:00 PM",
+    "venue": "McMenamins Mission Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/tik-tok-2010s-recession-pop-dance-night-portland-mcmenamins-mission-theatre-friday-november-13-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: TiK ToK: 2010s Recession Pop Dance Night at McMenamins Mission Theatre in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
   }
 ]

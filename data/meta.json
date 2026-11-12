@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T20:13:50.676764+00:00",
-  "eventCount": 48,
+  "updatedAt": "2026-11-12T20:51:17.291104+00:00",
+  "eventCount": 44,
   "rawFound": 30,
-  "duplicatesWithinFresh": 0,
+  "duplicatesWithinFresh": 2,
   "sources": [
     {
       "source": "Travel Portland",

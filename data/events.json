@@ -1,235 +1,5 @@
 [
   {
-    "id": "foy-vance-20261110",
-    "title": "Foy Vance",
-    "date": "2026-11-10",
-    "time": "7:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/foy-vance-portland-tuesday-november-10-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Foy Vance at Aladdin Theater in Portland, OR on Tue, November 10, 2026 at 7:00 PM."
-  },
-  {
-    "id": "henry-diltz-20261110",
-    "title": "Henry Diltz",
-    "date": "2026-11-10",
-    "time": "7:00 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/henry-diltz-portland-tuesday-november-10-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Henry Diltz at Alberta Rose Theatre in Portland, OR on Tue, November 10, 2026 at 7:00 PM."
-  },
-  {
-    "id": "charles-mcbee-20261110",
-    "title": "Charles McBee",
-    "date": "2026-11-10",
-    "time": "7:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/charles-mcbee-portland-helium-comedy-club-portland-tuesday-november-10-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Charles McBee at Helium Comedy Club - Portland in Portland, OR on Tue, November 10, 2026 at 7:30 PM."
-  },
-  {
-    "id": "armand-hammer-20261110",
-    "title": "Armand Hammer",
-    "date": "2026-11-10",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/armand-hammer-portland-tuesday-november-10-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Armand Hammer at Mississippi Studios in Portland, OR on Tue, November 10, 2026 at 8:00 PM."
-  },
-  {
-    "id": "band-of-horses-20261110",
-    "title": "Band of Horses",
-    "date": "2026-11-10",
-    "time": "8:00 PM",
-    "venue": "Roseland Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/band-of-horses-portland-tuesday-november-10-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Band of Horses at Roseland Theater in Portland, OR on Tue, November 10, 2026 at 8:00 PM."
-  },
-  {
-    "id": "beck-20261110",
-    "title": "Beck",
-    "date": "2026-11-10",
-    "time": "8:00 PM",
-    "venue": "Keller Auditorium",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/beck-portland-saturday-september-19-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Beck at Keller Auditorium in Portland, OR on Tue, November 10, 2026 at 8:00 PM."
-  },
-  {
-    "id": "craig-finn-20261110",
-    "title": "Craig Finn",
-    "date": "2026-11-10",
-    "time": "8:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/craig-finn-portland-polaris-hall-tuesday-november-10-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Craig Finn at Polaris Hall in Portland, OR on Tue, November 10, 2026 at 8:00 PM."
-  },
-  {
-    "id": "jon-spencer-20261110",
-    "title": "Jon Spencer",
-    "date": "2026-11-10",
-    "time": "8:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jon-spencer-portland-tuesday-november-10-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Jon Spencer at Dante's Caffe Italiano in Portland, OR on Tue, November 10, 2026 at 8:00 PM."
-  },
-  {
-    "id": "portland-trail-blazers-vs-oklahoma-city-thunder-20261110",
-    "title": "Portland Trail Blazers vs. Oklahoma City Thunder",
-    "date": "2026-11-10",
-    "time": "8:00 PM",
-    "venue": "Moda Center at the Rose Quarter",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Outdoors",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Outdoors",
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-trail-blazers-vs-oklahoma-city-thunder-portland-moda-center-at-the-rose-quarter-tuesday-november-10-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland Trail Blazers vs. Oklahoma City Thunder at Moda Center at the Rose Quarter in Portland, OR on Tue, November 10, 2026 at 8:00 PM."
-  },
-  {
-    "id": "the-black-angels-20261110",
-    "title": "The Black Angels",
-    "date": "2026-11-10",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-black-angels-portland-tuesday-november-10-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: The Black Angels at McMenamins Crystal Ballroom in Portland, OR on Tue, November 10, 2026 at 8:00 PM."
-  },
-  {
-    "id": "sassy-009-20261110",
-    "title": "Sassy 009",
-    "date": "2026-11-10",
-    "time": "9:00 PM",
-    "venue": "Holocene",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/sassy-009-portland-holocene-tuesday-november-10-2026-9-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Sassy 009 at Holocene in Portland, OR on Tue, November 10, 2026 at 9:00 PM."
-  },
-  {
     "id": "john-mccutcheon-20261111",
     "title": "John McCutcheon",
     "date": "2026-11-11",
@@ -750,6 +520,26 @@
     "description": "Comedy show: Lee Syatt at Neon Room at Helium Comedy Club - Portland in Portland, OR on Thu, November 12, 2026 at 9:30 PM."
   },
   {
+    "id": "the-jury-experience-an-immersive-courtroom-case-20261113",
+    "title": "The Jury Experience: An Immersive Courtroom Case",
+    "date": "2026-11-13",
+    "time": "6:00 PM",
+    "venue": "Alberta Abbey",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-jury-experience-an-immersive-courtroom-case-portland-alberta-abbey-friday-november-13-2026-6-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: The Jury Experience: An Immersive Courtroom Case at Alberta Abbey in Portland, OR on Fri, November 13, 2026 at 6:00 PM."
+  },
+  {
     "id": "conversational-lube-the-first-live-comedy-dating-show-20261113",
     "title": "Conversational Lube - The First Live Comedy Dating Show",
     "date": "2026-11-13",
@@ -757,13 +547,13 @@
     "venue": "McMenamins Al's Den",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Comedy"
+      "Comedy",
+      "Singles"
     ],
     "adult": false,
     "tags": [
-      "Singles",
-      "Comedy"
+      "Comedy",
+      "Singles"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-november-13-2026-700-pm/",
@@ -779,13 +569,13 @@
     "venue": "Arlene Schnitzer Concert Hall",
     "category": "Music",
     "categories": [
-      "Music",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/dl-hughley-and-don-lemon-portland-friday-november-13-2026-700-pm/",
@@ -801,15 +591,15 @@
     "venue": "Newmark Theatre",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/fred-armisens-comedy-for-musicians-but-everyone-is-welcome-portland-newmark-theatre-friday-november-13-2026-7-00-pm/",
@@ -845,13 +635,13 @@
     "venue": "Hawthorne Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/static-dress-portland-hawthorne-theatre-friday-november-13-2026-7-00-pm/",
@@ -964,6 +754,28 @@
     "description": "Concert: Houndmouth at McMenamins Crystal Ballroom in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
   },
   {
+    "id": "johnny-franco-his-real-brother-dom-20261113",
+    "title": "Johnny Franco & His Real Brother Dom",
+    "date": "2026-11-13",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/johnny-franco-and-his-real-brother-dom-portland-aladdin-theater-friday-november-13-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Johnny Franco & His Real Brother Dom at Aladdin Theater in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
+  },
+  {
     "id": "silverada-20261113",
     "title": "Silverada",
     "date": "2026-11-13",
@@ -984,6 +796,28 @@
     "description": "Concert: Silverada at Showdown Saloon in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
   },
   {
+    "id": "the-big-trans-comedy-show-20261113",
+    "title": "The Big Trans Comedy Show",
+    "date": "2026-11-13",
+    "time": "8:00 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-big-trans-comedy-show-portland-alberta-rose-theatre-friday-november-13-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: The Big Trans Comedy Show at Alberta Rose Theatre in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
+  },
+  {
     "id": "tik-tok-2010s-recession-pop-dance-night-20261113",
     "title": "TiK ToK: 2010s Recession Pop Dance Night",
     "date": "2026-11-13",
@@ -991,18 +825,100 @@
     "venue": "McMenamins Mission Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/tik-tok-2010s-recession-pop-dance-night-portland-mcmenamins-mission-theatre-friday-november-13-2026-8-00-pm/",
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: TiK ToK: 2010s Recession Pop Dance Night at McMenamins Mission Theatre in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
+  },
+  {
+    "id": "beauz-20261113",
+    "title": "Beauz",
+    "date": "2026-11-13",
+    "time": "9:00 PM",
+    "venue": "Realm - OR",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/beauz-portland-realm-or-friday-november-13-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Beauz at Realm - OR in Portland, OR on Fri, November 13, 2026 at 9:00 PM."
+  },
+  {
+    "id": "karina-rykman-20261113",
+    "title": "Karina Rykman",
+    "date": "2026-11-13",
+    "time": "9:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/karina-rykman-portland-friday-november-13-2026-900-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Karina Rykman at Mississippi Studios in Portland, OR on Fri, November 13, 2026 at 9:00 PM."
+  },
+  {
+    "id": "can-can-s-hitchcock-hotel-20261113",
+    "title": "Can Can's Hitchcock Hotel",
+    "date": "2026-11-13",
+    "time": "9:30 PM",
+    "venue": "Paris Theatre - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-friday-november-13-2026-930-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Fri, November 13, 2026 at 9:30 PM."
+  },
+  {
+    "id": "fred-armisen-20261113",
+    "title": "Fred Armisen",
+    "date": "2026-11-13",
+    "time": "9:30 PM",
+    "venue": "Newmark Theatre",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/fred-armisen-portland-newmark-theatre-friday-november-13-2026-9-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Fred Armisen at Newmark Theatre in Portland, OR on Fri, November 13, 2026 at 9:30 PM."
   }
 ]

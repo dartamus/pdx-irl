@@ -786,5 +786,193 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Sat, November 14, 2026 at 6:30 PM."
+  },
+  {
+    "id": "brett-goldstein-20261114",
+    "title": "Brett Goldstein",
+    "date": "2026-11-14",
+    "time": "7:00 PM",
+    "venue": "Keller Auditorium",
+    "category": "Comedy",
+    "categories": [
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/brett-goldstein-portland-keller-auditorium-saturday-november-14-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Brett Goldstein at Keller Auditorium in Portland, OR on Sat, November 14, 2026 at 7:00 PM."
+  },
+  {
+    "id": "leanna-firestone-20261114",
+    "title": "Leanna Firestone",
+    "date": "2026-11-14",
+    "time": "7:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/leanna-firestone-portland-hawthorne-theatre-saturday-november-14-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Leanna Firestone at Hawthorne Theatre in Portland, OR on Sat, November 14, 2026 at 7:00 PM."
+  },
+  {
+    "id": "lee-syatt-20261114",
+    "title": "Lee Syatt",
+    "date": "2026-11-14",
+    "time": "7:30 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/lee-syatt-portland-saturday-november-14-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Lee Syatt at Neon Room at Helium Comedy Club - Portland in Portland, OR on Sat, November 14, 2026 at 7:30 PM."
+  },
+  {
+    "id": "chris-acker-20261114",
+    "title": "Chris Acker",
+    "date": "2026-11-14",
+    "time": "8:00 PM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/chris-acker-portland-showdown-saloon-saturday-november-14-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Chris Acker at Showdown Saloon in Portland, OR on Sat, November 14, 2026 at 8:00 PM."
+  },
+  {
+    "id": "drive-by-truckers-20261114",
+    "title": "Drive By Truckers",
+    "date": "2026-11-14",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/drive-by-truckers-portland-revolution-hall-portland-saturday-november-14-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Drive By Truckers at Revolution Hall - Portland in Portland, OR on Sat, November 14, 2026 at 8:00 PM."
+  },
+  {
+    "id": "nimino-20261114",
+    "title": "Nimino",
+    "date": "2026-11-14",
+    "time": "8:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/nimino-portland-saturday-november-14-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Nimino at Roseland Theater in Portland, OR on Sat, November 14, 2026 at 8:00 PM."
+  },
+  {
+    "id": "russian-circles-20261114",
+    "title": "Russian Circles",
+    "date": "2026-11-14",
+    "time": "8:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/russian-circles-portland-saturday-november-14-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Russian Circles at McMenamins Crystal Ballroom in Portland, OR on Sat, November 14, 2026 at 8:00 PM."
+  },
+  {
+    "id": "desert-dwellers-20261114",
+    "title": "Desert Dwellers",
+    "date": "2026-11-14",
+    "time": "9:00 PM",
+    "venue": "Star Theater Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/desert-dwellers-portland-star-theater-portland-saturday-november-14-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Desert Dwellers at Star Theater Portland in Portland, OR on Sat, November 14, 2026 at 9:00 PM."
+  },
+  {
+    "id": "margaret-glaspy-20261114",
+    "title": "Margaret Glaspy",
+    "date": "2026-11-14",
+    "time": "9:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/margaret-glaspy-portland-saturday-november-14-2026-900-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Margaret Glaspy at Mississippi Studios in Portland, OR on Sat, November 14, 2026 at 9:00 PM."
   }
 ]

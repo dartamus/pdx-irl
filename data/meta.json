@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T20:30:15.771205+00:00",
-  "eventCount": 47,
-  "rawFound": 30,
+  "updatedAt": "2026-11-14T18:45:16.922861+00:00",
+  "eventCount": 54,
+  "rawFound": 31,
   "duplicatesWithinFresh": 2,
   "sources": [
     {
@@ -31,9 +31,8 @@
     },
     {
       "source": "PDX Pipeline",
-      "found": 0,
-      "ok": false,
-      "error": "403 Client Error: Forbidden for url: https://www.pdxpipeline.com/"
+      "found": 1,
+      "ok": true
     },
     {
       "source": "Shuffle Dating Portland",

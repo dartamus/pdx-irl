@@ -1,491 +1,5 @@
 [
   {
-    "id": "alix-perez-20261113",
-    "title": "Alix Perez",
-    "date": "2026-11-13",
-    "time": "10:00 PM",
-    "venue": "The Den PDX",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/alix-perez-portland-the-den-pdx-friday-november-13-2026-10-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Alix Perez at The Den PDX in Portland, OR on Fri, November 13, 2026 at 10:00 PM."
-  },
-  {
-    "id": "comedy-night-hosted-by-brandon-lyons-20261113",
-    "title": "Comedy Night Hosted by Brandon Lyons",
-    "date": "2026-11-13",
-    "time": "10:00 PM",
-    "venue": "McMenamins Al's Den",
-    "category": "Comedy",
-    "categories": [
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/comedy-night-hosted-by-brandon-lyons-portland-friday-november-13-2026-1000-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Comedy Night Hosted by Brandon Lyons at McMenamins Al's Den in Portland, OR on Fri, November 13, 2026 at 10:00 PM."
-  },
-  {
-    "id": "whales-20261113",
-    "title": "Whales",
-    "date": "2026-11-13",
-    "time": "10:00 PM",
-    "venue": "45 East",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/whales-portland-45-east-friday-november-13-2026-10-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Whales at 45 East in Portland, OR on Fri, November 13, 2026 at 10:00 PM."
-  },
-  {
-    "id": "the-jury-experience-an-immersive-courtroom-case-20261113",
-    "title": "The Jury Experience: An Immersive Courtroom Case",
-    "date": "2026-11-13",
-    "time": "6:00 PM",
-    "venue": "Alberta Abbey",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-jury-experience-an-immersive-courtroom-case-portland-alberta-abbey-friday-november-13-2026-6-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: The Jury Experience: An Immersive Courtroom Case at Alberta Abbey in Portland, OR on Fri, November 13, 2026 at 6:00 PM."
-  },
-  {
-    "id": "conversational-lube-the-first-live-comedy-dating-show-20261113",
-    "title": "Conversational Lube - The First Live Comedy Dating Show",
-    "date": "2026-11-13",
-    "time": "7:00 PM",
-    "venue": "McMenamins Al's Den",
-    "category": "Singles",
-    "categories": [
-      "Comedy",
-      "Singles"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Singles"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-november-13-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
-  },
-  {
-    "id": "d-l-hughley-don-lemon-20261113",
-    "title": "D.L. Hughley & Don Lemon",
-    "date": "2026-11-13",
-    "time": "7:00 PM",
-    "venue": "Arlene Schnitzer Concert Hall",
-    "category": "Music",
-    "categories": [
-      "Comedy",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dl-hughley-and-don-lemon-portland-friday-november-13-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: D.L. Hughley & Don Lemon at Arlene Schnitzer Concert Hall in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
-  },
-  {
-    "id": "fred-armisen-s-comedy-for-musicians-but-everyone-is-welcome-20261113",
-    "title": "Fred Armisen's Comedy For Musicians But Everyone Is Welcome",
-    "date": "2026-11-13",
-    "time": "7:00 PM",
-    "venue": "Newmark Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Comedy",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/fred-armisens-comedy-for-musicians-but-everyone-is-welcome-portland-newmark-theatre-friday-november-13-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Fred Armisen's Comedy For Musicians But Everyone Is Welcome at Newmark Theatre in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
-  },
-  {
-    "id": "portland-state-vikings-vs-southern-utah-thunderbirds-20261113",
-    "title": "Portland State Vikings vs. Southern Utah Thunderbirds",
-    "date": "2026-11-13",
-    "time": "7:00 PM",
-    "venue": "Hillsboro Stadium",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-vs-southern-utah-thunderbirds-hillsboro-saturday-november-14-2026-tba/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland State Vikings vs. Southern Utah Thunderbirds at Hillsboro Stadium in Hillsboro, OR on Fri, November 13, 2026 at 7:00 PM."
-  },
-  {
-    "id": "static-dress-20261113",
-    "title": "Static Dress",
-    "date": "2026-11-13",
-    "time": "7:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/static-dress-portland-hawthorne-theatre-friday-november-13-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Static Dress at Hawthorne Theatre in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
-  },
-  {
-    "id": "tim-meadows-20261113",
-    "title": "Tim Meadows",
-    "date": "2026-11-13",
-    "time": "7:00 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/tim-meadows-portland-helium-comedy-club-portland-friday-november-13-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Tim Meadows at Helium Comedy Club - Portland in Portland, OR on Fri, November 13, 2026 at 7:00 PM."
-  },
-  {
-    "id": "armored-saint-metal-church-20261113",
-    "title": "Armored Saint & Metal Church",
-    "date": "2026-11-13",
-    "time": "7:30 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/armored-saint-and-metal-church-portland-friday-november-13-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Armored Saint & Metal Church at Dante's Caffe Italiano in Portland, OR on Fri, November 13, 2026 at 7:30 PM."
-  },
-  {
-    "id": "lee-syatt-20261113",
-    "title": "Lee Syatt",
-    "date": "2026-11-13",
-    "time": "7:30 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/lee-syatt-portland-friday-november-13-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Lee Syatt at Neon Room at Helium Comedy Club - Portland in Portland, OR on Fri, November 13, 2026 at 7:30 PM."
-  },
-  {
-    "id": "drive-by-truckers-20261113",
-    "title": "Drive By Truckers",
-    "date": "2026-11-13",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/drive-by-truckers-portland-friday-november-13-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Drive By Truckers at Revolution Hall - Portland in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
-  },
-  {
-    "id": "houndmouth-20261113",
-    "title": "Houndmouth",
-    "date": "2026-11-13",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/houndmouth-portland-friday-november-13-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Houndmouth at McMenamins Crystal Ballroom in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
-  },
-  {
-    "id": "johnny-franco-his-real-brother-dom-20261113",
-    "title": "Johnny Franco & His Real Brother Dom",
-    "date": "2026-11-13",
-    "time": "8:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/johnny-franco-and-his-real-brother-dom-portland-aladdin-theater-friday-november-13-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Johnny Franco & His Real Brother Dom at Aladdin Theater in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
-  },
-  {
-    "id": "silverada-20261113",
-    "title": "Silverada",
-    "date": "2026-11-13",
-    "time": "8:00 PM",
-    "venue": "Showdown Saloon",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/silverada-portland-showdown-saloon-friday-november-13-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Silverada at Showdown Saloon in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
-  },
-  {
-    "id": "the-big-trans-comedy-show-20261113",
-    "title": "The Big Trans Comedy Show",
-    "date": "2026-11-13",
-    "time": "8:00 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-big-trans-comedy-show-portland-alberta-rose-theatre-friday-november-13-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: The Big Trans Comedy Show at Alberta Rose Theatre in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
-  },
-  {
-    "id": "tik-tok-2010s-recession-pop-dance-night-20261113",
-    "title": "TiK ToK: 2010s Recession Pop Dance Night",
-    "date": "2026-11-13",
-    "time": "8:00 PM",
-    "venue": "McMenamins Mission Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/tik-tok-2010s-recession-pop-dance-night-portland-mcmenamins-mission-theatre-friday-november-13-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: TiK ToK: 2010s Recession Pop Dance Night at McMenamins Mission Theatre in Portland, OR on Fri, November 13, 2026 at 8:00 PM."
-  },
-  {
-    "id": "beauz-20261113",
-    "title": "Beauz",
-    "date": "2026-11-13",
-    "time": "9:00 PM",
-    "venue": "Realm - OR",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/beauz-portland-realm-or-friday-november-13-2026-9-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Beauz at Realm - OR in Portland, OR on Fri, November 13, 2026 at 9:00 PM."
-  },
-  {
-    "id": "karina-rykman-20261113",
-    "title": "Karina Rykman",
-    "date": "2026-11-13",
-    "time": "9:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/karina-rykman-portland-friday-november-13-2026-900-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Karina Rykman at Mississippi Studios in Portland, OR on Fri, November 13, 2026 at 9:00 PM."
-  },
-  {
-    "id": "can-can-s-hitchcock-hotel-20261113",
-    "title": "Can Can's Hitchcock Hotel",
-    "date": "2026-11-13",
-    "time": "9:30 PM",
-    "venue": "Paris Theatre - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-friday-november-13-2026-930-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Fri, November 13, 2026 at 9:30 PM."
-  },
-  {
-    "id": "fred-armisen-20261113",
-    "title": "Fred Armisen",
-    "date": "2026-11-13",
-    "time": "9:30 PM",
-    "venue": "Newmark Theatre",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/fred-armisen-portland-newmark-theatre-friday-november-13-2026-9-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Fred Armisen at Newmark Theatre in Portland, OR on Fri, November 13, 2026 at 9:30 PM."
-  },
-  {
-    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261113",
-    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
-    "date": "2026-11-13",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 13, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
-  },
-  {
     "id": "nikita-the-wicked-20261114",
     "title": "Nikita The Wicked",
     "date": "2026-11-14",
@@ -836,6 +350,30 @@
     "description": "Comedy show: Tim Meadows at Helium Comedy Club - Portland in Portland, OR on Sat, November 14, 2026 at 9:30 PM."
   },
   {
+    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261114",
+    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
+    "date": "2026-11-14",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 14, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
+  },
+  {
     "id": "ron-funches-20261115",
     "title": "Ron Funches",
     "date": "2026-11-15",
@@ -883,17 +421,17 @@
     "venue": "Helium Comedy Club - Portland",
     "category": "Sports",
     "categories": [
-      "Sports",
       "Comedy",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
       "Comedy",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/selena-drag-brunch-portland-helium-comedy-club-portland-sunday-november-15-2026-2-00-pm/",
@@ -931,6 +469,28 @@
     "venue": "Hawthorne Theatre",
     "category": "Music",
     "categories": [
+      "Art",
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/kingdom-of-giants-portland-hawthorne-theatre-sunday-november-15-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Kingdom of Giants at Hawthorne Theatre in Portland, OR on Sun, November 15, 2026 at 7:00 PM."
+  },
+  {
+    "id": "iron-chic-20261115",
+    "title": "Iron Chic",
+    "date": "2026-11-15",
+    "time": "7:15 PM",
+    "venue": "Star Theater Portland",
+    "category": "Music",
+    "categories": [
       "Music",
       "Art"
     ],
@@ -940,10 +500,10 @@
       "Art"
     ],
     "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/kingdom-of-giants-portland-hawthorne-theatre-sunday-november-15-2026-7-00-pm/",
+    "ticket_url": "https://portlandevents.org/tickets/iron-chic-portland-star-theater-portland-sunday-november-15-2026-7-15-pm/",
     "source": "Portland Events",
     "source_url": "",
-    "description": "Concert: Kingdom of Giants at Hawthorne Theatre in Portland, OR on Sun, November 15, 2026 at 7:00 PM."
+    "description": "Concert: Iron Chic at Star Theater Portland in Portland, OR on Sun, November 15, 2026 at 7:15 PM."
   },
   {
     "id": "heather-shaw-20261115",
@@ -1075,13 +635,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/joanne-shaw-taylor-portland-sunday-november-15-2026-800-pm/",
@@ -1110,9 +670,383 @@
     "description": "Concert: Stephen Day at Polaris Hall in Portland, OR on Sun, November 15, 2026 at 8:00 PM."
   },
   {
+    "id": "jenny-tian-20261116",
+    "title": "Jenny Tian",
+    "date": "2026-11-16",
+    "time": "7:00 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/jenny-tian-portland-monday-november-16-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Jenny Tian at Alberta Rose Theatre in Portland, OR on Mon, November 16, 2026 at 7:00 PM."
+  },
+  {
     "id": "vocalocity-20261116",
     "title": "Vocalocity",
     "date": "2026-11-16",
+    "time": "7:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Art",
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/vocalocity-portland-aladdin-theater-monday-november-16-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Vocalocity at Aladdin Theater in Portland, OR on Mon, November 16, 2026 at 7:00 PM."
+  },
+  {
+    "id": "oz-noy-trio-20261116",
+    "title": "Oz Noy Trio",
+    "date": "2026-11-16",
+    "time": "7:30 PM",
+    "venue": "Jack London Revue",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/oz-noy-trio-portland-jack-london-revue-monday-november-16-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Oz Noy Trio at Jack London Revue in Portland, OR on Mon, November 16, 2026 at 7:30 PM."
+  },
+  {
+    "id": "turnover-20261116",
+    "title": "Turnover",
+    "date": "2026-11-16",
+    "time": "7:30 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/turnover-portland-monday-november-16-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Turnover at McMenamins Crystal Ballroom in Portland, OR on Mon, November 16, 2026 at 7:30 PM."
+  },
+  {
+    "id": "fred-eaglesmith-20261116",
+    "title": "Fred Eaglesmith",
+    "date": "2026-11-16",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/fred-eaglesmith-portland-monday-november-16-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Fred Eaglesmith at Mississippi Studios in Portland, OR on Mon, November 16, 2026 at 8:00 PM."
+  },
+  {
+    "id": "jervis-campbell-20261117",
+    "title": "Jervis Campbell",
+    "date": "2026-11-17",
+    "time": "7:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/jervis-campbell-portland-tuesday-november-17-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Jervis Campbell at Revolution Hall - Portland in Portland, OR on Tue, November 17, 2026 at 7:00 PM."
+  },
+  {
+    "id": "rodrigo-y-gabriela-20261117",
+    "title": "Rodrigo Y Gabriela",
+    "date": "2026-11-17",
+    "time": "7:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/rodrigo-y-gabriela-portland-tuesday-november-17-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Rodrigo Y Gabriela at McMenamins Crystal Ballroom in Portland, OR on Tue, November 17, 2026 at 7:00 PM."
+  },
+  {
+    "id": "state-champs-20261117",
+    "title": "State Champs",
+    "date": "2026-11-17",
+    "time": "7:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/state-champs-portland-tuesday-november-17-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: State Champs at Roseland Theater in Portland, OR on Tue, November 17, 2026 at 7:00 PM."
+  },
+  {
+    "id": "sundown-3-a-tribute-to-gordon-lightfoot-20261117",
+    "title": "Sundown 3 - A Tribute to Gordon Lightfoot",
+    "date": "2026-11-17",
+    "time": "7:00 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/sundown-3-a-tribute-to-gordon-lightfoot-portland-alberta-rose-theatre-tuesday-november-17-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Sundown 3 - A Tribute to Gordon Lightfoot at Alberta Rose Theatre in Portland, OR on Tue, November 17, 2026 at 7:00 PM."
+  },
+  {
+    "id": "little-shop-of-horrors-20261117",
+    "title": "Little Shop of Horrors",
+    "date": "2026-11-17",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-tuesday-november-17-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Tue, November 17, 2026 at 7:30 PM."
+  },
+  {
+    "id": "oz-noy-trio-20261117",
+    "title": "Oz Noy Trio",
+    "date": "2026-11-17",
+    "time": "7:30 PM",
+    "venue": "Jack London Revue",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/oz-noy-trio-portland-tuesday-november-17-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Oz Noy Trio at Jack London Revue in Portland, OR on Tue, November 17, 2026 at 7:30 PM."
+  },
+  {
+    "id": "the-outsiders-20261117",
+    "title": "The Outsiders",
+    "date": "2026-11-17",
+    "time": "7:30 PM",
+    "venue": "Keller Auditorium",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-tuesday-november-17-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Tue, November 17, 2026 at 7:30 PM."
+  },
+  {
+    "id": "bayonne-20261117",
+    "title": "Bayonne",
+    "date": "2026-11-17",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/bayonne-portland-tuesday-november-17-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Bayonne at Mississippi Studios in Portland, OR on Tue, November 17, 2026 at 8:00 PM."
+  },
+  {
+    "id": "clarion-20261117",
+    "title": "Clarion",
+    "date": "2026-11-17",
+    "time": "8:00 PM",
+    "venue": "Star Theater Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/clarion-portland-tuesday-november-17-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Clarion at Star Theater Portland in Portland, OR on Tue, November 17, 2026 at 8:00 PM."
+  },
+  {
+    "id": "luis-juarez-20261117",
+    "title": "Luis Juarez",
+    "date": "2026-11-17",
+    "time": "8:00 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/luis-juarez-portland-neon-room-at-helium-comedy-club-portland-tuesday-november-17-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Luis Juarez at Neon Room at Helium Comedy Club - Portland in Portland, OR on Tue, November 17, 2026 at 8:00 PM."
+  },
+  {
+    "id": "olivia-o-brien-20261117",
+    "title": "Olivia O'Brien",
+    "date": "2026-11-17",
+    "time": "8:00 PM",
+    "venue": "Polaris Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/olivia-obrien-portland-polaris-hall-tuesday-november-17-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Olivia O'Brien at Polaris Hall in Portland, OR on Tue, November 17, 2026 at 8:00 PM."
+  },
+  {
+    "id": "showman-coole-20261117",
+    "title": "Showman & Coole",
+    "date": "2026-11-17",
+    "time": "8:00 PM",
+    "venue": "McMenamins White Eagle Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/showman-and-coole-portland-mcmenamins-white-eagle-saloon-tuesday-november-17-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Showman & Coole at McMenamins White Eagle Saloon in Portland, OR on Tue, November 17, 2026 at 8:00 PM."
+  },
+  {
+    "id": "mc-hammersmith-20261117",
+    "title": "MC Hammersmith",
+    "date": "2026-11-17",
+    "time": "8:15 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/mc-hammersmith-portland-helium-comedy-club-portland-tuesday-november-17-2026-8-15-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: MC Hammersmith at Helium Comedy Club - Portland in Portland, OR on Tue, November 17, 2026 at 8:15 PM."
+  },
+  {
+    "id": "agriculture-20261118",
+    "title": "Agriculture",
+    "date": "2026-11-18",
     "time": "7:00 PM",
     "venue": "Aladdin Theater",
     "category": "Music",
@@ -1126,9 +1060,29 @@
       "Art"
     ],
     "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/vocalocity-portland-aladdin-theater-monday-november-16-2026-7-00-pm/",
+    "ticket_url": "https://portlandevents.org/tickets/agriculture-portland-wednesday-november-18-2026-700-pm/",
     "source": "Portland Events",
     "source_url": "",
-    "description": "Concert: Vocalocity at Aladdin Theater in Portland, OR on Mon, November 16, 2026 at 7:00 PM."
+    "description": "Concert: Agriculture at Aladdin Theater in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
+  },
+  {
+    "id": "comeback-kid-20261118",
+    "title": "Comeback Kid",
+    "date": "2026-11-18",
+    "time": "7:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/comeback-kid-portland-dantes-caffe-italiano-wednesday-november-18-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Comeback Kid at Dante's Caffe Italiano in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
   }
 ]

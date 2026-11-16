@@ -1,379 +1,5 @@
 [
   {
-    "id": "nikita-the-wicked-20261114",
-    "title": "Nikita The Wicked",
-    "date": "2026-11-14",
-    "time": "10:00 PM",
-    "venue": "45 East",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/nikita-the-wicked-portland-45-east-saturday-november-14-2026-10-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Nikita The Wicked at 45 East in Portland, OR on Sat, November 14, 2026 at 10:00 PM."
-  },
-  {
-    "id": "riot-20261114",
-    "title": "Riot",
-    "date": "2026-11-14",
-    "time": "10:00 PM",
-    "venue": "The Den PDX",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/riot-portland-saturday-november-14-2026-1000-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Riot at The Den PDX in Portland, OR on Sat, November 14, 2026 at 10:00 PM."
-  },
-  {
-    "id": "mortified-live-20261114",
-    "title": "Mortified Live",
-    "date": "2026-11-14",
-    "time": "5:00 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/mortified-live-portland-alberta-rose-theatre-saturday-november-14-2026-5-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Mortified Live at Alberta Rose Theatre in Portland, OR on Sat, November 14, 2026 at 5:00 PM."
-  },
-  {
-    "id": "portland-state-vikings-volleyball-vs-weber-state-wildcats-20261114",
-    "title": "Portland State Vikings Volleyball vs. Weber State Wildcats",
-    "date": "2026-11-14",
-    "time": "5:00 PM",
-    "venue": "Portland State's Viking Pavilion",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-volleyball-vs-weber-state-wildcats-portland-portland-states-viking-pavilion-saturday-november-14-2026-5-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland State Vikings Volleyball vs. Weber State Wildcats at Portland State's Viking Pavilion in Portland, OR on Sat, November 14, 2026 at 5:00 PM."
-  },
-  {
-    "id": "peach-tree-rascals-20261114",
-    "title": "Peach Tree Rascals",
-    "date": "2026-11-14",
-    "time": "6:00 PM",
-    "venue": "Holocene",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/peach-tree-rascals-portland-holocene-saturday-november-14-2026-6-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Peach Tree Rascals at Holocene in Portland, OR on Sat, November 14, 2026 at 6:00 PM."
-  },
-  {
-    "id": "can-can-s-hitchcock-hotel-20261114",
-    "title": "Can Can's Hitchcock Hotel",
-    "date": "2026-11-14",
-    "time": "6:30 PM",
-    "venue": "Paris Theatre - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/can-cans-hitchcock-hotel-portland-saturday-november-14-2026-630-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Can Can's Hitchcock Hotel at Paris Theatre - Portland in Portland, OR on Sat, November 14, 2026 at 6:30 PM."
-  },
-  {
-    "id": "brett-goldstein-20261114",
-    "title": "Brett Goldstein",
-    "date": "2026-11-14",
-    "time": "7:00 PM",
-    "venue": "Keller Auditorium",
-    "category": "Comedy",
-    "categories": [
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/brett-goldstein-portland-keller-auditorium-saturday-november-14-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Brett Goldstein at Keller Auditorium in Portland, OR on Sat, November 14, 2026 at 7:00 PM."
-  },
-  {
-    "id": "leanna-firestone-20261114",
-    "title": "Leanna Firestone",
-    "date": "2026-11-14",
-    "time": "7:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/leanna-firestone-portland-hawthorne-theatre-saturday-november-14-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Leanna Firestone at Hawthorne Theatre in Portland, OR on Sat, November 14, 2026 at 7:00 PM."
-  },
-  {
-    "id": "lee-syatt-20261114",
-    "title": "Lee Syatt",
-    "date": "2026-11-14",
-    "time": "7:30 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/lee-syatt-portland-saturday-november-14-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Lee Syatt at Neon Room at Helium Comedy Club - Portland in Portland, OR on Sat, November 14, 2026 at 10:00 PM."
-  },
-  {
-    "id": "chris-acker-20261114",
-    "title": "Chris Acker",
-    "date": "2026-11-14",
-    "time": "8:00 PM",
-    "venue": "Showdown Saloon",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/chris-acker-portland-showdown-saloon-saturday-november-14-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Chris Acker at Showdown Saloon in Portland, OR on Sat, November 14, 2026 at 8:00 PM."
-  },
-  {
-    "id": "drive-by-truckers-20261114",
-    "title": "Drive By Truckers",
-    "date": "2026-11-14",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/drive-by-truckers-portland-revolution-hall-portland-saturday-november-14-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Drive By Truckers at Revolution Hall - Portland in Portland, OR on Sat, November 14, 2026 at 8:00 PM."
-  },
-  {
-    "id": "nimino-20261114",
-    "title": "Nimino",
-    "date": "2026-11-14",
-    "time": "8:00 PM",
-    "venue": "Roseland Theater",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/nimino-portland-saturday-november-14-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Nimino at Roseland Theater in Portland, OR on Sat, November 14, 2026 at 8:00 PM."
-  },
-  {
-    "id": "russian-circles-20261114",
-    "title": "Russian Circles",
-    "date": "2026-11-14",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/russian-circles-portland-saturday-november-14-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Russian Circles at McMenamins Crystal Ballroom in Portland, OR on Sat, November 14, 2026 at 8:00 PM."
-  },
-  {
-    "id": "desert-dwellers-20261114",
-    "title": "Desert Dwellers",
-    "date": "2026-11-14",
-    "time": "9:00 PM",
-    "venue": "Star Theater Portland",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/desert-dwellers-portland-star-theater-portland-saturday-november-14-2026-9-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Desert Dwellers at Star Theater Portland in Portland, OR on Sat, November 14, 2026 at 9:00 PM."
-  },
-  {
-    "id": "margaret-glaspy-20261114",
-    "title": "Margaret Glaspy",
-    "date": "2026-11-14",
-    "time": "9:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/margaret-glaspy-portland-saturday-november-14-2026-900-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Margaret Glaspy at Mississippi Studios in Portland, OR on Sat, November 14, 2026 at 9:00 PM."
-  },
-  {
-    "id": "richard-finger-20261114",
-    "title": "Richard Finger",
-    "date": "2026-11-14",
-    "time": "9:00 PM",
-    "venue": "Realm - OR",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/richard-finger-portland-realm-or-saturday-november-14-2026-9-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Richard Finger at Realm - OR in Portland, OR on Sat, November 14, 2026 at 9:00 PM."
-  },
-  {
-    "id": "tim-meadows-20261114",
-    "title": "Tim Meadows",
-    "date": "2026-11-14",
-    "time": "9:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/tim-meadows-portland-helium-comedy-club-portland-saturday-november-14-2026-9-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Tim Meadows at Helium Comedy Club - Portland in Portland, OR on Sat, November 14, 2026 at 9:30 PM."
-  },
-  {
-    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261114",
-    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
-    "date": "2026-11-14",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 14, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
-  },
-  {
     "id": "ron-funches-20261115",
     "title": "Ron Funches",
     "date": "2026-11-15",
@@ -670,6 +296,162 @@
     "description": "Concert: Stephen Day at Polaris Hall in Portland, OR on Sun, November 15, 2026 at 8:00 PM."
   },
   {
+    "id": "a-baroque-revelry-magic-music-marvels-of-the-18th-century-victorian-be-20261115",
+    "title": "A Baroque Revelry: Magic, Music, & Marvels of the 18th Century @ Victorian Belle | Dinner, Drinks, Performances",
+    "date": "2026-11-15",
+    "time": "See event",
+    "venue": "north portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Food + Drink"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "A Baroque Revelry: Magic, Music, & Marvels of the 18th Century @ Victorian Belle | Dinner, Drinks, Performances Nov 15, 2026 | All Ages , Dance , Food & Drink , music , north portland November 28 - Journey to the ornately gilded period of the 18th Century for "
+  },
+  {
+    "id": "sing-a-long-handel-s-messiah-migration-brewing-gresham-a-lively-aftern-20261115",
+    "title": "Sing-A-Long Handel’s Messiah @ Migration Brewing Gresham | A Lively Afternoon of Beer & Baroque",
+    "date": "2026-11-15",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Food + Drink"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Sing-A-Long Handel’s Messiah @ Migration Brewing Gresham | A Lively Afternoon of Beer & Baroque Nov 15, 2026 | All Ages , Food & Drink , music November 29 - Halle-brew-yah! Join the Portland Symphonic Choir for a lively afternoon of beer and Baroque with Hande"
+  },
+  {
+    "id": "the-best-of-pants-on-fire-double-header-white-eagle-saloon-6-true-stor-20261115",
+    "title": "The Best Of Pants On Fire! Double Header @ White Eagle Saloon | 6 True Stories, One Lie",
+    "date": "2026-11-15",
+    "time": "See event",
+    "venue": "north portland",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "The Best Of Pants On Fire! Double Header @ White Eagle Saloon | 6 True Stories, One Lie Nov 15, 2026 | All Ages , Comedy , north portland November 27 - Treat yourself to a night off after Turkey Day as we host Portland’s wildest and most interactive entertainm"
+  },
+  {
+    "id": "win-tickets-24-decadent-80s-mcmenamins-lola-s-room-portland-s-longest--20261115",
+    "title": "Win Tickets ($24): Decadent 80s @ McMenamins Lola’s Room | Portland’s Longest Running 80s Night",
+    "date": "2026-11-15",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Sports",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Sports",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($24): Decadent 80s @ McMenamins Lola’s Room | Portland’s Longest Running 80s Night Nov 15, 2026 | downtown , music January 1 - Get ready for a fun night of dancing to all your favorite hits and requests from the 1980s! Read More"
+  },
+  {
+    "id": "win-tickets-78-fruition-something-more-the-final-tour-w-rainbow-girls--20261115",
+    "title": "Win Tickets ($78): Fruition – Something More: The Final Tour w/ Rainbow Girls @ Crystal Ballroom | American Roots Music",
+    "date": "2026-11-15",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($78): Fruition – Something More: The Final Tour w/ Rainbow Girls @ Crystal Ballroom | American Roots Music Nov 15, 2026 | All Ages , downtown , music January 28 - More than 15 years together, building a grassroots audience with stacked vocal harmo"
+  },
+  {
+    "id": "win-tickets-78-super-diamond-crystal-ballroom-neil-diamond-tribute-20261115",
+    "title": "Win Tickets ($78): Super Diamond @ Crystal Ballroom | Neil Diamond Tribute",
+    "date": "2026-11-15",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Win Tickets ($78): Super Diamond @ Crystal Ballroom | Neil Diamond Tribute Nov 15, 2026 | downtown , music January 23 - An uncanny tribute to beloved master singer/songwriter/performer, American pop icon Neil Diamond. Read More"
+  },
+  {
+    "id": "wine-design-wreath-decorating-class-hip-chicks-do-wine-art-supplies-wi-20261115",
+    "title": "Wine & Design: Wreath Decorating Class @ Hip Chicks Do Wine | Art Supplies, Wine, Snacks",
+    "date": "2026-11-15",
+    "time": "See event",
+    "venue": "SE Portland",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Sports",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Sports",
+      "Food + Drink"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Wine & Design: Wreath Decorating Class @ Hip Chicks Do Wine | Art Supplies, Wine, Snacks Nov 15, 2026 | Food & Drink , SE Portland , Visual Art November 17 & 22 - In this session, of our Wine & Design series, instructor Laura Gifford Kerr, Gifford’s Flowers wi"
+  },
+  {
     "id": "jenny-tian-20261116",
     "title": "Jenny Tian",
     "date": "2026-11-16",
@@ -774,6 +556,30 @@
     "description": "Concert: Fred Eaglesmith at Mississippi Studios in Portland, OR on Mon, November 16, 2026 at 8:00 PM."
   },
   {
+    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261116",
+    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
+    "date": "2026-11-16",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 16, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
+  },
+  {
     "id": "jervis-campbell-20261117",
     "title": "Jervis Campbell",
     "date": "2026-11-17",
@@ -821,13 +627,13 @@
     "venue": "Roseland Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/state-champs-portland-tuesday-november-17-2026-700-pm/",
@@ -843,13 +649,13 @@
     "venue": "Alberta Rose Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/sundown-3-a-tribute-to-gordon-lightfoot-portland-alberta-rose-theatre-tuesday-november-17-2026-7-00-pm/",
@@ -945,13 +751,13 @@
     "venue": "Star Theater Portland",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/clarion-portland-tuesday-november-17-2026-800-pm/",
@@ -1051,13 +857,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/agriculture-portland-wednesday-november-18-2026-700-pm/",
@@ -1084,5 +890,297 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Comeback Kid at Dante's Caffe Italiano in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
+  },
+  {
+    "id": "mountainfilm-on-tour-20261118",
+    "title": "Mountainfilm on Tour",
+    "date": "2026-11-18",
+    "time": "7:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/mountainfilm-on-tour-portland-revolution-hall-portland-wednesday-november-18-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Mountainfilm on Tour at Revolution Hall - Portland in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
+  },
+  {
+    "id": "science-on-tap-save-the-planet-recycle-or-not-20261118",
+    "title": "Science On Tap: Save The Planet - Recycle! or Not?",
+    "date": "2026-11-18",
+    "time": "7:00 PM",
+    "venue": "Alberta Rose Theatre",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/science-on-tap-save-the-planet-recycle-or-not-portland-wednesday-november-18-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Science On Tap: Save The Planet - Recycle! or Not? at Alberta Rose Theatre in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
+  },
+  {
+    "id": "silverstein-story-of-the-year-20261118",
+    "title": "Silverstein & Story Of The Year",
+    "date": "2026-11-18",
+    "time": "7:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/silverstein-and-story-of-the-year-portland-mcmenamins-crystal-ballroom-wednesday-november-18-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Silverstein & Story Of The Year at McMenamins Crystal Ballroom in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
+  },
+  {
+    "id": "elle-orlando-20261118",
+    "title": "Elle Orlando",
+    "date": "2026-11-18",
+    "time": "7:30 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/elle-orlando-portland-helium-comedy-club-portland-wednesday-november-18-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Elle Orlando at Helium Comedy Club - Portland in Portland, OR on Wed, November 18, 2026 at 7:30 PM."
+  },
+  {
+    "id": "little-shop-of-horrors-20261118",
+    "title": "Little Shop of Horrors",
+    "date": "2026-11-18",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-wednesday-november-18-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Wed, November 18, 2026 at 7:30 PM."
+  },
+  {
+    "id": "the-outsiders-20261118",
+    "title": "The Outsiders",
+    "date": "2026-11-18",
+    "time": "7:30 PM",
+    "venue": "Keller Auditorium",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-wednesday-november-18-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Wed, November 18, 2026 at 7:30 PM."
+  },
+  {
+    "id": "bombargo-20261118",
+    "title": "Bombargo",
+    "date": "2026-11-18",
+    "time": "8:00 PM",
+    "venue": "Jack London Revue",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/bombargo-portland-wednesday-november-18-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Bombargo at Jack London Revue in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
+  },
+  {
+    "id": "chris-turner-20261118",
+    "title": "Chris Turner",
+    "date": "2026-11-18",
+    "time": "8:00 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/chris-turner-portland-neon-room-at-helium-comedy-club-portland-wednesday-november-18-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Chris Turner at Neon Room at Helium Comedy Club - Portland in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
+  },
+  {
+    "id": "dev-lemons-20261118",
+    "title": "Dev Lemons",
+    "date": "2026-11-18",
+    "time": "8:00 PM",
+    "venue": "McMenamins Mission Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dev-lemons-portland-wednesday-november-18-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Dev Lemons at McMenamins Mission Theatre in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
+  },
+  {
+    "id": "eivor-20261118",
+    "title": "Eivor",
+    "date": "2026-11-18",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/eivor-portland-wednesday-november-18-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Eivor at Wonder Ballroom in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
+  },
+  {
+    "id": "maddie-zahm-20261118",
+    "title": "Maddie Zahm",
+    "date": "2026-11-18",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/maddie-zahm-portland-wednesday-november-18-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Maddie Zahm at Hawthorne Theatre in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
+  },
+  {
+    "id": "vale-artist-20261118",
+    "title": "Vale - Artist",
+    "date": "2026-11-18",
+    "time": "8:00 PM",
+    "venue": "McMenamins White Eagle Saloon",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/vale-artist-portland-mcmenamins-white-eagle-saloon-wednesday-november-18-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Vale - Artist at McMenamins White Eagle Saloon in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
+  },
+  {
+    "id": "whitmer-thomas-20261118",
+    "title": "Whitmer Thomas",
+    "date": "2026-11-18",
+    "time": "8:00 PM",
+    "venue": "Polaris Hall",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/whitmer-thomas-portland-polaris-hall-wednesday-november-18-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Whitmer Thomas at Polaris Hall in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
+  },
+  {
+    "id": "northwest-elite-sports-west-coast-classic-oregon-ducks-vs-oregon-state-20261119",
+    "title": "Northwest Elite Sports West Coast Classic: Oregon Ducks vs. Oregon State Beavers",
+    "date": "2026-11-19",
+    "time": "6:00 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/northwest-elite-sports-west-coast-classic-oregon-ducks-vs-oregon-state-beavers-portland-moda-center-at-the-rose-quarter-thursday-november-19-2026-6-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Sports event: Northwest Elite Sports West Coast Classic: Oregon Ducks vs. Oregon State Beavers at Moda Center at the Rose Quarter in Portland, OR on Thu, November 19, 2026 at 6:00 PM."
   }
 ]

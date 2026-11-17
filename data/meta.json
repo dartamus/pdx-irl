@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-16T22:55:27.884342+00:00",
-  "eventCount": 56,
-  "rawFound": 38,
+  "updatedAt": "2026-11-17T21:48:26.276682+00:00",
+  "eventCount": 47,
+  "rawFound": 34,
   "duplicatesWithinFresh": 0,
   "sources": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "source": "PDX Pipeline",
-      "found": 8,
+      "found": 4,
       "ok": true
     },
     {

@@ -1,199 +1,5 @@
 [
   {
-    "id": "jenny-tian-20261116",
-    "title": "Jenny Tian",
-    "date": "2026-11-16",
-    "time": "7:00 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jenny-tian-portland-monday-november-16-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Jenny Tian at Alberta Rose Theatre in Portland, OR on Mon, November 16, 2026 at 7:00 PM."
-  },
-  {
-    "id": "vocalocity-20261116",
-    "title": "Vocalocity",
-    "date": "2026-11-16",
-    "time": "7:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/vocalocity-portland-aladdin-theater-monday-november-16-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Vocalocity at Aladdin Theater in Portland, OR on Mon, November 16, 2026 at 7:00 PM."
-  },
-  {
-    "id": "oz-noy-trio-20261116",
-    "title": "Oz Noy Trio",
-    "date": "2026-11-16",
-    "time": "7:30 PM",
-    "venue": "Jack London Revue",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/oz-noy-trio-portland-jack-london-revue-monday-november-16-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Oz Noy Trio at Jack London Revue in Portland, OR on Mon, November 16, 2026 at 7:30 PM."
-  },
-  {
-    "id": "turnover-20261116",
-    "title": "Turnover",
-    "date": "2026-11-16",
-    "time": "7:30 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/turnover-portland-monday-november-16-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Turnover at McMenamins Crystal Ballroom in Portland, OR on Mon, November 16, 2026 at 7:30 PM."
-  },
-  {
-    "id": "fred-eaglesmith-20261116",
-    "title": "Fred Eaglesmith",
-    "date": "2026-11-16",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/fred-eaglesmith-portland-monday-november-16-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Fred Eaglesmith at Mississippi Studios in Portland, OR on Mon, November 16, 2026 at 8:00 PM."
-  },
-  {
-    "id": "new-portland-jobs-parks-recreation-fertile-ground-festival-1982-games--20261116",
-    "title": "New Portland Jobs: Parks & Recreation, Fertile Ground Festival, 1982 Games & More",
-    "date": "2026-11-16",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Sports",
-    "categories": [
-      "Sports",
-      "Outdoors"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports",
-      "Outdoors"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "New Portland Jobs: Parks & Recreation, Fertile Ground Festival, 1982 Games & More Nov 16, 2026 | Jobs New Portland Jobs: Parks & Recreation, Fertile Ground Festival, 1982 Games & More! Read More"
-  },
-  {
-    "id": "pdx-moon-market-everett-west-in-the-pearl-district-local-makers-artist-20261116",
-    "title": "PDX Moon Market @ Everett West in the Pearl District | Local Makers, Artists, Small Businesses, Refreshments",
-    "date": "2026-11-16",
-    "time": "See event",
-    "venue": "NW Portland",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Food + Drink",
-      "Outdoors"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Food + Drink",
-      "Outdoors"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "PDX Moon Market @ Everett West in the Pearl District | Local Makers, Artists, Small Businesses, Refreshments Nov 16, 2026 | All Ages , Food & Drink , Free , NW Portland , Pearl , Shopping November 22, December 19-20 - Hosted at Everett West, the Moon Market br"
-  },
-  {
-    "id": "sippin-santa-the-social-spoon-in-downtown-portland-kitschy-tiki-decor--20261116",
-    "title": "Sippin’ Santa @ The Social Spoon in Downtown Portland | Kitschy Tiki Decor, Tinsel, Tropical Christmas Cheer",
-    "date": "2026-11-16",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Food + Drink",
-    "categories": [
-      "Food + Drink"
-    ],
-    "adult": false,
-    "tags": [
-      "Food + Drink"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "Sippin’ Santa @ The Social Spoon in Downtown Portland | Kitschy Tiki Decor, Tinsel, Tropical Christmas Cheer Nov 16, 2026 | downtown , Food & Drink November 23-December 31 - Sippin' Santa is back to deck our halls with kitschy tiki decor, nostalgic tinsel, and"
-  },
-  {
-    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261116",
-    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
-    "date": "2026-11-16",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 16, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
-  },
-  {
     "id": "jervis-campbell-20261117",
     "title": "Jervis Campbell",
     "date": "2026-11-17",
@@ -462,6 +268,48 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Comedy show: MC Hammersmith at Helium Comedy Club - Portland in Portland, OR on Tue, November 17, 2026 at 8:15 PM."
+  },
+  {
+    "id": "black-friday-small-business-saturday-sale-friends-of-the-library-rose--20261117",
+    "title": "Black Friday & Small Business Saturday Sale @ Friends of the Library & Rose City Reads | Spend $30, Save $5, Spend $50, Save $10",
+    "date": "2026-11-17",
+    "time": "See event",
+    "venue": "NE Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Black Friday & Small Business Saturday Sale @ Friends of the Library & Rose City Reads | Spend $30, Save $5, Spend $50, Save $10 Nov 17, 2026 | Books , downtown , NE Portland , Shopping November 27-28 - Shop local this Black Friday and Small Business Saturday "
+  },
+  {
+    "id": "holiday-catering-w-n-gociant-artisan-cheese-charcuterie-more-20261117",
+    "title": "Holiday Catering w/ Négociant | Artisan Cheese, Charcuterie & More",
+    "date": "2026-11-17",
+    "time": "See event",
+    "venue": "NW Portland",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Food + Drink"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "Holiday Catering w/ Négociant | Artisan Cheese, Charcuterie & More Nov 17, 2026 | Food & Drink , NW Portland Our party trays are built from intentionally sourced artisan cheeses, charcuterie, and house made accoutrements, ready for your next gathering. Read Mo"
   },
   {
     "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261117",
@@ -800,6 +648,30 @@
     "description": "Concert: Whitmer Thomas at Polaris Hall in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
   },
   {
+    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261118",
+    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
+    "date": "2026-11-18",
+    "time": "See event",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "",
+    "source": "PDX Pipeline",
+    "source_url": "",
+    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 18, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
+  },
+  {
     "id": "northwest-elite-sports-west-coast-classic-oregon-ducks-vs-oregon-state-20261119",
     "title": "Northwest Elite Sports West Coast Classic: Oregon Ducks vs. Oregon State Beavers",
     "date": "2026-11-19",
@@ -951,6 +823,28 @@
     "venue": "Patricia Reser Center for the Arts",
     "category": "Music",
     "categories": [
+      "Art",
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/with-her-own-wings-beaverton-patricia-reser-center-for-the-arts-thursday-november-19-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: With Her Own Wings at Patricia Reser Center for the Arts in Beaverton, OR on Thu, November 19, 2026 at 7:30 PM."
+  },
+  {
+    "id": "2dead-boyz-the-underachievers-20261119",
+    "title": "2Dead Boyz & The Underachievers",
+    "date": "2026-11-19",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
       "Music",
       "Art"
     ],
@@ -960,10 +854,70 @@
       "Art"
     ],
     "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/with-her-own-wings-beaverton-patricia-reser-center-for-the-arts-thursday-november-19-2026-7-30-pm/",
+    "ticket_url": "https://portlandevents.org/tickets/2dead-boyz-and-the-underachievers-portland-hawthorne-theatre-thursday-november-19-2026-8-00-pm/",
     "source": "Portland Events",
     "source_url": "",
-    "description": "Concert: With Her Own Wings at Patricia Reser Center for the Arts in Beaverton, OR on Thu, November 19, 2026 at 7:30 PM."
+    "description": "Concert: 2Dead Boyz & The Underachievers at Hawthorne Theatre in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
+  },
+  {
+    "id": "brokencyde-20261119",
+    "title": "Brokencyde",
+    "date": "2026-11-19",
+    "time": "8:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/brokencyde-portland-dantes-caffe-italiano-thursday-november-19-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Brokencyde at Dante's Caffe Italiano in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
+  },
+  {
+    "id": "graham-barham-20261119",
+    "title": "Graham Barham",
+    "date": "2026-11-19",
+    "time": "8:00 PM",
+    "venue": "Ponderosa Lounge & Grill",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/graham-barham-portland-thursday-november-19-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Graham Barham at Ponderosa Lounge & Grill in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
+  },
+  {
+    "id": "jamila-woods-20261119",
+    "title": "Jamila Woods",
+    "date": "2026-11-19",
+    "time": "8:00 PM",
+    "venue": "Wonder Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/jamila-woods-portland-wonder-ballroom-thursday-november-19-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Jamila Woods at Wonder Ballroom in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
   },
   {
     "id": "jim-lauderdale-never-come-down-20261119",
@@ -984,5 +938,233 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Jim Lauderdale & Never Come Down at Showdown Saloon in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
+  },
+  {
+    "id": "the-cactus-blossoms-20261119",
+    "title": "The Cactus Blossoms",
+    "date": "2026-11-19",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-cactus-blossoms-portland-mississippi-studios-thursday-november-19-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: The Cactus Blossoms at Mississippi Studios in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
+  },
+  {
+    "id": "thundercat-20261119",
+    "title": "Thundercat",
+    "date": "2026-11-19",
+    "time": "8:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/thundercat-portland-thursday-november-19-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Thundercat at McMenamins Crystal Ballroom in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
+  },
+  {
+    "id": "can-can-s-twas-the-night-before-nutcracker-20261120",
+    "title": "Can Can's Twas The Night Before Nutcracker",
+    "date": "2026-11-20",
+    "time": "6:30 PM",
+    "venue": "Paris Theatre - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/can-cans-twas-the-night-before-nutcracker-portland-friday-november-20-2026-630-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, November 20, 2026 at 6:30 PM."
+  },
+  {
+    "id": "conversational-lube-the-first-live-comedy-dating-show-20261120",
+    "title": "Conversational Lube - The First Live Comedy Dating Show",
+    "date": "2026-11-20",
+    "time": "7:00 PM",
+    "venue": "McMenamins Al's Den",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-november-20-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, November 20, 2026 at 7:00 PM."
+  },
+  {
+    "id": "k-trevor-wilson-20261120",
+    "title": "K. Trevor Wilson",
+    "date": "2026-11-20",
+    "time": "7:00 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/k-trevor-wilson-portland-helium-comedy-club-portland-friday-november-20-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: K. Trevor Wilson at Neon Room at Helium Comedy Club - Portland in Portland, OR on Fri, November 20, 2026 at 7:00 PM."
+  },
+  {
+    "id": "kevonstage-20261120",
+    "title": "KevOnStage",
+    "date": "2026-11-20",
+    "time": "7:30 PM",
+    "venue": "Aladdin Theater",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/kevonstage-portland-friday-november-20-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: KevOnStage at Aladdin Theater in Portland, OR on Fri, November 20, 2026 at 7:30 PM."
+  },
+  {
+    "id": "the-outsiders-20261120",
+    "title": "The Outsiders",
+    "date": "2026-11-20",
+    "time": "7:30 PM",
+    "venue": "Keller Auditorium",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-friday-november-20-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Fri, November 20, 2026 at 7:30 PM."
+  },
+  {
+    "id": "drag-the-river-20261120",
+    "title": "Drag The River",
+    "date": "2026-11-20",
+    "time": "8:00 PM",
+    "venue": "Twilight Cafe and Bar",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/drag-the-river-portland-friday-november-20-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Drag The River at Twilight Cafe and Bar in Portland, OR on Fri, November 20, 2026 at 8:00 PM."
+  },
+  {
+    "id": "gary-numan-20261120",
+    "title": "Gary Numan",
+    "date": "2026-11-20",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/gary-numan-portland-friday-november-20-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Gary Numan at Revolution Hall - Portland in Portland, OR on Fri, November 20, 2026 at 8:00 PM."
+  },
+  {
+    "id": "haley-johnsen-20261120",
+    "title": "Haley Johnsen",
+    "date": "2026-11-20",
+    "time": "8:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/haley-johnsen-portland-mcmenamins-crystal-ballroom-friday-november-20-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Haley Johnsen at McMenamins Crystal Ballroom in Portland, OR on Fri, November 20, 2026 at 8:00 PM."
+  },
+  {
+    "id": "wilclone-20261120",
+    "title": "Wilclone",
+    "date": "2026-11-20",
+    "time": "8:00 PM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/wilclone-portland-showdown-saloon-friday-november-20-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Wilclone at Showdown Saloon in Portland, OR on Fri, November 20, 2026 at 8:00 PM."
   }
 ]

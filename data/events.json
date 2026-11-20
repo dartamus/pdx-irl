@@ -1,341 +1,5 @@
 [
   {
-    "id": "agriculture-20261118",
-    "title": "Agriculture",
-    "date": "2026-11-18",
-    "time": "7:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/agriculture-portland-wednesday-november-18-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Agriculture at Aladdin Theater in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
-  },
-  {
-    "id": "comeback-kid-20261118",
-    "title": "Comeback Kid",
-    "date": "2026-11-18",
-    "time": "7:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/comeback-kid-portland-dantes-caffe-italiano-wednesday-november-18-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Comeback Kid at Dante's Caffe Italiano in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
-  },
-  {
-    "id": "mountainfilm-on-tour-20261118",
-    "title": "Mountainfilm on Tour",
-    "date": "2026-11-18",
-    "time": "7:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/mountainfilm-on-tour-portland-revolution-hall-portland-wednesday-november-18-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Mountainfilm on Tour at Revolution Hall - Portland in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
-  },
-  {
-    "id": "science-on-tap-save-the-planet-recycle-or-not-20261118",
-    "title": "Science On Tap: Save The Planet - Recycle! or Not?",
-    "date": "2026-11-18",
-    "time": "7:00 PM",
-    "venue": "Alberta Rose Theatre",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/science-on-tap-save-the-planet-recycle-or-not-portland-wednesday-november-18-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Science On Tap: Save The Planet - Recycle! or Not? at Alberta Rose Theatre in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
-  },
-  {
-    "id": "silverstein-story-of-the-year-20261118",
-    "title": "Silverstein & Story Of The Year",
-    "date": "2026-11-18",
-    "time": "7:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/silverstein-and-story-of-the-year-portland-mcmenamins-crystal-ballroom-wednesday-november-18-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Silverstein & Story Of The Year at McMenamins Crystal Ballroom in Portland, OR on Wed, November 18, 2026 at 7:00 PM."
-  },
-  {
-    "id": "elle-orlando-20261118",
-    "title": "Elle Orlando",
-    "date": "2026-11-18",
-    "time": "7:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/elle-orlando-portland-helium-comedy-club-portland-wednesday-november-18-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Elle Orlando at Helium Comedy Club - Portland in Portland, OR on Wed, November 18, 2026 at 7:30 PM."
-  },
-  {
-    "id": "little-shop-of-horrors-20261118",
-    "title": "Little Shop of Horrors",
-    "date": "2026-11-18",
-    "time": "7:30 PM",
-    "venue": "Main Stage At Portland Center Stage",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-wednesday-november-18-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Wed, November 18, 2026 at 7:30 PM."
-  },
-  {
-    "id": "the-outsiders-20261118",
-    "title": "The Outsiders",
-    "date": "2026-11-18",
-    "time": "7:30 PM",
-    "venue": "Keller Auditorium",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-wednesday-november-18-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Wed, November 18, 2026 at 7:30 PM."
-  },
-  {
-    "id": "bombargo-20261118",
-    "title": "Bombargo",
-    "date": "2026-11-18",
-    "time": "8:00 PM",
-    "venue": "Jack London Revue",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/bombargo-portland-wednesday-november-18-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Bombargo at Jack London Revue in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
-  },
-  {
-    "id": "chris-turner-20261118",
-    "title": "Chris Turner",
-    "date": "2026-11-18",
-    "time": "8:00 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/chris-turner-portland-neon-room-at-helium-comedy-club-portland-wednesday-november-18-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: Chris Turner at Neon Room at Helium Comedy Club - Portland in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
-  },
-  {
-    "id": "dev-lemons-20261118",
-    "title": "Dev Lemons",
-    "date": "2026-11-18",
-    "time": "8:00 PM",
-    "venue": "McMenamins Mission Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dev-lemons-portland-wednesday-november-18-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Dev Lemons at McMenamins Mission Theatre in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
-  },
-  {
-    "id": "eivor-20261118",
-    "title": "Eivor",
-    "date": "2026-11-18",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/eivor-portland-wednesday-november-18-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Eivor at Wonder Ballroom in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
-  },
-  {
-    "id": "maddie-zahm-20261118",
-    "title": "Maddie Zahm",
-    "date": "2026-11-18",
-    "time": "8:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/maddie-zahm-portland-wednesday-november-18-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Maddie Zahm at Hawthorne Theatre in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
-  },
-  {
-    "id": "vale-artist-20261118",
-    "title": "Vale - Artist",
-    "date": "2026-11-18",
-    "time": "8:00 PM",
-    "venue": "McMenamins White Eagle Saloon",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/vale-artist-portland-mcmenamins-white-eagle-saloon-wednesday-november-18-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Vale - Artist at McMenamins White Eagle Saloon in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
-  },
-  {
-    "id": "whitmer-thomas-20261118",
-    "title": "Whitmer Thomas",
-    "date": "2026-11-18",
-    "time": "8:00 PM",
-    "venue": "Polaris Hall",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/whitmer-thomas-portland-polaris-hall-wednesday-november-18-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Whitmer Thomas at Polaris Hall in Portland, OR on Wed, November 18, 2026 at 8:00 PM."
-  },
-  {
-    "id": "this-week-in-portland-events-festivals-music-comedy-trivia-theater-hap-20261118",
-    "title": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More!",
-    "date": "2026-11-18",
-    "time": "See event",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "",
-    "source": "PDX Pipeline",
-    "source_url": "",
-    "description": "THIS WEEK in Portland: Events, Festivals, Music, Comedy, Trivia, Theater, Happy Hours, & More! Nov 18, 2026 | Today A round up of what's going on in Portland this week including festivals, concerts, comedy, trivia, happy hours, movies, & more! Read More"
-  },
-  {
     "id": "northwest-elite-sports-west-coast-classic-oregon-ducks-vs-oregon-state-20261119",
     "title": "Northwest Elite Sports West Coast Classic: Oregon Ducks vs. Oregon State Beavers",
     "date": "2026-11-19",
@@ -651,15 +315,15 @@
     "venue": "Portland",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Comedy"
+      "Comedy",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "",
@@ -903,13 +567,13 @@
     "venue": "Hawthorne Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/house-of-heavy-portland-hawthorne-theatre-friday-november-20-2026-8-30-pm/",
@@ -1005,14 +669,14 @@
     "venue": "Helium Comedy Club - Portland",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "event_url": "",
@@ -1040,6 +704,26 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Sat, November 21, 2026 at 6:30 PM."
+  },
+  {
+    "id": "little-shop-of-horrors-20261121",
+    "title": "Little Shop of Horrors",
+    "date": "2026-11-21",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-saturday-november-21-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sat, November 21, 2026 at 7:30 PM."
   },
   {
     "id": "mary-radzinski-20261121",
@@ -1082,5 +766,111 @@
     "source": "Portland Events",
     "source_url": "",
     "description": "Concert: Oregon Symphony: David Danzmayr - Mahler's Symphony No. 6 at Arlene Schnitzer Concert Hall in Portland, OR on Sat, November 21, 2026 at 7:30 PM."
+  },
+  {
+    "id": "fear-factory-20261121",
+    "title": "Fear Factory",
+    "date": "2026-11-21",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/fear-factory-portland-saturday-november-21-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Fear Factory at Hawthorne Theatre in Portland, OR on Sat, November 21, 2026 at 8:00 PM."
+  },
+  {
+    "id": "fox-walker-20261121",
+    "title": "Fox Walker",
+    "date": "2026-11-21",
+    "time": "8:00 PM",
+    "venue": "Jack London Revue",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/fox-walker-portland-jack-london-revue-saturday-november-21-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Fox Walker at Jack London Revue in Portland, OR on Sat, November 21, 2026 at 8:00 PM."
+  },
+  {
+    "id": "paula-poundstone-20261121",
+    "title": "Paula Poundstone",
+    "date": "2026-11-21",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/paula-poundstone-portland-saturday-november-21-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Paula Poundstone at Aladdin Theater in Portland, OR on Sat, November 21, 2026 at 8:00 PM."
+  },
+  {
+    "id": "phoebe-robinson-20261121",
+    "title": "Phoebe Robinson",
+    "date": "2026-11-21",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/phoebe-robinson-portland-saturday-november-21-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Comedy show: Phoebe Robinson at Revolution Hall - Portland in Portland, OR on Sat, November 21, 2026 at 8:00 PM."
+  },
+  {
+    "id": "todd-day-wait-20261121",
+    "title": "Todd Day Wait",
+    "date": "2026-11-21",
+    "time": "8:00 PM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/todd-day-wait-portland-showdown-saloon-saturday-november-21-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "",
+    "description": "Concert: Todd Day Wait at Showdown Saloon in Portland, OR on Sat, November 21, 2026 at 8:00 PM."
   }
 ]

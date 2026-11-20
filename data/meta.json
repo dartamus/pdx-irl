@@ -1,78 +1,172 @@
 {
-  "updatedAt": "2026-11-18T21:27:27.915373+00:00",
-  "eventCount": 56,
-  "rawFound": 33,
-  "duplicatesWithinFresh": 0,
+  "updatedAt": "2026-11-20T21:10:43.206375+00:00",
+  "eventCount": 301,
+  "rawFound": 284,
+  "duplicatesWithinFresh": 1,
   "sources": [
     {
       "source": "Travel Portland",
-      "found": 0,
-      "ok": true
+      "found": 1,
+      "ok": true,
+      "candidatePages": 7,
+      "pagesChecked": 7,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Travel Portland - Today",
       "found": 0,
-      "ok": true
-    },
-    {
-      "source": "Travel Portland - October",
-      "found": 0,
-      "ok": true
-    },
-    {
-      "source": "Travel Portland - November",
-      "found": 0,
-      "ok": true
+      "ok": true,
+      "candidatePages": 3,
+      "pagesChecked": 3,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Portland Events",
-      "found": 30,
-      "ok": true
+      "found": 45,
+      "ok": true,
+      "candidatePages": 14,
+      "pagesChecked": 14,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "PDX Pipeline",
-      "found": 3,
-      "ok": true
+      "found": 1,
+      "ok": true,
+      "candidatePages": 3,
+      "pagesChecked": 3,
+      "rejectedNoDirectLink": 1,
+      "errors": [
+        "404 Client Error: Not Found for url: https://www.portland5.com/arlene-schnitzer-concert-hall/events/moth-mains"
+      ]
     },
     {
       "source": "Shuffle Dating Portland",
       "found": 0,
-      "ok": true
+      "ok": true,
+      "candidatePages": 1,
+      "pagesChecked": 1,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Thursday Portland",
       "found": 0,
-      "ok": true
+      "ok": true,
+      "candidatePages": 0,
+      "pagesChecked": 0,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Revolution Hall",
       "found": 0,
-      "ok": true
+      "ok": true,
+      "candidatePages": 14,
+      "pagesChecked": 14,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Mississippi Studios",
       "found": 0,
-      "ok": true
+      "ok": true,
+      "candidatePages": 14,
+      "pagesChecked": 14,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Wonder Ballroom",
       "found": 0,
-      "ok": true
+      "ok": true,
+      "candidatePages": 1,
+      "pagesChecked": 1,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Aladdin Theater",
       "found": 0,
-      "ok": true
+      "ok": true,
+      "candidatePages": 14,
+      "pagesChecked": 14,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Crystal Ballroom",
-      "found": 0,
-      "ok": true
+      "found": 7,
+      "ok": true,
+      "candidatePages": 14,
+      "pagesChecked": 14,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "45 East",
       "found": 0,
-      "ok": true
+      "ok": true,
+      "candidatePages": 0,
+      "pagesChecked": 0,
+      "rejectedNoDirectLink": 0,
+      "errors": []
+    },
+    {
+      "source": "Eventbrite Portland Singles",
+      "found": 0,
+      "ok": false,
+      "error": "405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/or--portland/singles-events/"
+    },
+    {
+      "source": "Eventbrite Portland Speed Dating",
+      "found": 0,
+      "ok": false,
+      "error": "405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/or--portland/speed-dating/"
+    },
+    {
+      "source": "Meetup Portland Singles",
+      "found": 27,
+      "ok": true,
+      "candidatePages": 14,
+      "pagesChecked": 14,
+      "rejectedNoDirectLink": 0,
+      "errors": []
+    },
+    {
+      "source": "FunPDX Meet People",
+      "found": 32,
+      "ok": true,
+      "candidatePages": 14,
+      "pagesChecked": 14,
+      "rejectedNoDirectLink": 0,
+      "errors": []
+    },
+    {
+      "source": "Helium Comedy Portland",
+      "found": 171,
+      "ok": true,
+      "candidatePages": 14,
+      "pagesChecked": 14,
+      "rejectedNoDirectLink": 0,
+      "errors": []
+    },
+    {
+      "source": "Portland Art Museum",
+      "found": 0,
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: https://portlandartmuseum.org/events/"
+    },
+    {
+      "source": "Portland5 Events",
+      "found": 0,
+      "ok": true,
+      "candidatePages": 6,
+      "pagesChecked": 6,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     }
   ]
 }

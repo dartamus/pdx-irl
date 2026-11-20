@@ -43,3 +43,7 @@ This release adds a two-stage discovery process: inspect source listings for pla
 The homepage is now a minimal punk-zine discovery flow: **When → What → Go**. Time choices: Tonight, This Weekend, Tomorrow, Plan Ahead. Category rows have restrained category colors (music blue, comedy pink, singles red). Choose a category or Show Me Everything to open the event feed. Surprise Me chooses from matching events. Saved and filters remain available in the mobile navigation. No emoji UI. Existing collectors, GitHub Actions, event JSON, PWA and `.ics` calendar download are retained.
 
 Deploy by uploading the contents of the `pdx-irl-main` folder to the root of the GitHub repository, replacing existing files. Keep `.github/workflows/refresh-events.yml` and `tests/` intact. The service worker cache key was bumped to `pdx-irl-v06`.
+
+
+## v0.6.1 visual refinement
+Retains the PDX IRL logo and When → What → Go interaction, but uses a compact editorial homepage, restrained category accents, quieter event cards, and reduced visual noise. No collector changes.

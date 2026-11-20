@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T03:16:01.614427+00:00",
-  "eventCount": 42,
-  "rawFound": 31,
-  "duplicatesWithinFresh": 2,
+  "updatedAt": "2026-11-18T21:27:27.915373+00:00",
+  "eventCount": 56,
+  "rawFound": 33,
+  "duplicatesWithinFresh": 0,
   "sources": [
     {
       "source": "Travel Portland",
@@ -31,7 +31,7 @@
     },
     {
       "source": "PDX Pipeline",
-      "found": 1,
+      "found": 3,
       "ok": true
     },
     {

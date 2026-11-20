@@ -4,12 +4,14 @@ from pathlib import Path
 from datetime import datetime,timedelta,timezone
 from urllib.parse import urljoin,urlparse
 import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from collectors_v05 import event_candidates, parse_detail, classify_social
 from bs4 import BeautifulSoup
 from dateutil import parser as dtparse
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/'data/events.json'; SOURCES=ROOT/'scripts/sources.json'; META=ROOT/'data/meta.json'
 HEADERS={'User-Agent':'Mozilla/5.0 (compatible; PDX-IRL/0.3; +https://github.com/dartamus/pdx-irl)','Accept-Language':'en-US,en;q=0.9'}
-CAT_WORDS={'Music':['music','concert','band','dj','karaoke','singer','rock','pop','country','jazz','hip-hop'],'Singles':['singles','single ','speed dating','dating','mixer','meet cute','matchmaking','delete the apps'],'Art':['art','gallery','museum','film','theater','theatre','dance','zine','poetry','book','design'],'Sports':['sports','game','match','run','race','soccer','basketball','hockey','roller derby','volleyball','timbers','thorns','winterhawks'],'Comedy':['comedy','comedian','stand-up','standup','improv'],'Food + Drink':['food','drink','beer','wine','dinner','tasting','brewery','cocktail','market'],'Nightlife':['nightlife','club','dance party','drag','cabaret','late night'],'Outdoors':['outdoor','hike','walk','run','park','trail','market'],'Weird':['halloween','haunted','ghost','oddities','weird','costume','paranormal','pumpkin']}
+CAT_WORDS={'Music':['music','concert','band','dj','karaoke','singer','rock','pop','country','jazz','hip-hop'],'Social':['social','trivia','board game','make friends','meetup','mixer'],'Singles':['singles','single ','speed dating','dating','mixer','meet cute','matchmaking','delete the apps'],'Art':['art','gallery','museum','film','theater','theatre','dance','zine','poetry','book','design'],'Sports':['sports','game','match','run','race','soccer','basketball','hockey','roller derby','volleyball','timbers','thorns','winterhawks'],'Comedy':['comedy','comedian','stand-up','standup','improv'],'Food + Drink':['food','drink','beer','wine','dinner','tasting','brewery','cocktail','market'],'Nightlife':['nightlife','club','dance party','drag','cabaret','late night'],'Outdoors':['outdoor','hike','walk','run','park','trail','market'],'Weird':['halloween','haunted','ghost','oddities','weird','costume','paranormal','pumpkin']}
 MONTHS='January February March April May June July August September October November December Jan Feb Mar Apr May Jun Jul Aug Sep Sept Oct Nov Dec'.split()
 
 def slug(s): return re.sub(r'-+','-',re.sub(r'[^a-z0-9]+','-',s.lower())).strip('-')[:70]
@@ -121,23 +123,45 @@ def portland_events(soup,src):
  return out
 
 def scrape(src):
- r=requests.get(src['url'],headers=HEADERS,timeout=30);r.raise_for_status();soup=BeautifulSoup(r.text,'html.parser')
+ """Return discovered events and actionable per-source diagnostics."""
+ stats={'source':src['name'],'found':0,'ok':True,'candidatePages':0,'pagesChecked':0,'rejectedNoDirectLink':0,'errors':[]}
+ r=requests.get(src['url'],headers=HEADERS,timeout=18);r.raise_for_status();soup=BeautifulSoup(r.text,'html.parser')
  adapter=src.get('adapter','jsonld'); out=jsonld(soup,src)
  if adapter in ('travel_portland','local_radar'): out+=card_candidates(soup,src)
  elif adapter=='portland_events': out+=portland_events(soup,src)
- elif adapter in ('pdx_pipeline','shuffle_dating','thursday_portland'):
-  extra=card_candidates(soup,src)
-  if adapter in ('shuffle_dating','thursday_portland'):
-   for e in extra:
-    e['categories']=sorted(set(['Singles','Social']+e.get('categories',[]))); e['category']='Singles'; e['tags']=sorted(set(['Singles','Social']+e.get('tags',[])))[:8]; e['source_url']=src['url']
-  out+=extra
- return out
+ elif adapter in ('pdx_pipeline','shuffle_dating','thursday_portland'): out+=card_candidates(soup,src)
+ kind='singles' if adapter in ('shuffle_dating','thursday_portland','singles_discovery') else 'general'
+ candidates=event_candidates(r.text,src['url'],limit=src.get('max_detail_pages',14),source_kind=kind)
+ stats['candidatePages']=len(candidates)
+ def fetch_detail(url):
+  try:
+   resp=requests.get(url,headers=HEADERS,timeout=12);resp.raise_for_status()
+   return parse_detail(resp.text,resp.url,src['name'],make_event),None
+  except Exception as ex:return [],str(ex)[:110]
+ if candidates:
+  with ThreadPoolExecutor(max_workers=5) as executor:
+   futures={executor.submit(fetch_detail,u):u for u in candidates}
+   for f in as_completed(futures):
+    events,error=f.result();stats['pagesChecked']+=1
+    if error:stats['errors'].append(error)
+    out.extend(events)
+ # Every item must resolve to a specific page, not merely a calendar or homepage.
+ valid=[];seen=set()
+ for e in out:
+  e['source_url']=src['url']
+  e=classify_social(e,kind)
+  if not (specific_url(e.get('event_url','')) or specific_url(e.get('ticket_url',''))):
+   stats['rejectedNoDirectLink']+=1;continue
+  k=key(e)
+  if k not in seen:valid.append(e);seen.add(k)
+ stats['found']=len(valid)
+ return valid,stats
 
 def key(e):return(re.sub(r'\W+','',e.get('title','').lower()),e.get('date',''),re.sub(r'\W+','',e.get('venue','').lower()))
 def main():
  existing=json.loads(DATA.read_text());found=[];report=[]
  for src in json.loads(SOURCES.read_text()):
-  try:got=scrape(src);found+=got;report.append({'source':src['name'],'found':len(got),'ok':True})
+  try:got,stats=scrape(src);found+=got;report.append(stats)
   except Exception as ex:report.append({'source':src['name'],'found':0,'ok':False,'error':str(ex)[:180]})
  # Migrate v0.3 records and intentionally discard generic home-page links.
  for e in existing:
@@ -145,7 +169,7 @@ def main():
   e.setdefault('event_url',specific_url(legacy or ''))
   e.setdefault('ticket_url','')
   e.setdefault('source_url','')
- today=datetime.now().date()-timedelta(days=1);pool=[e for e in existing if dtparse.parse(e['date']).date()>=today]+found;merged={}
+ today=datetime.now().date()-timedelta(days=1);pool=[e for e in existing if dtparse.parse(e['date']).date()>=today and (specific_url(e.get('event_url','')) or specific_url(e.get('ticket_url','')))]+found;merged={}
  for e in pool:
   k=key(e)
   if k in merged:
@@ -160,6 +184,6 @@ def main():
  raw=len(found);fresh_keys=len({key(e) for e in found});dupes=max(0,raw-fresh_keys)
  META.write_text(json.dumps({'updatedAt':datetime.now(timezone.utc).isoformat(),'eventCount':len(events),'rawFound':raw,'duplicatesWithinFresh':dupes,'sources':report},indent=2)+'\n')
  print('\nPDX IRL EVENT REFRESH');print('─'*44)
- for x in report:print(f"{('✓' if x['ok'] else '×')} {x['source']:<29} {x['found']:>4}"+(f"  {x.get('error','')}" if not x['ok'] else ''))
- print('─'*44);print(f'Raw discovered: {raw}');print(f'Fresh duplicates: {dupes}');print(f'LIVE EVENTS: {len(events)}')
+ for x in report:print(f"{('✓' if x['ok'] else '×')} {x['source']:<29} {x['found']:>4}  candidates={x.get('candidatePages',0)} checked={x.get('pagesChecked',0)} rejected={x.get('rejectedNoDirectLink',0)}"+(f"  {x.get('error','')}" if not x['ok'] else ''))
+ print('─'*44);print(f'Rejected missing direct links: {sum(x.get("rejectedNoDirectLink",0) for x in report)}');print(f'Raw discovered: {raw}');print(f'Fresh duplicates: {dupes}');print(f'LIVE EVENTS: {len(events)}');print('WARNINGS: '+', '.join(x['source'] for x in report if not x['found']) if any(not x['found'] for x in report) else 'All sources produced events')
 if __name__=='__main__':main()

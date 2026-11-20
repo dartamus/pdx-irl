@@ -1,16 +1,104 @@
 [
-  {"name":"Travel Portland","url":"https://www.travelportland.com/events/","adapter":"travel_portland"},
-  {"name":"Travel Portland - Today","url":"https://www.travelportland.com/events/things-to-do-in-portland-today/","adapter":"travel_portland"},
-  {"name":"Travel Portland - October","url":"https://www.travelportland.com/events/october/","adapter":"travel_portland"},
-  {"name":"Travel Portland - November","url":"https://www.travelportland.com/events/november/","adapter":"travel_portland"},
-  {"name":"Portland Events","url":"https://portlandevents.org/calendar/","adapter":"portland_events"},
-  {"name":"PDX Pipeline","url":"https://www.pdxpipeline.com/","adapter":"pdx_pipeline"},
-  {"name":"Shuffle Dating Portland","url":"https://shuffle.dating/cities/pdx","adapter":"shuffle_dating"},
-  {"name":"Thursday Portland","url":"https://events.getthursday.com/portland/","adapter":"thursday_portland"},
-  {"name":"Revolution Hall","url":"https://www.revolutionhall.com/","adapter":"jsonld"},
-  {"name":"Mississippi Studios","url":"https://mississippistudios.com/","adapter":"jsonld"},
-  {"name":"Wonder Ballroom","url":"https://wonderballroom.com/","adapter":"jsonld"},
-  {"name":"Aladdin Theater","url":"https://www.aladdin-theater.com/","adapter":"jsonld"},
-  {"name":"Crystal Ballroom","url":"https://www.crystalballroompdx.com/","adapter":"jsonld"},
-  {"name":"45 East","url":"https://www.45eastpdx.com/","adapter":"jsonld"}
+  {
+    "name": "Travel Portland",
+    "url": "https://www.travelportland.com/events/",
+    "adapter": "travel_portland"
+  },
+  {
+    "name": "Travel Portland - Today",
+    "url": "https://www.travelportland.com/events/things-to-do-in-portland-today/",
+    "adapter": "travel_portland"
+  },
+  {
+    "name": "Portland Events",
+    "url": "https://portlandevents.org/calendar/",
+    "adapter": "portland_events"
+  },
+  {
+    "name": "PDX Pipeline",
+    "url": "https://www.pdxpipeline.com/",
+    "adapter": "pdx_pipeline"
+  },
+  {
+    "name": "Shuffle Dating Portland",
+    "url": "https://shuffle.dating/cities/pdx",
+    "adapter": "shuffle_dating"
+  },
+  {
+    "name": "Thursday Portland",
+    "url": "https://events.getthursday.com/portland/",
+    "adapter": "thursday_portland"
+  },
+  {
+    "name": "Revolution Hall",
+    "url": "https://www.revolutionhall.com/",
+    "adapter": "jsonld"
+  },
+  {
+    "name": "Mississippi Studios",
+    "url": "https://mississippistudios.com/",
+    "adapter": "jsonld"
+  },
+  {
+    "name": "Wonder Ballroom",
+    "url": "https://wonderballroom.com/",
+    "adapter": "jsonld"
+  },
+  {
+    "name": "Aladdin Theater",
+    "url": "https://www.aladdin-theater.com/",
+    "adapter": "jsonld"
+  },
+  {
+    "name": "Crystal Ballroom",
+    "url": "https://www.crystalballroompdx.com/",
+    "adapter": "jsonld"
+  },
+  {
+    "name": "45 East",
+    "url": "https://www.45eastpdx.com/",
+    "adapter": "jsonld"
+  },
+  {
+    "name": "Eventbrite Portland Singles",
+    "url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "adapter": "singles_discovery",
+    "max_detail_pages": 18
+  },
+  {
+    "name": "Eventbrite Portland Speed Dating",
+    "url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "adapter": "singles_discovery",
+    "max_detail_pages": 18
+  },
+  {
+    "name": "Meetup Portland Singles",
+    "url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "adapter": "singles_discovery",
+    "max_detail_pages": 14
+  },
+  {
+    "name": "FunPDX Meet People",
+    "url": "https://www.funpdx.com/meet-people-portland",
+    "adapter": "social_discovery",
+    "max_detail_pages": 14
+  },
+  {
+    "name": "Helium Comedy Portland",
+    "url": "https://portland.heliumcomedy.com/",
+    "adapter": "jsonld",
+    "max_detail_pages": 14
+  },
+  {
+    "name": "Portland Art Museum",
+    "url": "https://portlandartmuseum.org/events/",
+    "adapter": "jsonld",
+    "max_detail_pages": 14
+  },
+  {
+    "name": "Portland5 Events",
+    "url": "https://www.portland5.com/events",
+    "adapter": "jsonld",
+    "max_detail_pages": 14
+  }
 ]

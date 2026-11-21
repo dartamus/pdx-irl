@@ -1,313 +1,5 @@
 [
   {
-    "id": "northwest-elite-sports-west-coast-classic-oregon-ducks-vs-oregon-state-20261119",
-    "title": "Northwest Elite Sports West Coast Classic: Oregon Ducks vs. Oregon State Beavers",
-    "date": "2026-11-19",
-    "time": "6:00 PM",
-    "venue": "Moda Center at the Rose Quarter",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/northwest-elite-sports-west-coast-classic-oregon-ducks-vs-oregon-state-beavers-portland-moda-center-at-the-rose-quarter-thursday-november-19-2026-6-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Northwest Elite Sports West Coast Classic: Oregon Ducks vs. Oregon State Beavers at Moda Center at the Rose Quarter in Portland, OR on Thu, November 19, 2026 at 6:00 PM."
-  },
-  {
-    "id": "can-can-s-twas-the-night-before-nutcracker-20261119",
-    "title": "Can Can's Twas The Night Before Nutcracker",
-    "date": "2026-11-19",
-    "time": "6:30 PM",
-    "venue": "Paris Theatre - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/can-cans-twas-the-night-before-nutcracker-portland-thursday-november-19-2026-630-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Thu, November 19, 2026 at 6:30 PM."
-  },
-  {
-    "id": "chuck-israels-jazz-orchestra-20261119",
-    "title": "Chuck Israels Jazz Orchestra",
-    "date": "2026-11-19",
-    "time": "7:00 PM",
-    "venue": "Jack London Revue",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/chuck-israels-jazz-orchestra-portland-jack-london-revue-thursday-november-19-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Chuck Israels Jazz Orchestra at Jack London Revue in Portland, OR on Thu, November 19, 2026 at 7:00 PM."
-  },
-  {
-    "id": "portland-state-vikings-vs-northwest-indian-college-eagles-20261119",
-    "title": "Portland State Vikings vs. Northwest Indian College Eagles",
-    "date": "2026-11-19",
-    "time": "7:00 PM",
-    "venue": "Portland State's Viking Pavilion",
-    "category": "Sports",
-    "categories": [
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-vs-northwest-indian-college-eagles-portland-portland-states-viking-pavilion-thursday-november-19-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Sports event: Portland State Vikings vs. Northwest Indian College Eagles at Portland State's Viking Pavilion in Portland, OR on Thu, November 19, 2026 at 7:00 PM."
-  },
-  {
-    "id": "k-trevor-wilson-20261119",
-    "title": "K. Trevor Wilson",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "venue": "Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/k-trevor-wilson-portland-helium-comedy-club-portland-thursday-november-19-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: K. Trevor Wilson at Helium Comedy Club - Portland in Portland, OR on Thu, November 19, 2026 at 7:30 PM."
-  },
-  {
-    "id": "the-gateway-show-20261119",
-    "title": "The Gateway Show",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "venue": "NOVA PDX",
-    "category": "Comedy",
-    "categories": [
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-gateway-show-portland-nova-pdx-thursday-november-19-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: The Gateway Show at NOVA PDX in Portland, OR on Thu, November 19, 2026 at 7:30 PM."
-  },
-  {
-    "id": "the-outsiders-20261119",
-    "title": "The Outsiders",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "venue": "Keller Auditorium",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-thursday-november-19-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Thu, November 19, 2026 at 7:30 PM."
-  },
-  {
-    "id": "with-her-own-wings-20261119",
-    "title": "With Her Own Wings",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "venue": "Patricia Reser Center for the Arts",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/with-her-own-wings-beaverton-patricia-reser-center-for-the-arts-thursday-november-19-2026-7-30-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: With Her Own Wings at Patricia Reser Center for the Arts in Beaverton, OR on Thu, November 19, 2026 at 7:30 PM."
-  },
-  {
-    "id": "2dead-boyz-the-underachievers-20261119",
-    "title": "2Dead Boyz & The Underachievers",
-    "date": "2026-11-19",
-    "time": "8:00 PM",
-    "venue": "Hawthorne Theatre",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/2dead-boyz-and-the-underachievers-portland-hawthorne-theatre-thursday-november-19-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: 2Dead Boyz & The Underachievers at Hawthorne Theatre in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
-  },
-  {
-    "id": "brokencyde-20261119",
-    "title": "Brokencyde",
-    "date": "2026-11-19",
-    "time": "8:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/brokencyde-portland-dantes-caffe-italiano-thursday-november-19-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Brokencyde at Dante's Caffe Italiano in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
-  },
-  {
-    "id": "graham-barham-20261119",
-    "title": "Graham Barham",
-    "date": "2026-11-19",
-    "time": "8:00 PM",
-    "venue": "Ponderosa Lounge & Grill",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/graham-barham-portland-thursday-november-19-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Graham Barham at Ponderosa Lounge & Grill in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
-  },
-  {
-    "id": "jamila-woods-20261119",
-    "title": "Jamila Woods",
-    "date": "2026-11-19",
-    "time": "8:00 PM",
-    "venue": "Wonder Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jamila-woods-portland-wonder-ballroom-thursday-november-19-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Jamila Woods at Wonder Ballroom in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
-  },
-  {
-    "id": "jim-lauderdale-never-come-down-20261119",
-    "title": "Jim Lauderdale & Never Come Down",
-    "date": "2026-11-19",
-    "time": "8:00 PM",
-    "venue": "Showdown Saloon",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/jim-lauderdale-and-never-come-down-portland-showdown-saloon-thursday-november-19-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Jim Lauderdale & Never Come Down at Showdown Saloon in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
-  },
-  {
-    "id": "the-cactus-blossoms-20261119",
-    "title": "The Cactus Blossoms",
-    "date": "2026-11-19",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-cactus-blossoms-portland-mississippi-studios-thursday-november-19-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: The Cactus Blossoms at Mississippi Studios in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
-  },
-  {
-    "id": "thundercat-20261119",
-    "title": "Thundercat",
-    "date": "2026-11-19",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/thundercat-portland-thursday-november-19-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Thundercat at McMenamins Crystal Ballroom in Portland, OR on Thu, November 19, 2026 at 8:00 PM."
-  },
-  {
     "id": "space-92-20261120",
     "title": "Space 92",
     "date": "2026-11-20",
@@ -714,13 +406,13 @@
     "venue": "Wonderwood Springs",
     "category": "Social",
     "categories": [
-      "Social",
-      "Art"
+      "Art",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Art"
+      "Art",
+      "Social"
     ],
     "event_url": "https://www.funpdx.com/e/free-trivia-fridays-at-wonderwood-springs-2026-11-20/",
     "ticket_url": "",
@@ -728,6 +420,30 @@
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "Old-school pen-and-paper trivia every Friday at Wonderwood Springs, the fantasy-themed cartoon tavern in St. Johns. Four rounds, prizes for the top 3 teams, always free.",
     "endDate": "2026-11-21"
+  },
+  {
+    "id": "love-seek-virtual-speed-dating-with-single-african-men-20261121",
+    "title": "Love & Seek: Virtual Speed Dating with Single African Men",
+    "date": "2026-11-21",
+    "time": "2:00 PM",
+    "venue": "Portland",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/love-seek-virtual-speed-dating-with-single-african-men-tickets-2004180755591",
+    "ticket_url": "https://www.eventbrite.com/e/love-seek-virtual-speed-dating-with-single-african-men-tickets-2004180755591",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "LIVE virtual speed dating with ID-verified single men in Africa. Private & not filmed. $25 today with code FIRSTDATE!"
   },
   {
     "id": "the-outsiders-20261121",
@@ -883,19 +599,19 @@
     "venue": "Devils Point",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/stripparaoke-at-devils-point-2026-11-20/",
     "ticket_url": "",
@@ -1138,13 +854,13 @@
     "venue": "McMenamins Crystal Ballroom",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/90s2010s-dance-flashback-portland-mcmenamins-crystal-ballroom-saturday-november-21-2026-9-00-pm/",
@@ -1195,6 +911,125 @@
     "description": "Comedy show: K. Trevor Wilson at Neon Room at Helium Comedy Club - Portland in Portland, OR on Sat, November 21, 2026 at 9:30 PM."
   },
   {
+    "id": "a-date-for-the-holidays-an-elegant-singles-soir-e-ages-30-20261121",
+    "title": "A Date for the Holidays | An Elegant Singles Soirée (Ages 30+)",
+    "date": "2026-11-21",
+    "time": "See event",
+    "venue": "Triple Afriq African restaurant(Nigerian)",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Food + Drink",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/a-date-for-the-holidays-an-elegant-singles-soiree-ages-30-tickets-2004149492081",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Singles 30+! Dress up, wine, dine & mingle at an elegant soirée featuring delicious food, fun activities & meaningful connections!",
+    "endDate": "2026-11-21"
+  },
+  {
+    "id": "portland-kinky-speed-dating-mixer-regular-edition-20261121",
+    "title": "Portland Kinky Speed Dating Mixer: Regular Edition",
+    "date": "2026-11-21",
+    "time": "See event",
+    "venue": "CC Slaughters Nightclub and Lounge",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Singles",
+      "Nightlife"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-kinky-speed-dating-mixer-regular-edition-tickets-2003375767851",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Meet like-minded adventurous singles for a fun, flirty, and fast-paced night of kinky connections and good vibes.",
+    "endDate": "2026-11-21"
+  },
+  {
+    "id": "portland-new-friends-single-professionals-mixer-33-42-group-20261121",
+    "title": "Portland New Friends - Single Professionals Mixer (33-42 group)",
+    "date": "2026-11-21",
+    "time": "See event",
+    "venue": "Portland Online Events",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Singles"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-new-friends-single-professionals-mixer-33-42-group-tickets-1977477473355",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Join for a social singles mixer and make new friends!",
+    "endDate": "2026-11-21"
+  },
+  {
+    "id": "portland-new-single-friends-social-mixer-24-32-group-20261121",
+    "title": "Portland New Single Friends - Social Mixer (24-32 group)",
+    "date": "2026-11-21",
+    "time": "See event",
+    "venue": "Portland Online Events",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Singles"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-new-single-friends-social-mixer-24-32-group-tickets-1977476828426",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Join for a social singles mixer and make new friends!",
+    "endDate": "2026-11-21"
+  },
+  {
+    "id": "portland-singles-make-new-friends-56-group-20261121",
+    "title": "Portland Singles - Make New Friends (56+ group)",
+    "date": "2026-11-21",
+    "time": "See event",
+    "venue": "Portland Online Events",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Singles"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-singles-make-new-friends-56-group-tickets-1977477654898",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Join for a social singles mixer and make new friends!",
+    "endDate": "2026-11-21"
+  },
+  {
     "id": "special-event-musical-monday-20261122",
     "title": "Special Event: Musical Monday",
     "date": "2026-11-22",
@@ -1202,18 +1037,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/385150",
@@ -1336,18 +1171,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394748",
@@ -1355,6 +1190,52 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Sheryl Underwood, a savvy businesswoman and multi-faceted, multi-media entrepreneur, skillfully balances the roles of in-demand Entertainer, Owner and Chief Executive Officer of Pack Rat Productions, movie and television actress, radio personality and philanth"
+  },
+  {
+    "id": "jaime-french-20261122",
+    "title": "Jaime French",
+    "date": "2026-11-22",
+    "time": "4:00 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/jaime-french-portland-helium-comedy-club-portland-sunday-november-22-2026-4-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Comedy show: Jaime French at Helium Comedy Club - Portland in Portland, OR on Sun, November 22, 2026 at 4:00 PM."
+  },
+  {
+    "id": "single-to-soulmate-90-minute-free-masterclass-for-women-20261122",
+    "title": "'Single To Soulmate!' - 90 Minute Free Masterclass for Women",
+    "date": "2026-11-22",
+    "time": "5:00 PM",
+    "venue": "Portland",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Social"
+    ],
+    "event_url": "https://www.meetup.com/conscious-women-manifesting-abundance-portland/events/317309602/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "You know it's time to do something different to bring in your 'person'..? ⁣ You watch others find their partners and wonder when it is going to be your tur"
   },
   {
     "id": "lents-international-farmers-market-20261122",
@@ -1411,14 +1292,14 @@
     "venue": "Clinton Street Theater",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://www.funpdx.com/e/the-rocky-horror-picture-show-with-the-clinton-street-clinton-street-theater-2026-11-21/",
@@ -1449,6 +1330,28 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Sun, November 22, 2026 at 6:30 PM."
   },
   {
+    "id": "sheryl-underwood-20261122",
+    "title": "Sheryl Underwood",
+    "date": "2026-11-22",
+    "time": "7:00 PM",
+    "venue": "Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/sheryl-underwood-portland-helium-comedy-club-portland-sunday-november-22-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Comedy show: Sheryl Underwood at Helium Comedy Club - Portland in Portland, OR on Sun, November 22, 2026 at 7:00 PM."
+  },
+  {
     "id": "smash-disco-glam-metal-punk-hiphop-20261122",
     "title": "SMASH disco~glam~metal~punk-hiphop",
     "date": "2026-11-22",
@@ -1469,6 +1372,90 @@
     "description": ""
   },
   {
+    "id": "little-shop-of-horrors-20261122",
+    "title": "Little Shop of Horrors",
+    "date": "2026-11-22",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-sunday-november-22-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sun, November 22, 2026 at 7:30 PM."
+  },
+  {
+    "id": "1-umbrella-20261122",
+    "title": "1 Umbrella",
+    "date": "2026-11-22",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/1-umbrella-portland-hawthorne-theatre-sunday-november-22-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: 1 Umbrella at Hawthorne Theatre in Portland, OR on Sun, November 22, 2026 at 8:00 PM."
+  },
+  {
+    "id": "casual-eddie-20261122",
+    "title": "Casual Eddie",
+    "date": "2026-11-22",
+    "time": "8:00 PM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/casual-eddie-portland-showdown-saloon-sunday-november-22-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Casual Eddie at Showdown Saloon in Portland, OR on Sun, November 22, 2026 at 8:00 PM."
+  },
+  {
+    "id": "jack-bensinger-20261122",
+    "title": "Jack Bensinger",
+    "date": "2026-11-22",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/jack-bensinger-portland-mississippi-studios-sunday-november-22-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Comedy show: Jack Bensinger at Mississippi Studios in Portland, OR on Sun, November 22, 2026 at 8:00 PM."
+  },
+  {
     "id": "sunday-funday-drag-brunch-at-darcelle-xv-20261122",
     "title": "Sunday Funday Drag Brunch at Darcelle XV",
     "date": "2026-11-22",
@@ -1476,21 +1463,71 @@
     "venue": "Darcelle XV & Co.",
     "category": "Sports",
     "categories": [
-      "Sports",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/sunday-funday-drag-brunch-at-darcelle-xv-2026-11-22/",
     "ticket_url": "",
     "source": "FunPDX Meet People",
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "Weekly drag brunch at Darcelle XV & Co., Portland's legendary drag showplace downtown â big performances, bigger laughs. Doors 11:30am, show 12:30pm. 21+.",
+    "endDate": "2026-11-22"
+  },
+  {
+    "id": "portland-delete-the-apps-meet-people-in-person-at-flock-20261122",
+    "title": "PORTLAND | Delete the Apps - Meet People in Person | at FLOCK",
+    "date": "2026-11-22",
+    "time": "See event",
+    "venue": "Flock",
+    "category": "Singles",
+    "categories": [
+      "Art",
+      "Outdoors",
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Outdoors",
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-delete-the-apps-meet-people-in-person-at-flock-tickets-2003754046292",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Walk into a party. Know who's single and who's looking for friends. Stickers show who everyone wants to meet.",
+    "endDate": "2026-11-22"
+  },
+  {
+    "id": "regional-single-adult-monthly-pot-luck-and-fireside-20261122",
+    "title": "Regional Single Adult Monthly Pot Luck and Fireside",
+    "date": "2026-11-22",
+    "time": "See event",
+    "venue": "The Church of Jesus Christ of Latter-day Saints",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/regional-single-adult-monthly-pot-luck-and-fireside-tickets-1599180214069",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Monthly pot luck and fireside for Portland Coordinating Council Regional Single Adults.",
     "endDate": "2026-11-22"
   },
   {
@@ -1520,6 +1557,32 @@
     "description": "Jaime French , the dynamic American comedian & YouTuber has left an indelible mark on the digital landscape with her unique blend of humor and creativity. Born in St. Louis, Missouri, in 1989, French’s passion for video creation ignited at a young age when she"
   },
   {
+    "id": "single-to-soulmate-90-minute-free-masterclass-for-women-20261123",
+    "title": "'Single To Soulmate!' - 90 Minute Free Masterclass for Women",
+    "date": "2026-11-23",
+    "time": "1:00 AM",
+    "venue": "Portland",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art",
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Sports",
+      "Social"
+    ],
+    "event_url": "https://www.meetup.com/conscious-women-manifesting-abundance-portland/events/317309602/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "You know it's time to do something different to bring in your 'person'..? ⁣ You watch others find their partners and wonder when it is going to be your turn. ⁣ I've met and spoken to thousands of singles who are over being single, but unsure how to change thin"
+  },
+  {
     "id": "special-event-sheryl-underwood-i-need-a-job-tour-20261123",
     "title": "Special Event: Sheryl Underwood: I Need A Job Tour",
     "date": "2026-11-23",
@@ -1527,18 +1590,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394746",
@@ -1556,14 +1619,14 @@
     "category": "Music",
     "categories": [
       "Music",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Music",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/sunday-night-open-mic-at-laurelthirst-laurelthirst-public-house-2026-11-22/",
     "ticket_url": "",
@@ -1580,14 +1643,14 @@
     "venue": "Suki's Bar",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://www.funpdx.com/e/drag-aoke-at-sukis-bar-2026-11-22/",
@@ -1605,19 +1668,19 @@
     "venue": "Devils Point",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/stripparaoke-at-devils-point-2026-11-22/",
     "ticket_url": "",
@@ -1634,19 +1697,19 @@
     "venue": "Dante's",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/sinferno-cabaret-dantes-2026-11-22/",
     "ticket_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230834",
@@ -1675,6 +1738,108 @@
     "description": ""
   },
   {
+    "id": "senses-fail-koyo-initiate-20261123",
+    "title": "Senses Fail, Koyo & Initiate",
+    "date": "2026-11-23",
+    "time": "7:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/senses-fail-koyo-and-initiate-portland-monday-november-23-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Senses Fail, Koyo & Initiate at McMenamins Crystal Ballroom in Portland, OR on Mon, November 23, 2026 at 7:00 PM."
+  },
+  {
+    "id": "square-dancing-caller-tighe-hauze-miss-praline-s-whip-lodge-tenderstro-20261123",
+    "title": "Square Dancing: Caller Tighe Hauze & Miss Praline's Whip Lodge Tenderstrokes",
+    "date": "2026-11-23",
+    "time": "7:00 PM",
+    "venue": "Showdown Saloon",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/square-dancing-caller-tighe-hauze-and-miss-pralines-whip-lodge-tenderstrokes-portland-showdown-saloon-monday-november-23-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Live event: Square Dancing: Caller Tighe Hauze & Miss Praline's Whip Lodge Tenderstrokes at Showdown Saloon in Portland, OR on Mon, November 23, 2026 at 7:00 PM."
+  },
+  {
+    "id": "the-outsiders-20261123",
+    "title": "The Outsiders",
+    "date": "2026-11-23",
+    "time": "7:30 PM",
+    "venue": "Keller Auditorium",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-monday-november-23-2026-730-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Mon, November 23, 2026 at 7:30 PM."
+  },
+  {
+    "id": "haley-heynderickx-20261123",
+    "title": "Haley Heynderickx",
+    "date": "2026-11-23",
+    "time": "8:00 PM",
+    "venue": "Aladdin Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/haley-heynderickx-portland-aladdin-theater-monday-november-23-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Haley Heynderickx at Aladdin Theater in Portland, OR on Mon, November 23, 2026 at 8:00 PM."
+  },
+  {
+    "id": "local-love-letter-20261123",
+    "title": "Local Love Letter",
+    "date": "2026-11-23",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/local-love-letter-portland-mississippi-studios-monday-november-23-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Local Love Letter at Mississippi Studios in Portland, OR on Mon, November 23, 2026 at 8:00 PM."
+  },
+  {
     "id": "senses-fail-20261123",
     "title": "Senses Fail",
     "date": "2026-11-23",
@@ -1693,6 +1858,26 @@
     "source": "Crystal Ballroom",
     "source_url": "https://www.crystalballroompdx.com/",
     "description": "Senses Fail have been called any number of things across their near 25 years as a band – emo, screamo, post-hardcore, metalcore, pop punk. It’s testament to the band’s perpetual…"
+  },
+  {
+    "id": "karaoke-from-hell-20261123",
+    "title": "Karaoke From Hell",
+    "date": "2026-11-23",
+    "time": "9:00 PM",
+    "venue": "Dante's Caffe Italiano",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/karaoke-from-hell-portland-monday-november-23-2026-900-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Karaoke From Hell at Dante's Caffe Italiano in Portland, OR on Mon, November 23, 2026 at 9:00 PM."
   },
   {
     "id": "beaverton-bike-happy-hour-20261124",
@@ -1715,6 +1900,26 @@
     "source": "FunPDX Meet People",
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "Join us on the westside for Bike Happy Hour, hosted by Ride_Westside Meet new friends and old, hang out, grab a beverage (alcoholic or not), grab some food (optional), and let's talk bikes! Everyone welcome! Every 2nd and 4th Monday, 4:30 to 7 p.m. We are usua"
+  },
+  {
+    "id": "the-outsiders-20261124",
+    "title": "The Outsiders",
+    "date": "2026-11-24",
+    "time": "1:00 PM",
+    "venue": "Keller Auditorium",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-tuesday-november-24-2026-100-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Tue, November 24, 2026 at 1:00 PM."
   },
   {
     "id": "cribbage-lucky-lab-hawthorne-20261124",
@@ -1799,6 +2004,28 @@
     "description": ""
   },
   {
+    "id": "alter-bridge-20261124",
+    "title": "Alter Bridge",
+    "date": "2026-11-24",
+    "time": "7:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/alter-bridge-portland-tuesday-november-24-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Alter Bridge at Roseland Theater in Portland, OR on Tue, November 24, 2026 at 7:00 PM."
+  },
+  {
     "id": "last-call-trivia-20261125",
     "title": "Last Call Trivia",
     "date": "2026-11-25",
@@ -1818,6 +2045,26 @@
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "Trivia Tuesday at Hillsboro Downtown Station! Test your knowledge and compete for Station Taphouse gift cards! Prizes: 1st â $35, 2nd â $28, 3rd â $21. See you there!",
     "endDate": "2026-11-25"
+  },
+  {
+    "id": "little-shop-of-horrors-20261125",
+    "title": "Little Shop of Horrors",
+    "date": "2026-11-25",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-wednesday-november-25-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Wed, November 25, 2026 at 2:00 PM."
   },
   {
     "id": "foster-night-ride-20261125",
@@ -1884,6 +2131,29 @@
     "endDate": "2026-11-25"
   },
   {
+    "id": "thanksgiving-eve-date-night-in-eliot-cityswoon-ages-29-49-20261125",
+    "title": "Thanksgiving Eve Date Night in Eliot | Cityswoon | Ages 29-49",
+    "date": "2026-11-25",
+    "time": "See event",
+    "venue": "The Garden Tavern",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/thanksgiving-eve-date-night-in-eliot-cityswoon-ages-29-49-tickets-2001156401667",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Speed Dating 2.0 @ The Garden Tavern on Thanksgiving Eve!",
+    "endDate": "2026-11-25"
+  },
+  {
     "id": "b-side-records-vintage-open-mic-all-ages-all-formats-20261126",
     "title": "B-Side Records & Vintage Open Mic: All Ages, All Formats",
     "date": "2026-11-26",
@@ -1891,16 +2161,16 @@
     "venue": "B-Side Records & Vintage: Milwaukie",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Outdoors"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Outdoors"
     ],
     "event_url": "https://www.funpdx.com/e/b-side-records-and-vintage-open-mic-all-ages-all-2026-11-25/",
@@ -1974,6 +2244,31 @@
     "endDate": "2026-11-26"
   },
   {
+    "id": "singles-night-at-paddy-s-bar-and-grill-20261126",
+    "title": "Singles Night at Paddy's Bar and Grill",
+    "date": "2026-11-26",
+    "time": "See event",
+    "venue": "Paddy's",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/singles-night-at-paddys-bar-and-grill-tickets-2003986388233",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Ready to meet someone new? Join us at Paddy’s Pub & Grill for a fun, relaxed evening designed for singles ages 40–55!",
+    "endDate": "2026-11-26"
+  },
+  {
     "id": "tigard-bike-happy-hour-20261127",
     "title": "Tigard Bike Happy Hour",
     "date": "2026-11-27",
@@ -2001,18 +2296,18 @@
     "venue": "Salmon Street Springs",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
-      "Sports",
       "Outdoors",
+      "Social",
+      "Sports",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
-      "Sports",
       "Outdoors",
+      "Social",
+      "Sports",
       "Weird"
     ],
     "event_url": "https://www.funpdx.com/e/thursday-night-ride-salmon-street-springs-2026-11-26/",
@@ -2063,6 +2358,26 @@
     "endDate": "2026-11-27"
   },
   {
+    "id": "little-shop-of-horrors-20261127",
+    "title": "Little Shop of Horrors",
+    "date": "2026-11-27",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-friday-november-27-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Fri, November 27, 2026 at 7:30 PM."
+  },
+  {
     "id": "decadent-80s-dance-party-20261127",
     "title": "Decadent 80s Dance Party",
     "date": "2026-11-27",
@@ -2071,22 +2386,86 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.crystalballroompdx.com/events/278681-decadent-80s-dance-party/",
     "ticket_url": "",
     "source": "Crystal Ballroom",
     "source_url": "https://www.crystalballroompdx.com/",
     "description": "Get ready for a fun night of dancing to all your favorite hits and requests from the 1980s! D80s is Portland’s longest-running 80s night, celebrating 21 consecutive years of weekly…"
+  },
+  {
+    "id": "naked-karaoke-20261127",
+    "title": "Naked Karaoke",
+    "date": "2026-11-27",
+    "time": "8:00 PM",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "https://www.meetup.com/lovehub-pdx/events/317336261/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": ""
+  },
+  {
+    "id": "portland-speed-dating-24-32-age-group-20261127",
+    "title": "Portland Speed Dating (24-32 age group)",
+    "date": "2026-11-27",
+    "time": "See event",
+    "venue": "Portland Online Events",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-speed-dating-24-32-age-group-tickets-1977474805375",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Meet someone special and have fun connecting with new people!",
+    "endDate": "2026-11-27"
+  },
+  {
+    "id": "witchy-speed-friending-20261127",
+    "title": "Witchy Speed Friending",
+    "date": "2026-11-27",
+    "time": "See event",
+    "venue": "Seagrape Apothecary",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://www.eventbrite.com/e/witchy-speed-friending-tickets-2002576608544",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Join us for a DREAMY event for magical speed friending and find a bestie or crew!",
+    "endDate": "2026-11-27"
   },
   {
     "id": "inaugural-holiday-bazaar-brewfest-20261128",
@@ -2116,13 +2495,13 @@
     "venue": "Wonderwood Springs",
     "category": "Social",
     "categories": [
-      "Social",
-      "Art"
+      "Art",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Art"
+      "Art",
+      "Social"
     ],
     "event_url": "https://www.funpdx.com/e/free-trivia-fridays-at-wonderwood-springs-2026-11-27/",
     "ticket_url": "",
@@ -2132,6 +2511,46 @@
     "endDate": "2026-11-28"
   },
   {
+    "id": "little-shop-of-horrors-20261128",
+    "title": "Little Shop of Horrors",
+    "date": "2026-11-28",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-saturday-november-28-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sat, November 28, 2026 at 2:00 PM."
+  },
+  {
+    "id": "portland-polyamory-fourth-friday-lucky-lab-meetup-20261128",
+    "title": "Portland Polyamory - Fourth Friday Lucky Lab Meetup",
+    "date": "2026-11-28",
+    "time": "3:00 AM",
+    "venue": "Portland",
+    "category": "Social",
+    "categories": [
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Social"
+    ],
+    "event_url": "https://www.meetup.com/portland-polyamory-meetup/events/316638690/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": ""
+  },
+  {
     "id": "special-event-rhys-darby-20261128",
     "title": "Special Event: Rhys Darby",
     "date": "2026-11-28",
@@ -2139,20 +2558,20 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors",
       "Weird"
@@ -2171,25 +2590,45 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/364045",
     "ticket_url": "",
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "LizaBanks Campagna is building an entirely new lane in the creator economy, one where comedy, culture, and civic curiosity collide. In 2025, she emerged as one of the most original voices reshaping how audiences engage with cities, institutions, and public lif"
+  },
+  {
+    "id": "naked-karaoke-20261128",
+    "title": "Naked Karaoke",
+    "date": "2026-11-28",
+    "time": "4:00 AM",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "https://www.meetup.com/lovehub-pdx/events/317336261/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": ""
   },
   {
     "id": "stripparaoke-at-devils-point-20261128",
@@ -2199,19 +2638,19 @@
     "venue": "Devils Point",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/stripparaoke-at-devils-point-2026-11-27/",
     "ticket_url": "",
@@ -2233,8 +2672,8 @@
     ],
     "adult": false,
     "tags": [
-      "Sports",
-      "Social"
+      "Social",
+      "Sports"
     ],
     "event_url": "https://www.meetup.com/christian-singles-of-a-certain-age/events/315449608/",
     "ticket_url": "",
@@ -2303,6 +2742,85 @@
     "description": ""
   },
   {
+    "id": "30-s-40-s-singles-night-at-the-people-s-courts-20261128",
+    "title": "30's & 40's Singles Night at The People's Courts",
+    "date": "2026-11-28",
+    "time": "See event",
+    "venue": "The People's Courts, Northeast 82nd Avenue, Portland, OR, USA",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Sports",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Sports",
+      "Food + Drink",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/30s-40s-singles-night-at-the-peoples-courts-tickets-2004265209194",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Ditch the apps for a night. Meet Portland singles IRL with pickleball, games, drinks, snacks & plenty of ways to break the ice.",
+    "endDate": "2026-11-28"
+  },
+  {
+    "id": "club-privata-suits-sins-single-ladies-couples-only-20261128",
+    "title": "Club Privata: Suits & Sins - Single Ladies & Couples Only",
+    "date": "2026-11-28",
+    "time": "See event",
+    "venue": "Club Privata",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Nightlife",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/club-privata-suits-sins-single-ladies-couples-only-tickets-1994391041292",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Come party at the Pacific Northwest's premier lifestyle nightclub!",
+    "endDate": "2026-11-29"
+  },
+  {
+    "id": "portland-speed-dating-ages-45-55-the-lovely-society-20261128",
+    "title": "Portland Speed Dating | Ages 45–55 | The Lovely Society",
+    "date": "2026-11-28",
+    "time": "See event",
+    "venue": "L'Atelier Yaffe",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-speed-dating-ages-4555-the-lovely-society-tickets-2004456726026",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Less scrolling, more chemistry. Meet Portland singles ages 45–55. Required guest profile on our website after booking.",
+    "endDate": "2026-11-28"
+  },
+  {
     "id": "join-us-for-game-night-potluck-20261129",
     "title": "Join us for Game Night/Potluck",
     "date": "2026-11-29",
@@ -2310,19 +2828,19 @@
     "venue": "Mt Tabor Heights Methodist Church",
     "category": "Social",
     "categories": [
-      "Social",
-      "Singles",
       "Art",
-      "Sports",
-      "Food + Drink"
+      "Food + Drink",
+      "Singles",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Singles",
       "Art",
-      "Sports",
-      "Food + Drink"
+      "Food + Drink",
+      "Singles",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://www.meetup.com/christian-singles-of-a-certain-age/events/315449608/",
     "ticket_url": "",
@@ -2338,20 +2856,20 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors",
       "Weird"
@@ -2363,6 +2881,26 @@
     "description": "Rhys Darby is an actor, writer, podcaster and stand-up comedian from New Zealand. Darby first captured US audiences as Murray, the loveable, but ultimately inept manager in HBO’s Flight of the Conchords. He has gone on to star in a plethora of TV and film role"
   },
   {
+    "id": "little-shop-of-horrors-20261129",
+    "title": "Little Shop of Horrors",
+    "date": "2026-11-29",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-sunday-november-29-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sun, November 29, 2026 at 2:00 PM."
+  },
+  {
     "id": "the-neon-room-at-helium-lizabanks-campagna-20261129",
     "title": "The Neon Room at Helium: LizaBanks Campagna",
     "date": "2026-11-29",
@@ -2370,19 +2908,19 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/376229",
     "ticket_url": "",
@@ -2431,6 +2969,29 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Sun, November 29, 2026 at 6:30 PM."
   },
   {
+    "id": "the-rocky-horror-picture-show-with-thom-hilton-20261129",
+    "title": "The Rocky Horror Picture Show with Thom Hilton",
+    "date": "2026-11-29",
+    "time": "7:00 AM",
+    "venue": "Clinton Street Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "https://www.funpdx.com/e/the-rocky-horror-picture-show-with-thom-hilton-clinton-street-theater-2026-11-28/",
+    "ticket_url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-thom-hilton-22/",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "@ Come watch our intimate, scaled-back screening of the ultimate cult movie that has played weekly at the Clinton Street Theater since 1978. If youâve ever wanted to attend, but didnât know if youâd enjoy your first time, our special host for this evenin",
+    "endDate": "2026-11-29"
+  },
+  {
     "id": "special-event-rhys-darby-20261130",
     "title": "Special Event: Rhys Darby",
     "date": "2026-11-30",
@@ -2438,20 +2999,20 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors",
       "Weird"
@@ -2470,19 +3031,19 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/376231",
     "ticket_url": "",
@@ -2518,23 +3079,46 @@
     "venue": "Portland",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Social",
       "Art",
-      "Nightlife"
+      "Nightlife",
+      "Singles",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Singles",
       "Art",
-      "Nightlife"
+      "Nightlife",
+      "Singles",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/single-parents-collective/events/316789393/",
     "ticket_url": "",
     "source": "Meetup Portland Singles",
     "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
     "description": "Our first SPC Book Club is officially happening! **Men, women, and all single parents are welcome.** No assigned reading this time — our first meetup is ab"
+  },
+  {
+    "id": "sapphic-singles-at-escape-bar-grill-20261201",
+    "title": "Sapphic Singles at Escape Bar & Grill",
+    "date": "2026-12-01",
+    "time": "See event",
+    "venue": "Escape Bar & Grill, Northeast Sandy Boulevard, Portland, OR, USA",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/sapphic-singles-at-escape-bar-grill-registration-2000204635910",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Calling all single sapphics! Get ready to mingle, flirt, and connect at Sapphic Singles, the ultimate in-person event for meeting new people",
+    "endDate": "2026-12-01"
   },
   {
     "id": "eastside-in-person-life-beyond-breakup-divorce-support-group-20261202",
@@ -2564,19 +3148,19 @@
     "venue": "Portland",
     "category": "Singles",
     "categories": [
+      "Art",
+      "Nightlife",
       "Singles",
       "Social",
-      "Art",
-      "Sports",
-      "Nightlife"
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Singles",
       "Art",
-      "Sports",
-      "Nightlife"
+      "Nightlife",
+      "Singles",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://www.meetup.com/single-parents-collective/events/316789393/",
     "ticket_url": "",
@@ -2635,6 +3219,49 @@
     "description": "Jaime Garcia is a stand-up comedian, born and raised in Dallas, Texas. Known for his dry wit and effortless delivery. He has performed at top clubs including The Improv, Comedy Mothership, and Zanies, and regularly opens for Ralph Barbosa on tour. Jaime hosts "
   },
   {
+    "id": "little-shop-of-horrors-20261202",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-02",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-wednesday-december-2-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Wed, December 2, 2026 at 7:30 PM."
+  },
+  {
+    "id": "50-speed-dating-in-north-east-cityswoon-ages-50-65-20261202",
+    "title": "50+ Speed Dating in North East | Cityswoon | Ages 50-65",
+    "date": "2026-12-02",
+    "time": "See event",
+    "venue": "The Garden Tavern",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/50-speed-dating-in-north-east-cityswoon-ages-50-65-tickets-2002079820638",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Speed Dating 2.0 @ The Garden Tavern!",
+    "endDate": "2026-12-02"
+  },
+  {
     "id": "food-truck-social-20261203",
     "title": "Food Truck Social",
     "date": "2026-12-03",
@@ -2642,13 +3269,13 @@
     "venue": "Portland",
     "category": "Social",
     "categories": [
-      "Social",
-      "Food + Drink"
+      "Food + Drink",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Food + Drink"
+      "Food + Drink",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/pdx-poly-community/events/315490949/",
     "ticket_url": "",
@@ -2675,6 +3302,46 @@
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Thu, December 3, 2026 at 6:30 PM."
+  },
+  {
+    "id": "little-shop-of-horrors-20261203",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-03",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-thursday-december-3-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Thu, December 3, 2026 at 7:30 PM."
+  },
+  {
+    "id": "portlanddancing-com-where-to-go-for-all-of-portland-s-dance-communitie-20261203",
+    "title": "Portlanddancing.com Where to go for all of Portland's Dance Communities",
+    "date": "2026-12-03",
+    "time": "8:00 AM",
+    "venue": "Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "https://www.meetup.com/lovehub-pdx/events/317407961/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": ""
   },
   {
     "id": "dirty-heads-20261203",
@@ -2704,13 +3371,13 @@
     "venue": "Portland",
     "category": "Social",
     "categories": [
-      "Social",
-      "Food + Drink"
+      "Food + Drink",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Food + Drink"
+      "Food + Drink",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/pdx-poly-community/events/315490949/",
     "ticket_url": "",
@@ -2726,21 +3393,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Social",
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/373724",
     "ticket_url": "",
@@ -2756,19 +3423,19 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/378270",
     "ticket_url": "",
@@ -2797,6 +3464,26 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, December 4, 2026 at 6:30 PM."
   },
   {
+    "id": "little-shop-of-horrors-20261204",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-04",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-friday-december-4-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Fri, December 4, 2026 at 7:30 PM."
+  },
+  {
     "id": "yule-benefit-tour-2026-20261204",
     "title": "Yule Benefit Tour 2026",
     "date": "2026-12-04",
@@ -2817,6 +3504,51 @@
     "description": "KEXP is taking Yule Benefit on the road, with three shows in three cities, headlined by Kamasi Washington with support from Bartees Strange. December 3rd at Showbox Seattle, December 4th…"
   },
   {
+    "id": "single-awareness-dinner-portland-single-ladies-edition-20261204",
+    "title": "Single Awareness Dinner: Portland | Single Ladies Edition",
+    "date": "2026-12-04",
+    "time": "See event",
+    "venue": "Restaurant of the Week",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Food + Drink",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/single-awareness-dinner-portland-single-ladies-edition-tickets-1990541548355",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "For women who wish to connect with other happily single ladies over dinner!",
+    "endDate": "2026-12-04"
+  },
+  {
+    "id": "little-shop-of-horrors-20261205",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-05",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-saturday-december-5-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sat, December 5, 2026 at 2:00 PM."
+  },
+  {
     "id": "special-event-ashley-gavin-20261205",
     "title": "Special Event: Ashley Gavin",
     "date": "2026-12-05",
@@ -2824,21 +3556,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Social",
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/373725",
     "ticket_url": "",
@@ -2854,19 +3586,19 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/378271",
     "ticket_url": "",
@@ -2915,6 +3647,71 @@
     "description": ""
   },
   {
+    "id": "earth-temple-retreat-grounding-protection-embodiment-1-day-retreat-20261205",
+    "title": "Earth Temple Retreat - Grounding • Protection • Embodiment (1-day Retreat)",
+    "date": "2026-12-05",
+    "time": "9:30 AM",
+    "venue": "Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "https://www.eventbrite.com/e/earth-temple-retreat-grounding-protection-embodiment-1-day-retreat-tickets-2004619885039?aff=ebdssbdestsearch",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Eventbrite - Earth School with Gisela Birnschein presents Earth Temple Retreat - Grounding • Protection • Embodiment (1-day Retreat) - Saturday, December 5, 2026 at 22614 NE 192nd Cir, Brush Prairie, WA. Find event and ticket information."
+  },
+  {
+    "id": "grow-your-chosen-family-at-holigay-queer-speed-friending-option-1-20261205",
+    "title": "Grow Your Chosen Family at Holigay Queer Speed Friending Option 1",
+    "date": "2026-12-05",
+    "time": "See event",
+    "venue": "The Marie Equi Center",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Food + Drink",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Food + Drink",
+      "Outdoors"
+    ],
+    "event_url": "https://www.eventbrite.com/e/grow-your-chosen-family-at-holigay-queer-speed-friending-option-1-tickets-2003941879105",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "We welcome you into the warmth of chosen family and art made by humans. Come make new friends and shop our craft market with them after! ✨",
+    "endDate": "2026-12-05"
+  },
+  {
+    "id": "little-shop-of-horrors-20261206",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-06",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-sunday-december-6-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sun, December 6, 2026 at 2:00 PM."
+  },
+  {
     "id": "special-event-ashley-gavin-20261206",
     "title": "Special Event: Ashley Gavin",
     "date": "2026-12-06",
@@ -2922,21 +3719,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Social",
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/373727",
     "ticket_url": "",
@@ -2952,19 +3749,19 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/378273",
     "ticket_url": "",
@@ -2980,17 +3777,17 @@
     "venue": "Helium Comedy Club",
     "category": "Sports",
     "categories": [
-      "Sports",
       "Comedy",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
       "Comedy",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/396248",
     "ticket_url": "",
@@ -3017,6 +3814,70 @@
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Sun, December 6, 2026 at 6:30 PM."
+  },
+  {
+    "id": "buffalo-traffic-jam-20261206",
+    "title": "Buffalo Traffic Jam",
+    "date": "2026-12-06",
+    "time": "8:00 PM",
+    "venue": "Portland",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://www.crystalballroompdx.com/events/279126-buffalo-traffic-jam/",
+    "ticket_url": "",
+    "source": "Crystal Ballroom",
+    "source_url": "https://www.crystalballroompdx.com/",
+    "description": "Sunday, December 6th at Crystal Ballroom in Portland, OR"
+  },
+  {
+    "id": "40-sapphic-singles-in-beaverton-20261206",
+    "title": "40+ Sapphic Singles in Beaverton",
+    "date": "2026-12-06",
+    "time": "See event",
+    "venue": "JUNE",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/40-sapphic-singles-in-beaverton-registration-2003683323759",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Calling all single sapphics! Get ready to mingle, flirt, and connect at Sapphic Singles, the ultimate Queer event for meeting new people",
+    "endDate": "2026-12-06"
+  },
+  {
+    "id": "a-practice-in-intimacy-a-tantric-connection-event-20261206",
+    "title": "A Practice in Intimacy- A Tantric Connection Event",
+    "date": "2026-12-06",
+    "time": "See event",
+    "venue": "Tango Berretin",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://www.eventbrite.com/e/a-practice-in-intimacy-a-tantric-connection-event-registration-2004320057246",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Come join us for a night of exploring intimacy, connection, and Tantra in a safe and welcoming space!",
+    "endDate": "2026-12-06"
   },
   {
     "id": "special-event-taylor-tomlinson-20261207",
@@ -3059,8 +3920,8 @@
     "adult": false,
     "tags": [
       "Singles",
-      "Sports",
-      "Social"
+      "Social",
+      "Sports"
     ],
     "event_url": "https://www.meetup.com/epiphany-match-pdx-singles-events/events/317472308/",
     "ticket_url": "",
@@ -3076,16 +3937,16 @@
     "venue": "503uncorked",
     "category": "Singles",
     "categories": [
+      "Art",
       "Singles",
       "Social",
-      "Art",
       "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Singles",
       "Art",
+      "Singles",
+      "Social",
       "Sports"
     ],
     "event_url": "https://www.meetup.com/epiphany-match-pdx-singles-events/events/317472308/",
@@ -3170,15 +4031,15 @@
     "venue": "Portland",
     "category": "Singles",
     "categories": [
+      "Art",
       "Singles",
-      "Social",
-      "Art"
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
+      "Art",
       "Singles",
-      "Art"
+      "Social"
     ],
     "event_url": "https://www.meetup.com/portland-seriously-searching-singles/events/317358907/",
     "ticket_url": "",
@@ -3235,6 +4096,46 @@
     "description": "See the best local comics at Helium Comedy Club's Open Mic Night! On nights there is a show in the Main showroom, the Open Mic will be held in the Neon Room. Think you have what it takes to make people laugh? Open Mic Night is open for signup to new talent as "
   },
   {
+    "id": "little-shop-of-horrors-20261209",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-09",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-wednesday-december-9-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Wed, December 9, 2026 at 7:30 PM."
+  },
+  {
+    "id": "little-shop-of-horrors-20261210",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-10",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-thursday-december-10-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Thu, December 10, 2026 at 2:00 PM."
+  },
+  {
     "id": "special-event-taylor-tomlinson-20261210",
     "title": "Special Event: Taylor Tomlinson",
     "date": "2026-12-10",
@@ -3268,17 +4169,17 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/390717",
     "ticket_url": "",
@@ -3307,6 +4208,27 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Thu, December 10, 2026 at 6:30 PM."
   },
   {
+    "id": "millennial-skip-the-small-talk-night-at-migration-brewing-williams-20261210",
+    "title": "Millennial Skip the Small Talk Night at Migration Brewing - Williams",
+    "date": "2026-12-10",
+    "time": "See event",
+    "venue": "Migration Brewing x Pápa's Frita - Williams",
+    "category": "Outdoors",
+    "categories": [
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Outdoors"
+    ],
+    "event_url": "https://www.eventbrite.com/e/millennial-skip-the-small-talk-night-at-migration-brewing-williams-tickets-2005098699185",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Meaningful conversations with strangers that don't leave you drained. We use question prompts to spark unique convos.",
+    "endDate": "2026-12-10"
+  },
+  {
     "id": "special-event-dave-attell-20261211",
     "title": "Special Event: Dave Attell",
     "date": "2026-12-11",
@@ -3314,18 +4236,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/382197",
@@ -3342,21 +4264,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/375094",
     "ticket_url": "",
@@ -3385,6 +4307,46 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, December 11, 2026 at 6:30 PM."
   },
   {
+    "id": "little-shop-of-horrors-20261211",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-11",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-friday-december-11-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Fri, December 11, 2026 at 7:30 PM."
+  },
+  {
+    "id": "little-shop-of-horrors-20261212",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-12",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-saturday-december-12-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sat, December 12, 2026 at 2:00 PM."
+  },
+  {
     "id": "special-event-dave-attell-20261212",
     "title": "Special Event: Dave Attell",
     "date": "2026-12-12",
@@ -3392,18 +4354,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/382240",
@@ -3420,21 +4382,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/375095",
     "ticket_url": "",
@@ -3483,6 +4445,51 @@
     "description": ""
   },
   {
+    "id": "singles-over-40-christmas-mixer-and-toy-drive-20261212",
+    "title": "Singles Over 40 Christmas Mixer and Toy Drive",
+    "date": "2026-12-12",
+    "time": "See event",
+    "venue": "The Verdict Bar And Grill",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Singles",
+      "Art"
+    ],
+    "event_url": "https://www.eventbrite.com/e/singles-over-40-christmas-mixer-and-toy-drive-tickets-2003042212177",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "This is our annual Christmas Party and Toy Drive for Randall's Pediatric Oncology Department.",
+    "endDate": "2026-12-12"
+  },
+  {
+    "id": "little-shop-of-horrors-20261213",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-13",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-sunday-december-13-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sun, December 13, 2026 at 2:00 PM."
+  },
+  {
     "id": "special-event-dave-attell-20261213",
     "title": "Special Event: Dave Attell",
     "date": "2026-12-13",
@@ -3490,18 +4497,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/382242",
@@ -3518,21 +4525,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/375097",
     "ticket_url": "",
@@ -3568,18 +4575,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/382249",
@@ -3589,6 +4596,54 @@
     "description": "Dave Attell is one of the most influential and flat-out funniest stand-ups alive, and 2024 proved it yet again. His new Netflix special, HOT CROSS BUNS, premiered in March to huge numbers and rave reviews, reminding everyone why he’s a comedian’s comedian and "
   },
   {
+    "id": "12-14-26-speed-dating-sherwood-ages-45-55-20261214",
+    "title": "12/14/26 Speed Dating Sherwood (Ages 45-55)",
+    "date": "2026-12-14",
+    "time": "See event",
+    "venue": "503 Uncorked",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Sports",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/121426-speed-dating-sherwood-ages-45-55-tickets-2004967062456",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Speed Dating for singles 45-55! Fun, laughter & meaningful connections in a warm, welcoming space. Hosted by Epiphany Match—save your spot!",
+    "endDate": "2026-12-14"
+  },
+  {
+    "id": "portland-christian-speed-dating-iykyk-dating-20s-30s-12-15-26-20261215",
+    "title": "✝️Portland Christian Speed Dating | IYKYK Dating | 20s-30s | 12/15/26",
+    "date": "2026-12-15",
+    "time": "See event",
+    "venue": "Steeplejack Brewing - Hillsboro",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-christian-speed-dating-iykyk-dating-20s-30s-121526-tickets-2004165663450",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Christian Speed Dating in Portland for singles 20s-30s. Meet faith-driven Christian singles who love Jesus.",
+    "endDate": "2026-12-15"
+  },
+  {
     "id": "special-event-tommy-armstrong-20261216",
     "title": "Special Event: Tommy Armstrong",
     "date": "2026-12-16",
@@ -3596,21 +4651,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/386775",
     "ticket_url": "",
@@ -3639,6 +4694,71 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "See the best local comics at Helium Comedy Club's Open Mic Night! On nights there is a show in the Main showroom, the Open Mic will be held in the Neon Room. Think you have what it takes to make people laugh? Open Mic Night is open for signup to new talent as "
+  },
+  {
+    "id": "little-shop-of-horrors-20261216",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-16",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-wednesday-december-16-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Wed, December 16, 2026 at 7:30 PM."
+  },
+  {
+    "id": "smart-speed-dating-in-pearl-cityswoon-ages-28-40-20261216",
+    "title": "Smart Speed Dating in Pearl | CitySwoon | Ages 28-40",
+    "date": "2026-12-16",
+    "time": "See event",
+    "venue": "River Pig Portland",
+    "category": "Singles",
+    "categories": [
+      "Art",
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/smart-speed-dating-in-pearl-cityswoon-ages-28-40-tickets-2003650404296",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Smart Speed Dating returns to River Pig Saloon in Pearl!",
+    "endDate": "2026-12-16"
+  },
+  {
+    "id": "little-shop-of-horrors-20261217",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-17",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-thursday-december-17-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Thu, December 17, 2026 at 2:00 PM."
   },
   {
     "id": "special-event-jerry-garcia-20261217",
@@ -3674,16 +4794,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/372821",
@@ -3742,16 +4862,16 @@
     "venue": "WonderLove",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Social",
+      "Art",
       "Music",
-      "Art"
+      "Singles",
+      "Social"
     ],
     "adult": false,
     "tags": [
+      "Art",
       "Music",
       "Singles",
-      "Art",
       "Social"
     ],
     "event_url": "https://www.meetup.com/thursday-portland/events/317425901/",
@@ -3768,23 +4888,23 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/388225",
     "ticket_url": "",
@@ -3811,6 +4931,69 @@
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, December 18, 2026 at 6:30 PM."
+  },
+  {
+    "id": "little-shop-of-horrors-20261218",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-18",
+    "time": "7:30 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-friday-december-18-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Fri, December 18, 2026 at 7:30 PM."
+  },
+  {
+    "id": "speed-dating-beyond-small-talk-portland-speed-dating-tantra-speed-date-20261218",
+    "title": "Speed Dating Beyond Small Talk | Portland Speed Dating | Tantra Speed Date®",
+    "date": "2026-12-18",
+    "time": "See event",
+    "venue": "Full Bodied Yoga",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/speed-dating-beyond-small-talk-portland-speed-dating-tantra-speed-date-tickets-2004160710636",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "An experiment in chemistry and connection beyond small talk. More than speed dating. Meet open-minded singles in Portland.",
+    "endDate": "2026-12-18"
+  },
+  {
+    "id": "little-shop-of-horrors-20261219",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-19",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-saturday-december-19-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sat, December 19, 2026 at 2:00 PM."
   },
   {
     "id": "special-event-timmy-no-brakes-20261219",
@@ -3844,23 +5027,23 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/388226",
     "ticket_url": "",
@@ -3897,26 +5080,46 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395316",
     "ticket_url": "",
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "This Christmas, we’re stealing the show (and maybe a few presents) with a Grinch-themed Drag Brunch! Get ready for a sleigh-load of fierce queens, naughty holiday performances, and enough sass to make the Grinch’s heart grow three sizes! Whether your heart is "
+  },
+  {
+    "id": "little-shop-of-horrors-20261220",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-20",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-sunday-december-20-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Sun, December 20, 2026 at 2:00 PM."
   },
   {
     "id": "special-event-timmy-no-brakes-20261220",
@@ -3950,29 +5153,49 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/388228",
     "ticket_url": "",
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Comedian Eddie Pepitone , also known as 'The Bitter Buddha,' is a master of the dark art of comedy, and he has been hailed as a modern day cross between Jackie Gleason, Don Rickles, and Eckart Tolle. Eddie is a force of nature on stage, switching between socia"
+  },
+  {
+    "id": "spirituality-for-animal-advocates-vegans-monthly-interfaith-service-20261220",
+    "title": "Spirituality for Animal Advocates & Vegans | Monthly Interfaith Service",
+    "date": "2026-12-20",
+    "time": "4:00 PM",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "https://www.eventbrite.com/e/spirituality-for-animal-advocates-vegans-monthly-interfaith-service-tickets-142253850095",
+    "ticket_url": "https://www.eventbrite.com/e/spirituality-for-animal-advocates-vegans-monthly-interfaith-service-tickets-1090053231559",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Non-sectarian services with interfaith reflection, music, meditation, and a conversation with guest speaker. Open to all faiths & species!"
   },
   {
     "id": "helium-comedy-academy-stand-up-workshop-20261220",
@@ -3982,17 +5205,17 @@
     "venue": "Helium Comedy Club",
     "category": "Sports",
     "categories": [
-      "Sports",
       "Comedy",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
       "Comedy",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/396482",
     "ticket_url": "",
@@ -4052,18 +5275,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/380443",
@@ -4071,6 +5294,76 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Heather Pasternak is a Los Angeles-based comedian, writer, and producer known for her sharp, relatable humor—especially when it comes to the chaos and charm of modern motherhood. You've seen her on The Tonight Show Starring Jimmy Fallon, The Late Show with Ste"
+  },
+  {
+    "id": "12-21-26-speed-dating-sherwood-ages-55-65-20261221",
+    "title": "12/21/26 Speed Dating Sherwood (Ages 55-65)",
+    "date": "2026-12-21",
+    "time": "See event",
+    "venue": "503 Uncorked",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Sports",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/122126-speed-dating-sherwood-ages-55-65-tickets-2004967157741",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Speed Dating for singles 55-65! Fun, laughter & meaningful connections in a warm, welcoming space. Hosted by Epiphany Match—save your spot!",
+    "endDate": "2026-12-21"
+  },
+  {
+    "id": "conversational-lube-new-venue-ur-fav-live-comedy-dating-show-20261221",
+    "title": "Conversational Lube - *NEW VENUE!!!* ur fav LIVE comedy dating show!!",
+    "date": "2026-12-21",
+    "time": "See event",
+    "venue": "Shanghai Tunnel Bar",
+    "category": "Singles",
+    "categories": [
+      "Comedy",
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/conversational-lube-new-venue-ur-fav-live-comedy-dating-show-tickets-2004986470506",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "CONVERSATIONAL LUBE: The first LIVE comedy dating show!! All for YOUR pleasure....",
+    "endDate": "2026-12-21"
+  },
+  {
+    "id": "meet-for-coffee-at-larson-s-bakery-20261222",
+    "title": "Meet for Coffee at LARSON'S BAKERY",
+    "date": "2026-12-22",
+    "time": "5:30 PM",
+    "venue": "Portland",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://www.meetup.com/social-singles-50-meetup/events/317095488/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": ""
   },
   {
     "id": "open-mic-night-20261223",
@@ -4142,16 +5435,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395321",
@@ -4185,6 +5478,26 @@
     "description": "With a home base at the legendary Hollywood Improv and a coveted spot as a Paid Regular at The Comedy Store, Kelly has cemented her status as one of the best acts in the industry. This past year, Kelly featured for Anthony Jeselnik all over the globe, from Eur"
   },
   {
+    "id": "can-can-s-twas-the-night-before-nutcracker-20261227",
+    "title": "Can Can's Twas The Night Before Nutcracker",
+    "date": "2026-12-27",
+    "time": "6:30 PM",
+    "venue": "Paris Theatre - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "https://portlandevents.org/shows/can-cans-twas-the-night-before-nutcracker/",
+    "ticket_url": "https://portlandevents.org/tickets/can-cans-twas-the-night-before-nutcracker-portland-sunday-december-27-2026-630-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Sun, December 27, 2026 at 6:30 PM."
+  },
+  {
     "id": "the-neon-room-at-helium-kelly-ryan-20261228",
     "title": "The Neon Room at Helium: Kelly Ryan",
     "date": "2026-12-28",
@@ -4216,16 +5529,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395784",
@@ -4266,19 +5579,19 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/388242",
     "ticket_url": "",
@@ -4309,6 +5622,33 @@
     "description": "See the best local comics at Helium Comedy Club's Open Mic Night! On nights there is a show in the Main showroom, the Open Mic will be held in the Neon Room. Think you have what it takes to make people laugh? Open Mic Night is open for signup to new talent as "
   },
   {
+    "id": "nye-sapphic-singles-mixer-20261231",
+    "title": "NYE Sapphic Singles Mixer",
+    "date": "2026-12-31",
+    "time": "See event",
+    "venue": "Escape Bar & Grill, Northeast Sandy Boulevard, Portland, OR, USA",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Music",
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Social",
+      "Singles",
+      "Sports"
+    ],
+    "event_url": "https://www.eventbrite.com/e/nye-sapphic-singles-mixer-registration-2003683567488",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Games, Music, Karaoke, Community and Vibes.",
+    "endDate": "2027-01-01"
+  },
+  {
     "id": "the-neon-room-at-helium-logan-guntzelman-20270101",
     "title": "The Neon Room at Helium: Logan Guntzelman",
     "date": "2027-01-01",
@@ -4316,17 +5656,17 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors"
     ],
@@ -4394,17 +5734,17 @@
     "venue": "Helium Comedy Club",
     "category": "Sports",
     "categories": [
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/383434",
     "ticket_url": "",
@@ -4446,19 +5786,19 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389947",
     "ticket_url": "",
@@ -4474,21 +5814,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/393453",
     "ticket_url": "",
@@ -4530,19 +5870,19 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389951",
     "ticket_url": "",
@@ -4558,21 +5898,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/393454",
     "ticket_url": "",
@@ -4614,19 +5954,19 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389948",
     "ticket_url": "",
@@ -4643,19 +5983,19 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
+      "Sports",
       "Weird"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
+      "Sports",
       "Weird"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/390076",
@@ -4698,16 +6038,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/383004",
@@ -4724,17 +6064,17 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/393610",
     "ticket_url": "",
@@ -4750,18 +6090,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/390670",
@@ -4778,16 +6118,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/383006",
@@ -4804,17 +6144,17 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/393613",
     "ticket_url": "",
@@ -4830,18 +6170,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/390671",
@@ -4858,16 +6198,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/383008",
@@ -4884,17 +6224,17 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/393612",
     "ticket_url": "",
@@ -4910,25 +6250,52 @@
     "venue": "Helium Comedy Club",
     "category": "Singles",
     "categories": [
-      "Singles",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Singles"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Singles"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395337",
     "ticket_url": "",
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Kevin James Thornton is a rising TikTok star with over 700k followers and 100-million video views. Kevin has built a loyal following posting hilarious, heartfelt, and occasionally cringey moments of self reflection that are relatable to audiences young and old"
+  },
+  {
+    "id": "club-privata-playboy-tribute-single-ladies-couples-only-20270123",
+    "title": "Club Privata: Playboy Tribute - Single Ladies & Couples Only",
+    "date": "2027-01-23",
+    "time": "See event",
+    "venue": "Club Privata",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Nightlife",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/club-privata-playboy-tribute-single-ladies-couples-only-tickets-2003695709806",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Come party at the Pacific Northwest's premier lifestyle nightclub!",
+    "endDate": "2027-01-24"
   },
   {
     "id": "special-event-heroes-off-duty-presents-scrubs-badges-live-20270124",
@@ -4938,19 +6305,19 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/390718",
     "ticket_url": "",
@@ -4966,19 +6333,19 @@
     "venue": "Helium Comedy Club",
     "category": "Sports",
     "categories": [
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/382848",
     "ticket_url": "",
@@ -4994,19 +6361,19 @@
     "venue": "Helium Comedy Club",
     "category": "Sports",
     "categories": [
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395178",
     "ticket_url": "",
@@ -5046,16 +6413,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392971",
@@ -5072,16 +6439,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392974",
@@ -5098,16 +6465,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392973",
@@ -5177,20 +6544,20 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392976",
     "ticket_url": "",
@@ -5227,20 +6594,20 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/347521",
     "ticket_url": "",
@@ -5257,20 +6624,20 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392977",
     "ticket_url": "",
@@ -5287,20 +6654,20 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/347524",
     "ticket_url": "",
@@ -5317,20 +6684,20 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392979",
     "ticket_url": "",
@@ -5370,18 +6737,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/393622",
@@ -5398,18 +6765,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394292",
@@ -5426,21 +6793,23 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394293",
     "ticket_url": "",
@@ -5456,21 +6825,23 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394294",
     "ticket_url": "",
@@ -5486,21 +6857,23 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394296",
     "ticket_url": "",
@@ -5540,23 +6913,23 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395226",
     "ticket_url": "",
@@ -5572,19 +6945,21 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Food + Drink",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Food + Drink",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395231",
     "ticket_url": "",
@@ -5600,23 +6975,23 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395229",
     "ticket_url": "",
@@ -5632,19 +7007,21 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Food + Drink",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Food + Drink",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395234",
     "ticket_url": "",
@@ -5660,23 +7037,23 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395228",
     "ticket_url": "",
@@ -5692,19 +7069,21 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Food + Drink",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Food + Drink",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395233",
     "ticket_url": "",
@@ -5720,25 +7099,25 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/391251",
     "ticket_url": "",
@@ -5754,16 +7133,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394297",
@@ -5780,25 +7161,25 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/391252",
     "ticket_url": "",
@@ -5814,16 +7195,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394300",
@@ -5840,25 +7223,25 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/391254",
     "ticket_url": "",
@@ -5874,16 +7257,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394298",
@@ -5900,16 +7285,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/380228",
@@ -5926,19 +7311,19 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392812",
     "ticket_url": "",
@@ -5955,11 +7340,13 @@
     "category": "Comedy",
     "categories": [
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/371080",
@@ -5976,20 +7363,22 @@
     "venue": "Helium Comedy Club",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Social",
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife",
+      "Singles",
+      "Social",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Singles",
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife",
+      "Singles",
+      "Social",
       "Weird"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/388884",
@@ -6033,11 +7422,13 @@
     "category": "Comedy",
     "categories": [
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/371082",
@@ -6081,11 +7472,13 @@
     "category": "Comedy",
     "categories": [
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/371085",
@@ -6129,11 +7522,13 @@
     "category": "Comedy",
     "categories": [
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/371084",
@@ -6174,19 +7569,19 @@
     "venue": "Helium Comedy Club",
     "category": "Singles",
     "categories": [
-      "Singles",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Singles"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Singles"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/372030",
     "ticket_url": "",
@@ -6202,16 +7597,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389391",
@@ -6228,19 +7623,19 @@
     "venue": "Helium Comedy Club",
     "category": "Singles",
     "categories": [
-      "Singles",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Singles"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Singles"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/372031",
     "ticket_url": "",
@@ -6256,16 +7651,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389389",
@@ -6282,19 +7677,19 @@
     "venue": "Helium Comedy Club",
     "category": "Singles",
     "categories": [
-      "Singles",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Singles"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Singles"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/372033",
     "ticket_url": "",
@@ -6310,16 +7705,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389393",
@@ -6336,21 +7731,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395068",
     "ticket_url": "",
@@ -6368,12 +7763,14 @@
     "categories": [
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394603",
@@ -6390,21 +7787,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394861",
     "ticket_url": "",
@@ -6420,14 +7817,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
+      "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/387621",
@@ -6472,12 +7871,14 @@
     "categories": [
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/386359",
@@ -6522,12 +7923,14 @@
     "categories": [
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/386360",
@@ -6572,12 +7975,14 @@
     "categories": [
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
       "Art",
       "Comedy",
+      "Food + Drink",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/386362",
@@ -6594,23 +7999,57 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395400",
     "ticket_url": "",
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Dr. Kojo Sarfo, DNP, PMHNP-BC is a comedian, actor, content creator, and writer based in Los Angeles, CA with over 5 million followers and 150 million monthly views on social media. He has five years of professional experience as a psychotherapist and doctoral"
+  },
+  {
+    "id": "special-event-jimbo-s-joan-can-we-laugh-tour-a-parody-20270401",
+    "title": "Special Event: JIMBO's JOAN! Can We Laugh?! TOUR (A Parody)",
+    "date": "2027-04-01",
+    "time": "2:30 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Singles",
+      "Art",
+      "Sports",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Singles",
+      "Art",
+      "Sports",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife",
+      "Weird"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/396783",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "JIMBO is a multi-disciplinary performance artist and designer, most known for his drag persona JIMBO the Drag Clown! JIMBO has been featured on three seasons of Rupaul's Drag Race and is the head of his successful design house, House of JIMBO, a clothing brand"
   },
   {
     "id": "special-event-jimbo-the-drag-clown-20270401",
@@ -6641,6 +8080,40 @@
       "Weird"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/396783",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "JIMBO is a multi-disciplinary performance artist and designer, most known for his drag persona JIMBO the Drag Clown! JIMBO has been featured on three seasons of Rupaul's Drag Race and is the head of his successful design house, House of JIMBO, a clothing brand"
+  },
+  {
+    "id": "special-event-jimbo-s-joan-can-we-laugh-tour-a-parody-20270402",
+    "title": "Special Event: JIMBO's JOAN! Can We Laugh?! TOUR (A Parody)",
+    "date": "2027-04-02",
+    "time": "2:30 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Singles",
+      "Art",
+      "Sports",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Singles",
+      "Art",
+      "Sports",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife",
+      "Weird"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/396784",
     "ticket_url": "",
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
@@ -6688,21 +8161,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Social",
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394427",
     "ticket_url": "",
@@ -6718,21 +8191,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Social",
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394428",
     "ticket_url": "",
@@ -6748,21 +8221,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Social",
-      "Music",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394430",
     "ticket_url": "",
@@ -6778,19 +8251,19 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Weird"
     ],
@@ -6808,16 +8281,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395389",
@@ -6834,17 +8307,17 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors"
     ],
@@ -6862,17 +8335,17 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
       "Outdoors"
     ],
@@ -6890,16 +8363,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389252",
@@ -6916,16 +8389,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389253",
@@ -6942,16 +8415,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/389255",
@@ -6968,21 +8441,21 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/395393",
     "ticket_url": "",
@@ -6998,19 +8471,19 @@
     "venue": "Helium Comedy Club",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394426",
     "ticket_url": "",
@@ -7026,16 +8499,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392137",
@@ -7052,16 +8525,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392138",
@@ -7078,16 +8551,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392140",
@@ -7105,16 +8578,16 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/393841",
     "ticket_url": "",
@@ -7130,16 +8603,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394303",
@@ -7156,16 +8629,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394304",
@@ -7182,16 +8655,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/394306",
@@ -7235,18 +8708,18 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/378355",
     "ticket_url": "",
@@ -7263,18 +8736,18 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/378356",
     "ticket_url": "",
@@ -7291,18 +8764,18 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/378358",
     "ticket_url": "",
@@ -7319,18 +8792,18 @@
     "category": "Art",
     "categories": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Nightlife",
+      "Sports"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/378357",
     "ticket_url": "",
@@ -7346,19 +8819,19 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Comedy",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/390129",
     "ticket_url": "",
@@ -7374,16 +8847,16 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/396329",
@@ -7400,18 +8873,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392126",
@@ -7428,18 +8901,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392129",
@@ -7456,18 +8929,18 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/392128",
@@ -7475,5 +8948,30 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Named by The New York Times as a \"genuine phenomenon,\" Nurse Blake is bringing an all-new stand-up comedy show to comedy clubs across the country in 2027. Fresh off multiple sold-out international tours and more than 200,000 tickets sold, Nurse Blake's newest "
+  },
+  {
+    "id": "portland-coordinating-council-single-adult-new-year-s-dance-20271231",
+    "title": "Portland Coordinating Council Single Adult New Year's Dance",
+    "date": "2027-12-31",
+    "time": "See event",
+    "venue": "The Church of Jesus Christ of Latter-day Saints",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-coordinating-council-single-adult-new-years-dance-tickets-1599189752599",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Single Adult New Year's Dance",
+    "endDate": "2028-01-01"
   }
 ]

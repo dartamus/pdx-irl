@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T21:10:43.206375+00:00",
-  "eventCount": 301,
-  "rawFound": 284,
-  "duplicatesWithinFresh": 1,
+  "updatedAt": "2026-11-21T20:08:48.936710+00:00",
+  "eventCount": 365,
+  "rawFound": 344,
+  "duplicatesWithinFresh": 10,
   "sources": [
     {
       "source": "Travel Portland",
@@ -24,7 +24,7 @@
     },
     {
       "source": "Portland Events",
-      "found": 45,
+      "found": 64,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -116,15 +116,21 @@
     },
     {
       "source": "Eventbrite Portland Singles",
-      "found": 0,
-      "ok": false,
-      "error": "405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/or--portland/singles-events/"
+      "found": 21,
+      "ok": true,
+      "candidatePages": 18,
+      "pagesChecked": 18,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Eventbrite Portland Speed Dating",
-      "found": 0,
-      "ok": false,
-      "error": "405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/or--portland/speed-dating/"
+      "found": 22,
+      "ok": true,
+      "candidatePages": 18,
+      "pagesChecked": 18,
+      "rejectedNoDirectLink": 0,
+      "errors": []
     },
     {
       "source": "Meetup Portland Singles",
@@ -146,12 +152,15 @@
     },
     {
       "source": "Helium Comedy Portland",
-      "found": 171,
+      "found": 169,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
       "rejectedNoDirectLink": 0,
-      "errors": []
+      "errors": [
+        "HTTPSConnectionPool(host='portland.heliumcomedy.com', port=443): Read timed out. (read timeout=12)",
+        "HTTPSConnectionPool(host='portland.heliumcomedy.com', port=443): Read timed out. (read timeout=12)"
+      ]
     },
     {
       "source": "Portland Art Museum",

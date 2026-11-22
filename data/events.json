@@ -1,344 +1,5 @@
 [
   {
-    "id": "space-92-20261120",
-    "title": "Space 92",
-    "date": "2026-11-20",
-    "time": "10:00 PM",
-    "venue": "45 East",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/space-92-portland-45-east-friday-november-20-2026-10-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Space 92 at 45 East in Portland, OR on Fri, November 20, 2026 at 10:00 PM."
-  },
-  {
-    "id": "washington-park-doubles-20261120",
-    "title": "Washington Park Doubles",
-    "date": "2026-11-20",
-    "time": "11:30 PM",
-    "venue": "Portland",
-    "category": "Outdoors",
-    "categories": [
-      "Outdoors"
-    ],
-    "adult": false,
-    "tags": [
-      "Outdoors"
-    ],
-    "event_url": "https://www.meetup.com/tennispartnerspdx/events/317414261/",
-    "ticket_url": "",
-    "source": "Meetup Portland Singles",
-    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
-    "description": ""
-  },
-  {
-    "id": "momco-pdx-meetup-20261120",
-    "title": "MomCo PDX â Meetup",
-    "date": "2026-11-20",
-    "time": "5:30 PM",
-    "venue": "Grace City Portland",
-    "category": "Social",
-    "categories": [
-      "Social",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Social",
-      "Sports"
-    ],
-    "event_url": "https://www.funpdx.com/e/momco-pdx-meetup-grace-city-portland-2026-11-20/",
-    "ticket_url": "https://pdxparent.com/event-single/momco-pdx-meetup-2/2026-11-20/",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "MomCo is a supportive community of moms seeking connection, growth, and a breath of fresh air. We meet regularly at Grace City Portland for a more structured and routine time together, with childcare provided through our trusted KidsCo team. A typical meetup m",
-    "endDate": "2026-11-20"
-  },
-  {
-    "id": "bar-social-20261120",
-    "title": "Bar Social",
-    "date": "2026-11-20",
-    "time": "6:00 PM",
-    "venue": "Portland",
-    "category": "Social",
-    "categories": [
-      "Social"
-    ],
-    "adult": false,
-    "tags": [
-      "Social"
-    ],
-    "event_url": "https://www.meetup.com/pdx-poly-community/events/316663457/",
-    "ticket_url": "",
-    "source": "Meetup Portland Singles",
-    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
-    "description": ""
-  },
-  {
-    "id": "can-can-s-twas-the-night-before-nutcracker-20261120",
-    "title": "Can Can's Twas The Night Before Nutcracker",
-    "date": "2026-11-20",
-    "time": "6:30 PM",
-    "venue": "Paris Theatre - Portland",
-    "category": "Art",
-    "categories": [
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Art"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/can-cans-twas-the-night-before-nutcracker-portland-friday-november-20-2026-630-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, November 20, 2026 at 6:30 PM."
-  },
-  {
-    "id": "conversational-lube-the-first-live-comedy-dating-show-20261120",
-    "title": "Conversational Lube - The First Live Comedy Dating Show",
-    "date": "2026-11-20",
-    "time": "7:00 PM",
-    "venue": "McMenamins Al's Den",
-    "category": "Singles",
-    "categories": [
-      "Singles",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Singles",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-november-20-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, November 20, 2026 at 7:00 PM."
-  },
-  {
-    "id": "k-trevor-wilson-20261120",
-    "title": "K. Trevor Wilson",
-    "date": "2026-11-20",
-    "time": "7:00 PM",
-    "venue": "Neon Room at Helium Comedy Club - Portland",
-    "category": "Comedy",
-    "categories": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Comedy",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/k-trevor-wilson-portland-helium-comedy-club-portland-friday-november-20-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Comedy show: K. Trevor Wilson at Neon Room at Helium Comedy Club - Portland in Portland, OR on Fri, November 20, 2026 at 7:00 PM."
-  },
-  {
-    "id": "kevonstage-20261120",
-    "title": "KevOnStage",
-    "date": "2026-11-20",
-    "time": "7:30 PM",
-    "venue": "Aladdin Theater",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Comedy"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/kevonstage-portland-friday-november-20-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Comedy show: KevOnStage at Aladdin Theater in Portland, OR on Fri, November 20, 2026 at 7:30 PM."
-  },
-  {
-    "id": "the-outsiders-20261120",
-    "title": "The Outsiders",
-    "date": "2026-11-20",
-    "time": "7:30 PM",
-    "venue": "Keller Auditorium",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-friday-november-20-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Fri, November 20, 2026 at 7:30 PM."
-  },
-  {
-    "id": "drag-the-river-20261120",
-    "title": "Drag The River",
-    "date": "2026-11-20",
-    "time": "8:00 PM",
-    "venue": "Twilight Cafe and Bar",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Nightlife"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/drag-the-river-portland-friday-november-20-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Drag The River at Twilight Cafe and Bar in Portland, OR on Fri, November 20, 2026 at 8:00 PM."
-  },
-  {
-    "id": "gary-numan-20261120",
-    "title": "Gary Numan",
-    "date": "2026-11-20",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/gary-numan-portland-friday-november-20-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Gary Numan at Revolution Hall - Portland in Portland, OR on Fri, November 20, 2026 at 8:00 PM."
-  },
-  {
-    "id": "haley-johnsen-20261120",
-    "title": "Haley Johnsen",
-    "date": "2026-11-20",
-    "time": "8:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/haley-johnsen-portland-mcmenamins-crystal-ballroom-friday-november-20-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Haley Johnsen at McMenamins Crystal Ballroom in Portland, OR on Fri, November 20, 2026 at 8:00 PM."
-  },
-  {
-    "id": "haley-johnsen-20261120",
-    "title": "Haley Johnsen",
-    "date": "2026-11-20",
-    "time": "8:00 PM",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Art"
-    ],
-    "event_url": "https://www.crystalballroompdx.com/events/278001-haley-johnsen/",
-    "ticket_url": "",
-    "source": "Crystal Ballroom",
-    "source_url": "https://www.crystalballroompdx.com/",
-    "description": "Haley Johnsen is a Portland-based Americana artist blending alt-pop edge with powerhouse vocals and emotionally charged songwriting. Often compared to Brandi Carlile and Bonnie Raitt, she delivers heart-forward storytelling wrapped…"
-  },
-  {
-    "id": "wilclone-20261120",
-    "title": "Wilclone",
-    "date": "2026-11-20",
-    "time": "8:00 PM",
-    "venue": "Showdown Saloon",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/wilclone-portland-showdown-saloon-friday-november-20-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "",
-    "description": "Concert: Wilclone at Showdown Saloon in Portland, OR on Fri, November 20, 2026 at 8:00 PM."
-  },
-  {
-    "id": "felicity-single-mingle-karaoke-20261120",
-    "title": "Felicity Single Mingle Karaoke!",
-    "date": "2026-11-20",
-    "time": "8:30 PM",
-    "venue": "Pyzanos Lounge & Grill",
-    "category": "Singles",
-    "categories": [
-      "Singles",
-      "Social",
-      "Music",
-      "Art"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Singles",
-      "Art",
-      "Social"
-    ],
-    "event_url": "https://www.meetup.com/felicity-dating-social-app-events/events/317386265/",
-    "ticket_url": "",
-    "source": "Meetup Portland Singles",
-    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
-    "description": "Felicity Single Mingle Karaoke Party - Aloha, OR FREE Event! Come sing, laugh, and meet other singles in person. Felicity is coming in hot at Pyzano’s for"
-  },
-  {
-    "id": "sallie-ford-and-the-sound-outside-20261120",
-    "title": "Sallie Ford And The Sound Outside",
-    "date": "2026-11-20",
-    "time": "9:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/sallie-ford-and-the-sound-outside-portland-mississippi-studios-friday-november-20-2026-9-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Sallie Ford And The Sound Outside at Mississippi Studios in Portland, OR on Fri, November 20, 2026 at 9:00 PM."
-  },
-  {
     "id": "comedy-night-hosted-by-brandon-lyons-20261121",
     "title": "Comedy Night Hosted by Brandon Lyons",
     "date": "2026-11-21",
@@ -1481,6 +1142,31 @@
     "endDate": "2026-11-22"
   },
   {
+    "id": "foodies-new-friends-portland-single-friends-edition-20261122",
+    "title": "Foodies + New Friends: Portland | Single Friends Edition",
+    "date": "2026-11-22",
+    "time": "See event",
+    "venue": "Restaurant of the Week",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Food + Drink",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/foodies-new-friends-portland-single-friends-edition-tickets-1986653167102",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Connect with other fun locals in the city, meet your next collaborator or friend, + give back! A different restaurant each gathering.",
+    "endDate": "2026-11-22"
+  },
+  {
     "id": "portland-delete-the-apps-meet-people-in-person-at-flock-20261122",
     "title": "PORTLAND | Delete the Apps - Meet People in Person | at FLOCK",
     "date": "2026-11-22",
@@ -1805,13 +1491,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/haley-heynderickx-portland-aladdin-theater-monday-november-23-2026-8-00-pm/",
@@ -2011,6 +1697,68 @@
     "venue": "Roseland Theater",
     "category": "Music",
     "categories": [
+      "Art",
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/alter-bridge-portland-tuesday-november-24-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Alter Bridge at Roseland Theater in Portland, OR on Tue, November 24, 2026 at 7:00 PM."
+  },
+  {
+    "id": "portland-state-vikings-women-s-basketball-vs-cal-st-fullerton-titans-20261124",
+    "title": "Portland State Vikings Women's Basketball vs. Cal St. Fullerton Titans",
+    "date": "2026-11-24",
+    "time": "7:00 PM",
+    "venue": "Portland State's Viking Pavilion",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-womens-basketball-vs-cal-st-fullerton-titans-portland-portland-states-viking-pavilion-tuesday-november-24-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Sports event: Portland State Vikings Women's Basketball vs. Cal St. Fullerton Titans at Portland State's Viking Pavilion in Portland, OR on Tue, November 24, 2026 at 7:00 PM."
+  },
+  {
+    "id": "two-step-tuesday-20261124",
+    "title": "Two-Step Tuesday",
+    "date": "2026-11-24",
+    "time": "7:30 PM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/two-step-tuesday-portland-showdown-saloon-tuesday-november-24-2026-7-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Two-Step Tuesday at Showdown Saloon in Portland, OR on Tue, November 24, 2026 at 7:30 PM."
+  },
+  {
+    "id": "boston-manor-20261124",
+    "title": "Boston Manor",
+    "date": "2026-11-24",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
       "Music",
       "Art"
     ],
@@ -2020,10 +1768,30 @@
       "Art"
     ],
     "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/alter-bridge-portland-tuesday-november-24-2026-700-pm/",
+    "ticket_url": "https://portlandevents.org/tickets/boston-manor-portland-tuesday-november-24-2026-800-pm/",
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Alter Bridge at Roseland Theater in Portland, OR on Tue, November 24, 2026 at 7:00 PM."
+    "description": "Concert: Boston Manor at Hawthorne Theatre in Portland, OR on Tue, November 24, 2026 at 8:00 PM."
+  },
+  {
+    "id": "spanish-love-songs-20261124",
+    "title": "Spanish Love Songs",
+    "date": "2026-11-24",
+    "time": "8:00 PM",
+    "venue": "Holocene",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/spanish-love-songs-portland-holocene-tuesday-november-24-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Spanish Love Songs at Holocene in Portland, OR on Tue, November 24, 2026 at 8:00 PM."
   },
   {
     "id": "last-call-trivia-20261125",
@@ -2110,6 +1878,52 @@
     "endDate": "2026-11-25"
   },
   {
+    "id": "small-group-trivia-bye-and-bye-20261125",
+    "title": "Small group trivia @ bye and bye",
+    "date": "2026-11-25",
+    "time": "6:45 PM",
+    "venue": "Bye and Bye",
+    "category": "Social",
+    "categories": [
+      "Social",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Food + Drink"
+    ],
+    "event_url": "https://www.meetup.com/pdx-single-30-and-40-somethings/events/317531758/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "Bye and Bye does Untapped Trivia every Wednesday. Craft cocktails and vegan food. We are focused on growing a community of fun trivia loving individuals. H"
+  },
+  {
+    "id": "nba-cup-portland-trail-blazers-vs-san-antonio-spurs-20261125",
+    "title": "NBA Cup: Portland Trail Blazers vs. San Antonio Spurs",
+    "date": "2026-11-25",
+    "time": "7:00 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/nba-cup-portland-trail-blazers-vs-san-antonio-spurs-portland-moda-center-at-the-rose-quarter-wednesday-november-25-2026-7-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Sports event: NBA Cup: Portland Trail Blazers vs. San Antonio Spurs at Moda Center at the Rose Quarter in Portland, OR on Wed, November 25, 2026 at 7:00 PM."
+  },
+  {
     "id": "baby-only-open-gym-at-my-gym-children-s-fitness-center-20261125",
     "title": "Baby Only Open Gym at My Gym Children's Fitness Center",
     "date": "2026-11-25",
@@ -2129,6 +1943,86 @@
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "Looking for a fun and engaging way to bond with your baby while encouraging their physical and cognitive development? Come play at our Baby Only Open Gym held every Wednesday 12:10-1:00pm. Babies and their caregivers can explore our super clean and fun gym spa",
     "endDate": "2026-11-25"
+  },
+  {
+    "id": "scott-bradlee-s-postmodern-jukebox-20261125",
+    "title": "Scott Bradlee's Postmodern Jukebox",
+    "date": "2026-11-25",
+    "time": "8:00 PM",
+    "venue": "Revolution Hall - Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/scott-bradlees-postmodern-jukebox-portland-wednesday-november-25-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Scott Bradlee's Postmodern Jukebox at Revolution Hall - Portland in Portland, OR on Wed, November 25, 2026 at 8:00 PM."
+  },
+  {
+    "id": "the-pynnacles-20261125",
+    "title": "The Pynnacles",
+    "date": "2026-11-25",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-pynnacles-portland-mississippi-studios-wednesday-november-25-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: The Pynnacles at Mississippi Studios in Portland, OR on Wed, November 25, 2026 at 8:00 PM."
+  },
+  {
+    "id": "brooklyn-del-and-the-revelators-20261125",
+    "title": "Brooklyn Del and the Revelators",
+    "date": "2026-11-25",
+    "time": "8:30 PM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/brooklyn-del-and-the-revelators-portland-showdown-saloon-wednesday-november-25-2026-8-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Brooklyn Del and the Revelators at Showdown Saloon in Portland, OR on Wed, November 25, 2026 at 8:30 PM."
+  },
+  {
+    "id": "dennett-20261125",
+    "title": "Dennett",
+    "date": "2026-11-25",
+    "time": "9:00 PM",
+    "venue": "Realm - OR",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dennett-portland-realm-or-wednesday-november-25-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Dennett at Realm - OR in Portland, OR on Wed, November 25, 2026 at 9:00 PM."
   },
   {
     "id": "thanksgiving-eve-date-night-in-eliot-cityswoon-ages-29-49-20261125",
@@ -2179,6 +2073,28 @@
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "Free! Weekly OPEN MIC for all ages and all formats. Youth musicians are encouraged to attend! Musicians, vocalists, comedians, poetry, spoken word, full bands, storytellers, and more! Join us for the B-Side Records & Vintage Open Mic at 6:30pm on Wednesdays ev",
     "endDate": "2026-11-26"
+  },
+  {
+    "id": "small-group-trivia-bye-and-bye-20261126",
+    "title": "Small group trivia @ bye and bye",
+    "date": "2026-11-26",
+    "time": "2:45 AM",
+    "venue": "Bye and Bye",
+    "category": "Social",
+    "categories": [
+      "Social",
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Food + Drink"
+    ],
+    "event_url": "https://www.meetup.com/pdx-single-30-and-40-somethings/events/317531758/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "Bye and Bye does Untapped Trivia every Wednesday. Craft cocktails and vegan food. We are focused on growing a community of fun trivia loving individuals. Hope to see ya there! We're going to focus on three tables of between 6-8 people at each. We have tables r"
   },
   {
     "id": "untapped-trivia-at-bye-and-bye-20261126",
@@ -2251,14 +2167,14 @@
     "venue": "Paddy's",
     "category": "Singles",
     "categories": [
+      "Art",
       "Singles",
-      "Social",
-      "Art"
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
+      "Singles",
       "Social"
     ],
     "event_url": "https://www.eventbrite.com/e/singles-night-at-paddys-bar-and-grill-tickets-2003986388233",
@@ -2267,6 +2183,28 @@
     "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
     "description": "Ready to meet someone new? Join us at Paddy’s Pub & Grill for a fun, relaxed evening designed for singles ages 40–55!",
     "endDate": "2026-11-26"
+  },
+  {
+    "id": "dj-raphi-20261127",
+    "title": "DJ Raphi",
+    "date": "2026-11-27",
+    "time": "12:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/dj-raphi-portland-hawthorne-theatre-friday-november-27-2026-12-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: DJ Raphi at Hawthorne Theatre in Portland, OR on Fri, November 27, 2026 at 12:00 PM."
   },
   {
     "id": "tigard-bike-happy-hour-20261127",
@@ -2335,6 +2273,30 @@
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, November 27, 2026 at 6:30 PM."
+  },
+  {
+    "id": "nba-cup-portland-trail-blazers-vs-golden-state-warriors-20261127",
+    "title": "NBA Cup: Portland Trail Blazers vs. Golden State Warriors",
+    "date": "2026-11-27",
+    "time": "6:30 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/nba-cup-portland-trail-blazers-vs-golden-state-warriors-portland-moda-center-at-the-rose-quarter-friday-november-27-2026-6-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Sports event: NBA Cup: Portland Trail Blazers vs. Golden State Warriors at Moda Center at the Rose Quarter in Portland, OR on Fri, November 27, 2026 at 6:30 PM."
   },
   {
     "id": "impact-nw-community-playgroup-20261127",
@@ -2443,6 +2405,29 @@
     "ticket_url": "",
     "source": "Eventbrite Portland Speed Dating",
     "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Meet someone special and have fun connecting with new people!",
+    "endDate": "2026-11-27"
+  },
+  {
+    "id": "portland-speed-dating-43-55-age-group-20261127",
+    "title": "Portland Speed Dating (43-55 age group)",
+    "date": "2026-11-27",
+    "time": "See event",
+    "venue": "Portland Online Events",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-speed-dating-43-55-age-group-tickets-1977474928744",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
     "description": "Meet someone special and have fun connecting with new people!",
     "endDate": "2026-11-27"
   },
@@ -2749,17 +2734,17 @@
     "venue": "The People's Courts, Northeast 82nd Avenue, Portland, OR, USA",
     "category": "Singles",
     "categories": [
+      "Food + Drink",
       "Singles",
       "Social",
-      "Sports",
-      "Food + Drink"
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Singles",
-      "Sports",
       "Food + Drink",
-      "Social"
+      "Singles",
+      "Social",
+      "Sports"
     ],
     "event_url": "https://www.eventbrite.com/e/30s-40s-singles-night-at-the-peoples-courts-tickets-2004265209194",
     "ticket_url": "",
@@ -2796,6 +2781,75 @@
     "endDate": "2026-11-29"
   },
   {
+    "id": "portland-new-friends-single-professionals-mixer-33-42-group-20261128",
+    "title": "Portland New Friends - Single Professionals Mixer (33-42 group)",
+    "date": "2026-11-28",
+    "time": "See event",
+    "venue": "Portland Online Events",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-new-friends-single-professionals-mixer-33-42-group-tickets-1977477474358",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Join for a social singles mixer and make new friends!",
+    "endDate": "2026-11-28"
+  },
+  {
+    "id": "portland-new-single-friends-social-mixer-24-32-group-20261128",
+    "title": "Portland New Single Friends - Social Mixer (24-32 group)",
+    "date": "2026-11-28",
+    "time": "See event",
+    "venue": "Portland Online Events",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-new-single-friends-social-mixer-24-32-group-tickets-1977476829429",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Join for a social singles mixer and make new friends!",
+    "endDate": "2026-11-28"
+  },
+  {
+    "id": "portland-singles-make-new-friends-56-group-20261128",
+    "title": "Portland Singles - Make New Friends (56+ group)",
+    "date": "2026-11-28",
+    "time": "See event",
+    "venue": "Portland Online Events",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social"
+    ],
+    "event_url": "https://www.eventbrite.com/e/portland-singles-make-new-friends-56-group-tickets-1977477655901",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Join for a social singles mixer and make new friends!",
+    "endDate": "2026-11-28"
+  },
+  {
     "id": "portland-speed-dating-ages-45-55-the-lovely-society-20261128",
     "title": "Portland Speed Dating | Ages 45–55 | The Lovely Society",
     "date": "2026-11-28",
@@ -2803,14 +2857,14 @@
     "venue": "L'Atelier Yaffe",
     "category": "Singles",
     "categories": [
+      "Art",
       "Singles",
-      "Social",
-      "Art"
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
+      "Singles",
       "Social"
     ],
     "event_url": "https://www.eventbrite.com/e/portland-speed-dating-ages-4555-the-lovely-society-tickets-2004456726026",
@@ -2819,6 +2873,60 @@
     "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
     "description": "Less scrolling, more chemistry. Meet Portland singles ages 45–55. Required guest profile on our website after booking.",
     "endDate": "2026-11-28"
+  },
+  {
+    "id": "portland-singles-night-online-speed-dating-20261129",
+    "title": "Portland Singles Night (Online Speed Dating)",
+    "date": "2026-11-29",
+    "time": "10:00 PM",
+    "venue": "4101 NW Skyline Blvd",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Food + Drink",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Food + Drink",
+      "Weird",
+      "Social"
+    ],
+    "event_url": "https://www.meetup.com/bench-tuners-and-dirt-lot-rollers/events/317531460/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "Picture it: you're on your sofa, drink in hand, camera on. A friendly host says hello, and a minute later you're chatting with someone new from Portland. Nobody's performing, nobody's ghosting. Just short, honest chats with singles who signed up for exactly th"
+  },
+  {
+    "id": "real-conversations-portland-speed-dating-20261129",
+    "title": "Real Conversations: Portland Speed Dating",
+    "date": "2026-11-29",
+    "time": "10:00 PM",
+    "venue": "G77M+JM Portland",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art",
+      "Sports",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Sports",
+      "Outdoors",
+      "Social"
+    ],
+    "event_url": "https://www.meetup.com/gentle-hips-belly-dance-circle/events/317498929/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "**Why Portland singles are trying this instead of the apps** - Apps: Endless swiping. Here: A few real conversations. - Apps: Days of texting before you hear a voice. Here: Face to face from the first second. - Apps: Doing it all on your own. Here: A host who "
   },
   {
     "id": "join-us-for-game-night-potluck-20261129",
@@ -2976,13 +3084,13 @@
     "venue": "Clinton Street Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "https://www.funpdx.com/e/the-rocky-horror-picture-show-with-thom-hilton-clinton-street-theater-2026-11-28/",
     "ticket_url": "https://cstpdx.com/event/the-rocky-horror-picture-show-with-thom-hilton-22/",
@@ -2990,6 +3098,76 @@
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "@ Come watch our intimate, scaled-back screening of the ultimate cult movie that has played weekly at the Clinton Street Theater since 1978. If youâve ever wanted to attend, but didnât know if youâd enjoy your first time, our special host for this evenin",
     "endDate": "2026-11-29"
+  },
+  {
+    "id": "smash-disco-glam-metal-punk-hiphop-20261129",
+    "title": "SMASH disco~glam~metal~punk-hiphop",
+    "date": "2026-11-29",
+    "time": "7:30 AM",
+    "venue": "Dante's",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://www.funpdx.com/e/smash-disco-glam-metal-punk-hiphop-dantes-2026-11-28/",
+    "ticket_url": "https://www.ticketweb.com/event/smash-discoglammetalpunk-hiphop-dantes-tickets/14052894",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": ""
+  },
+  {
+    "id": "sunday-funday-drag-brunch-at-darcelle-xv-20261129",
+    "title": "Sunday Funday Drag Brunch at Darcelle XV",
+    "date": "2026-11-29",
+    "time": "8:30 PM",
+    "venue": "Darcelle XV & Co.",
+    "category": "Sports",
+    "categories": [
+      "Sports",
+      "Nightlife",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports",
+      "Nightlife",
+      "Outdoors"
+    ],
+    "event_url": "https://www.funpdx.com/e/sunday-funday-drag-brunch-at-darcelle-xv-2026-11-29/",
+    "ticket_url": "",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "Weekly drag brunch at Darcelle XV & Co., Portland's legendary drag showplace downtown â big performances, bigger laughs. Doors 11:30am, show 12:30pm. 21+.",
+    "endDate": "2026-11-29"
+  },
+  {
+    "id": "melange-a-queer-and-p-o-c-variety-show-20261130",
+    "title": "Melange: A Queer and P.O.C. Variety Show",
+    "date": "2026-11-30",
+    "time": "2:00 AM",
+    "venue": "Clinton Street Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Nightlife"
+    ],
+    "event_url": "https://www.funpdx.com/e/melange-a-queer-and-p-o-c-variety-show-clinton-street-theater-2026-11-29/",
+    "ticket_url": "https://cstpdx.com/event/melange-a-queer-and-p-o-c-variety-show-13/",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "@ 21+ DRAG! BURLESQUE! MUSIC! CIRCUS! RAFFLES! AND SO MUCH MORE! Prepare to be amazed by our vibrant cast, friendly crowd, and interactive production! Whether you're a seasoned fan or new to the scene, Melange is perfect for anyone looking for a night of pure ",
+    "endDate": "2026-11-30"
   },
   {
     "id": "special-event-rhys-darby-20261130",
@@ -3511,14 +3689,14 @@
     "venue": "Restaurant of the Week",
     "category": "Singles",
     "categories": [
+      "Food + Drink",
       "Singles",
-      "Social",
-      "Food + Drink"
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Food + Drink",
+      "Singles",
       "Social"
     ],
     "event_url": "https://www.eventbrite.com/e/single-awareness-dinner-portland-single-ladies-edition-tickets-1990541548355",
@@ -3928,6 +4106,51 @@
     "source": "Meetup Portland Singles",
     "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
     "description": "This event is for singles ages 35-45. To create the best possible matches and experience for everyone attending, registrations are limited to this age rang"
+  },
+  {
+    "id": "cannons-20261207",
+    "title": "Cannons",
+    "date": "2026-12-07",
+    "time": "8:00 PM",
+    "venue": "Portland",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "https://www.crystalballroompdx.com/events/279127-cannons/",
+    "ticket_url": "",
+    "source": "Crystal Ballroom",
+    "source_url": "https://www.crystalballroompdx.com/",
+    "description": "Los Angeles-based trio Cannons, comprises Michelle Joy (vocals), Ryan Clapham (lead guitar), and Paul Davis (drums, keys), have established themselves as one of electro-pop’s most compelling modern acts. Through their…"
+  },
+  {
+    "id": "12-7-26-speed-dating-sherwood-ages-35-45-20261207",
+    "title": "12/7/26 Speed Dating Sherwood (Ages 35-45)",
+    "date": "2026-12-07",
+    "time": "See event",
+    "venue": "503 Uncorked",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Social",
+      "Sports"
+    ],
+    "event_url": "https://www.eventbrite.com/e/12726-speed-dating-sherwood-ages-35-45-tickets-2004966911003",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Singles",
+    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
+    "description": "Speed Dating for singles 35-45! Fun, laughter & meaningful connections in a warm, welcoming space. Hosted by Epiphany Match—save your spot!",
+    "endDate": "2026-12-07"
   },
   {
     "id": "12-7-singles-speed-dating-sherwood-ages-35-45-20261208",
@@ -4452,15 +4675,15 @@
     "venue": "The Verdict Bar And Grill",
     "category": "Singles",
     "categories": [
+      "Art",
       "Singles",
-      "Social",
-      "Art"
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
+      "Art",
       "Singles",
-      "Art"
+      "Social"
     ],
     "event_url": "https://www.eventbrite.com/e/singles-over-40-christmas-mixer-and-toy-drive-tickets-2003042212177",
     "ticket_url": "",
@@ -4853,6 +5076,26 @@
     "source": "Meetup Portland Singles",
     "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
     "description": "***This is not a free event. [Grab your tickets HERE!](https://www.thecupidsociety.com/events)*** SINGLES ONLY!! We're turning up the holiday season volu"
+  },
+  {
+    "id": "discover-podcasts-free-shows-stories-for-every-interest-20261218",
+    "title": "Discover Podcasts: Free Shows & Stories for Every Interest",
+    "date": "2026-12-18",
+    "time": "10:00 AM",
+    "venue": "Portland",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://www.eventbrite.com/e/discover-podcasts-free-shows-stories-for-every-interest-tickets-2005036478080",
+    "ticket_url": "https://www.eventbrite.com/e/discover-podcasts-free-shows-stories-for-every-interest-tickets-2005036478080",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Find free podcasts on any topic you love and listen on your phone, tablet, or computer, with a few easy taps."
   },
   {
     "id": "a-not-so-silent-night-21-20261218",
@@ -5346,6 +5589,26 @@
     "endDate": "2026-12-21"
   },
   {
+    "id": "little-shop-of-horrors-20261222",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-22",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-tuesday-december-22-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Tue, December 22, 2026 at 2:00 PM."
+  },
+  {
     "id": "meet-for-coffee-at-larson-s-bakery-20261222",
     "title": "Meet for Coffee at LARSON'S BAKERY",
     "date": "2026-12-22",
@@ -5622,6 +5885,26 @@
     "description": "See the best local comics at Helium Comedy Club's Open Mic Night! On nights there is a show in the Main showroom, the Open Mic will be held in the Neon Room. Think you have what it takes to make people laugh? Open Mic Night is open for signup to new talent as "
   },
   {
+    "id": "can-can-s-twas-the-night-before-nutcracker-20261231",
+    "title": "Can Can's Twas The Night Before Nutcracker",
+    "date": "2026-12-31",
+    "time": "5:00 PM",
+    "venue": "Paris Theatre - Portland",
+    "category": "Art",
+    "categories": [
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Art"
+    ],
+    "event_url": "https://portlandevents.org/shows/can-cans-twas-the-night-before-nutcracker/",
+    "ticket_url": "https://portlandevents.org/tickets/can-cans-twas-the-night-before-nutcracker-portland-thursday-december-31-2026-500-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Thu, December 31, 2026 at 5:00 PM."
+  },
+  {
     "id": "nye-sapphic-singles-mixer-20261231",
     "title": "NYE Sapphic Singles Mixer",
     "date": "2026-12-31",
@@ -5629,16 +5912,16 @@
     "venue": "Escape Bar & Grill, Northeast Sandy Boulevard, Portland, OR, USA",
     "category": "Singles",
     "categories": [
+      "Music",
       "Singles",
       "Social",
-      "Music",
       "Sports"
     ],
     "adult": false,
     "tags": [
       "Music",
-      "Social",
       "Singles",
+      "Social",
       "Sports"
     ],
     "event_url": "https://www.eventbrite.com/e/nye-sapphic-singles-mixer-registration-2003683567488",
@@ -6031,6 +6314,27 @@
     "description": "Jeff Scheen is a Brooklyn-based stand-up originally from the Midwest whose lovably weird brand of comedy has taken him from the Comedy Cellar to late-night television. He's appeared on The Late Late Show with James Corden, released a Dry Bar Comedy special, On"
   },
   {
+    "id": "skip-the-small-talk-night-at-migration-brewing-williams-20270114",
+    "title": "Skip the Small Talk Night at Migration Brewing - Williams",
+    "date": "2027-01-14",
+    "time": "See event",
+    "venue": "Migration Brewing x Pápa's Frita - Williams",
+    "category": "Outdoors",
+    "categories": [
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Outdoors"
+    ],
+    "event_url": "https://www.eventbrite.com/e/skip-the-small-talk-night-at-migration-brewing-williams-tickets-2005105142457",
+    "ticket_url": "",
+    "source": "Eventbrite Portland Speed Dating",
+    "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
+    "description": "Meaningful conversations with strangers that don't leave you drained. We use question prompts to spark unique convos.",
+    "endDate": "2027-01-14"
+  },
+  {
     "id": "helium-presents-liam-cullagh-20270116",
     "title": "Helium Presents: Liam Cullagh",
     "date": "2027-01-16",
@@ -6278,16 +6582,16 @@
     "venue": "Club Privata",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Social",
       "Art",
-      "Nightlife"
+      "Nightlife",
+      "Singles",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
       "Nightlife",
+      "Singles",
       "Social"
     ],
     "event_url": "https://www.eventbrite.com/e/club-privata-playboy-tribute-single-ladies-couples-only-tickets-2003695709806",
@@ -8025,24 +8329,24 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Singles",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
+      "Singles",
+      "Sports",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Singles",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
+      "Singles",
+      "Sports",
       "Weird"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/396783",
@@ -8093,24 +8397,24 @@
     "venue": "Helium Comedy Club",
     "category": "Music",
     "categories": [
-      "Music",
-      "Singles",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
+      "Singles",
+      "Sports",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Singles",
       "Art",
-      "Sports",
       "Comedy",
       "Food + Drink",
+      "Music",
       "Nightlife",
+      "Singles",
+      "Sports",
       "Weird"
     ],
     "event_url": "https://portland.heliumcomedy.com/shows/396784",

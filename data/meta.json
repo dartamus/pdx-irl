@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T20:08:48.936710+00:00",
-  "eventCount": 365,
-  "rawFound": 344,
-  "duplicatesWithinFresh": 10,
+  "updatedAt": "2026-11-22T20:23:36.041357+00:00",
+  "eventCount": 378,
+  "rawFound": 339,
+  "duplicatesWithinFresh": 13,
   "sources": [
     {
       "source": "Travel Portland",
@@ -24,7 +24,7 @@
     },
     {
       "source": "Portland Events",
-      "found": 64,
+      "found": 65,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -116,7 +116,7 @@
     },
     {
       "source": "Eventbrite Portland Singles",
-      "found": 21,
+      "found": 20,
       "ok": true,
       "candidatePages": 18,
       "pagesChecked": 18,
@@ -134,7 +134,7 @@
     },
     {
       "source": "Meetup Portland Singles",
-      "found": 27,
+      "found": 25,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -152,15 +152,12 @@
     },
     {
       "source": "Helium Comedy Portland",
-      "found": 169,
+      "found": 166,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
       "rejectedNoDirectLink": 0,
-      "errors": [
-        "HTTPSConnectionPool(host='portland.heliumcomedy.com', port=443): Read timed out. (read timeout=12)",
-        "HTTPSConnectionPool(host='portland.heliumcomedy.com', port=443): Read timed out. (read timeout=12)"
-      ]
+      "errors": []
     },
     {
       "source": "Portland Art Museum",
@@ -172,8 +169,8 @@
       "source": "Portland5 Events",
       "found": 0,
       "ok": true,
-      "candidatePages": 6,
-      "pagesChecked": 6,
+      "candidatePages": 7,
+      "pagesChecked": 7,
       "rejectedNoDirectLink": 0,
       "errors": []
     }

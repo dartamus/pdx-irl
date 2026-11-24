@@ -714,13 +714,13 @@
     "venue": "Roseland Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/saosin-portland-roseland-theater-wednesday-november-25-2026-7-00-pm/",
@@ -990,6 +990,46 @@
     "endDate": "2026-11-26"
   },
   {
+    "id": "comedy-night-hosted-by-brandon-lyons-20261127",
+    "title": "Comedy Night Hosted by Brandon Lyons",
+    "date": "2026-11-27",
+    "time": "10:00 PM",
+    "venue": "McMenamins Al's Den",
+    "category": "Comedy",
+    "categories": [
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/comedy-night-hosted-by-brandon-lyons-portland-friday-november-27-2026-1000-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Comedy show: Comedy Night Hosted by Brandon Lyons at McMenamins Al's Den in Portland, OR on Fri, November 27, 2026 at 10:00 PM."
+  },
+  {
+    "id": "roger-sanchez-20261127",
+    "title": "Roger Sanchez",
+    "date": "2026-11-27",
+    "time": "10:00 PM",
+    "venue": "45 East",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/roger-sanchez-portland-45-east-friday-november-27-2026-10-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Roger Sanchez at 45 East in Portland, OR on Fri, November 27, 2026 at 10:00 PM."
+  },
+  {
     "id": "dj-raphi-20261127",
     "title": "DJ Raphi",
     "date": "2026-11-27",
@@ -1111,13 +1151,13 @@
     "venue": "Hawthorne Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/bodysnatcher-portland-hawthorne-theatre-friday-november-27-2026-7-00-pm/",
@@ -1133,14 +1173,14 @@
     "venue": "McMenamins Al's Den",
     "category": "Singles",
     "categories": [
+      "Comedy",
       "Singles",
-      "Social",
-      "Comedy"
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Comedy",
+      "Singles",
       "Social"
     ],
     "event_url": "",
@@ -1266,14 +1306,14 @@
     "venue": "McMenamins Crystal Ballroom",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "event_url": "",
@@ -1310,13 +1350,13 @@
     "venue": "Aladdin Theater",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/storm-large-portland-aladdin-theater-friday-november-27-2026-8-00-pm/",
@@ -1492,6 +1532,26 @@
     "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
     "description": "Join us for a DREAMY event for magical speed friending and find a bestie or crew!",
     "endDate": "2026-11-27"
+  },
+  {
+    "id": "portland-state-vikings-women-s-basketball-vs-uc-santa-barbara-gauchos-20261128",
+    "title": "Portland State Vikings Women's Basketball vs. UC Santa Barbara Gauchos",
+    "date": "2026-11-28",
+    "time": "12:00 PM",
+    "venue": "Portland State's Viking Pavilion",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-state-vikings-womens-basketball-vs-uc-santa-barbara-gauchos-portland-portland-states-viking-pavilion-saturday-november-28-2026-12-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Sports event: Portland State Vikings Women's Basketball vs. UC Santa Barbara Gauchos at Portland State's Viking Pavilion in Portland, OR on Sat, November 28, 2026 at 12:00 PM."
   },
   {
     "id": "inaugural-holiday-bazaar-brewfest-20261128",
@@ -2327,14 +2387,14 @@
     "category": "Music",
     "categories": [
       "Music",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Music",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/sunday-night-open-mic-at-laurelthirst-laurelthirst-public-house-2026-11-29/",
     "ticket_url": "",
@@ -2373,14 +2433,14 @@
     "venue": "Suki's Bar",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://www.funpdx.com/e/drag-aoke-at-sukis-bar-2026-11-29/",
@@ -2398,19 +2458,19 @@
     "venue": "Devils Point",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/stripparaoke-at-devils-point-2026-11-29/",
     "ticket_url": "",
@@ -2427,19 +2487,19 @@
     "venue": "Dante's",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
-      "Sports",
+      "Music",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/sinferno-cabaret-dantes-2026-11-29/",
     "ticket_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230934",
@@ -2701,13 +2761,13 @@
     "venue": "Showdown Saloon",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "https://www.funpdx.com/e/two-step-tuesday-with-countryside-ride-and-dance-showdown-saloon-2026-12-01/",
     "ticket_url": "https://www.ticketweb.com/event/two-step-tuesday-with-countryside-showdown-saloon-tickets/14425864",
@@ -2802,6 +2862,49 @@
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "Free trivia every Wednesday at the Bye and Bye, the longtime Alberta Street vegan bar. Voted one of Portland's best trivia nights.",
     "endDate": "2026-12-03"
+  },
+  {
+    "id": "untapped-trivia-at-von-ebert-mississippi-20261203",
+    "title": "Untapped Trivia at Von Ebert Mississippi",
+    "date": "2026-12-03",
+    "time": "3:00 AM",
+    "venue": "Von Ebert Brewing â Mississippi",
+    "category": "Social",
+    "categories": [
+      "Social"
+    ],
+    "adult": false,
+    "tags": [
+      "Social"
+    ],
+    "event_url": "https://www.funpdx.com/e/untapped-trivia-at-von-ebert-mississippi-von-ebert-brewing-mississippi-2026-12-02/",
+    "ticket_url": "",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "Free weekly trivia at Von Ebert Brewing's N. Mississippi Ave. taproom.",
+    "endDate": "2026-12-03"
+  },
+  {
+    "id": "madam-cooper-s-country-cabaret-20261203",
+    "title": "Madam Cooper's Country Cabaret",
+    "date": "2026-12-03",
+    "time": "4:00 AM",
+    "venue": "Showdown Saloon",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Nightlife"
+    ],
+    "event_url": "https://www.funpdx.com/e/madam-coopers-country-cabaret-showdown-saloon-2026-12-02/",
+    "ticket_url": "https://www.ticketweb.com/event/madam-coopers-country-cabaret-showdown-saloon-tickets/14330094",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": ""
   },
   {
     "id": "food-truck-social-20261203",
@@ -2926,6 +3029,34 @@
     "source": "Meetup Portland Singles",
     "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
     "description": ""
+  },
+  {
+    "id": "thursday-night-ride-20261204",
+    "title": "Thursday Night Ride",
+    "date": "2026-12-04",
+    "time": "3:00 AM",
+    "venue": "Salmon Street Springs",
+    "category": "Social",
+    "categories": [
+      "Social",
+      "Art",
+      "Sports",
+      "Outdoors",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Art",
+      "Sports",
+      "Outdoors",
+      "Weird"
+    ],
+    "event_url": "https://www.funpdx.com/e/thursday-night-ride-salmon-street-springs-2026-12-03/",
+    "ticket_url": "https://shift2bikes.org/calendar/event-25074",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "Thursday Night Ride is Portlandâs longest-running weekly social ride, rolling out from Salmon Street Springs every Thursday night since 2015! Routes and ride leaders change weekly, but expect an energetic, party-paced social ride with warmth and weirdness fr"
   },
   {
     "id": "special-event-ashley-gavin-20261204",
@@ -3069,6 +3200,29 @@
     "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
     "description": "For women who wish to connect with other happily single ladies over dinner!",
     "endDate": "2026-12-04"
+  },
+  {
+    "id": "free-trivia-fridays-at-wonderwood-springs-20261205",
+    "title": "Free Trivia Fridays at Wonderwood Springs",
+    "date": "2026-12-05",
+    "time": "2:00 AM",
+    "venue": "Wonderwood Springs",
+    "category": "Social",
+    "categories": [
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Art"
+    ],
+    "event_url": "https://www.funpdx.com/e/free-trivia-fridays-at-wonderwood-springs-2026-12-04/",
+    "ticket_url": "",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "Old-school pen-and-paper trivia every Friday at Wonderwood Springs, the fantasy-themed cartoon tavern in St. Johns. Four rounds, prizes for the top 3 teams, always free.",
+    "endDate": "2026-12-05"
   },
   {
     "id": "little-shop-of-horrors-20261205",
@@ -3611,6 +3765,26 @@
     "description": "**How to Create Meaningful Connections for Dating and** **All Relationships** \\- Do you feel unsure of how to talk to strangers? \\- Do you wish it was eas"
   },
   {
+    "id": "yaelokre-20261208",
+    "title": "YAELOKRE",
+    "date": "2026-12-08",
+    "time": "6:30 PM",
+    "venue": "Portland",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://www.crystalballroompdx.com/events/277448-yaelokre/",
+    "ticket_url": "",
+    "source": "Crystal Ballroom",
+    "source_url": "https://www.crystalballroompdx.com/",
+    "description": "Authoring fence-hopping billies and rabbits affright, the hopes of honouring Wonderment; a magic lost to us who have grown, and a promise made to the child we once were. “Meadowlark”…"
+  },
+  {
     "id": "how-to-create-meaningful-connections-online-and-in-person-20261209",
     "title": "How to Create Meaningful Connections Online and In Person",
     "date": "2026-12-09",
@@ -3814,6 +3988,32 @@
     "source_url": "https://www.eventbrite.com/d/or--portland/speed-dating/",
     "description": "Meaningful conversations with strangers that don't leave you drained. We use question prompts to spark unique convos.",
     "endDate": "2026-12-10"
+  },
+  {
+    "id": "karaoke-and-connections-delta-cafe-20261211",
+    "title": "Karaoke and Connections! 🥳 - Delta Cafe",
+    "date": "2026-12-11",
+    "time": "3:00 AM",
+    "venue": "Delta Cafe",
+    "category": "Music",
+    "categories": [
+      "Social",
+      "Music",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Social",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "event_url": "https://www.meetup.com/pdx-social-club/events/317186922/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "Sometimes the best connections happen over good food, music, and great company! Join PDX Social Club at Delta Café for a laid-back night of karaoke, delicious food, and meeting new people. Whether you come to sing or simply enjoy the atmosphere, this is an opp"
   },
   {
     "id": "special-event-dave-attell-20261211",
@@ -5289,6 +5489,30 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Thu, December 31, 2026 at 5:00 PM."
   },
   {
+    "id": "singles-nye-party-21-20261231",
+    "title": "Singles NYE Party (21+)",
+    "date": "2026-12-31",
+    "time": "8:00 PM",
+    "venue": "Portland",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Social"
+    ],
+    "event_url": "https://www.meetup.com/thursday-portland/events/317547492/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "Details Coming Soon..."
+  },
+  {
     "id": "nye-sapphic-singles-mixer-20261231",
     "title": "NYE Sapphic Singles Mixer",
     "date": "2026-12-31",
@@ -5366,6 +5590,30 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Known For: \"The Greg Fitzsimmons Show\" Greg Fitzsimmons is a comic that doesn't need a fancy gimmick or schtick to rouse a crowd. He simply opens his mouth, the perfectly crafted jokes fly out, and the crowd is in stitches. A mix of incisive wit with scathing "
+  },
+  {
+    "id": "singles-nye-party-21-20270101",
+    "title": "Singles NYE Party (21+)",
+    "date": "2027-01-01",
+    "time": "4:00 AM",
+    "venue": "Portland",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Art",
+      "Social"
+    ],
+    "event_url": "https://www.meetup.com/thursday-portland/events/317547492/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "Details Coming Soon..."
   },
   {
     "id": "special-event-francisco-ramos-20270107",
@@ -8662,6 +8910,78 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Named by The New York Times as a \"genuine phenomenon,\" Nurse Blake is bringing an all-new stand-up comedy show to comedy clubs across the country in 2027. Fresh off multiple sold-out international tours and more than 200,000 tickets sold, Nurse Blake's newest "
+  },
+  {
+    "id": "the-neon-room-aidan-mccluskey-20270918",
+    "title": "The Neon Room: Aidan McCluskey",
+    "date": "2027-09-18",
+    "time": "2:30 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/397102",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "At 19, Aidan McCluskey left his associate's degree to pursue comedy. Four months after his first open mic, he won Acme's Funniest Person Contest, becoming the youngest winner in contest history. After a stint in a Las Vegas based pyramid scheme, he returned to"
+  },
+  {
+    "id": "the-neon-room-aidan-mccluskey-20270919",
+    "title": "The Neon Room: Aidan McCluskey",
+    "date": "2027-09-19",
+    "time": "2:30 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/397104",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "At 19, Aidan McCluskey left his associate's degree to pursue comedy. Four months after his first open mic, he won Acme's Funniest Person Contest, becoming the youngest winner in contest history. After a stint in a Las Vegas based pyramid scheme, he returned to"
+  },
+  {
+    "id": "the-neon-room-aidan-mccluskey-20270920",
+    "title": "The Neon Room: Aidan McCluskey",
+    "date": "2027-09-20",
+    "time": "2:30 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/397106",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "At 19, Aidan McCluskey left his associate's degree to pursue comedy. Four months after his first open mic, he won Acme's Funniest Person Contest, becoming the youngest winner in contest history. After a stint in a Las Vegas based pyramid scheme, he returned to"
   },
   {
     "id": "portland-coordinating-council-single-adult-new-year-s-dance-20271231",

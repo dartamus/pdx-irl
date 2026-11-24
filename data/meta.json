@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-24T00:56:56.774667+00:00",
-  "eventCount": 352,
-  "rawFound": 280,
+  "updatedAt": "2026-11-24T23:02:59.951197+00:00",
+  "eventCount": 366,
+  "rawFound": 283,
   "duplicatesWithinFresh": 1,
   "sources": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "source": "Portland Events",
-      "found": 46,
+      "found": 45,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -37,7 +37,7 @@
       "ok": true,
       "candidatePages": 3,
       "pagesChecked": 3,
-      "rejectedNoDirectLink": 1,
+      "rejectedNoDirectLink": 4,
       "errors": [
         "404 Client Error: Not Found for url: https://www.portland5.com/arlene-schnitzer-concert-hall/events/moth-mains"
       ]
@@ -128,7 +128,7 @@
     },
     {
       "source": "Meetup Portland Singles",
-      "found": 27,
+      "found": 28,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -146,7 +146,7 @@
     },
     {
       "source": "Helium Comedy Portland",
-      "found": 165,
+      "found": 168,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -163,8 +163,8 @@
       "source": "Portland5 Events",
       "found": 0,
       "ok": true,
-      "candidatePages": 7,
-      "pagesChecked": 7,
+      "candidatePages": 13,
+      "pagesChecked": 13,
       "rejectedNoDirectLink": 0,
       "errors": []
     }

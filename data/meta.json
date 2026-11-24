@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-22T20:23:36.041357+00:00",
-  "eventCount": 378,
-  "rawFound": 339,
-  "duplicatesWithinFresh": 13,
+  "updatedAt": "2026-11-24T00:56:56.774667+00:00",
+  "eventCount": 352,
+  "rawFound": 280,
+  "duplicatesWithinFresh": 1,
   "sources": [
     {
       "source": "Travel Portland",
@@ -24,7 +24,7 @@
     },
     {
       "source": "Portland Events",
-      "found": 65,
+      "found": 46,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -116,25 +116,19 @@
     },
     {
       "source": "Eventbrite Portland Singles",
-      "found": 20,
-      "ok": true,
-      "candidatePages": 18,
-      "pagesChecked": 18,
-      "rejectedNoDirectLink": 0,
-      "errors": []
+      "found": 0,
+      "ok": false,
+      "error": "405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/or--portland/singles-events/"
     },
     {
       "source": "Eventbrite Portland Speed Dating",
-      "found": 22,
-      "ok": true,
-      "candidatePages": 18,
-      "pagesChecked": 18,
-      "rejectedNoDirectLink": 0,
-      "errors": []
+      "found": 0,
+      "ok": false,
+      "error": "405 Client Error: Not Allowed for url: https://www.eventbrite.com/d/or--portland/speed-dating/"
     },
     {
       "source": "Meetup Portland Singles",
-      "found": 25,
+      "found": 27,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -143,7 +137,7 @@
     },
     {
       "source": "FunPDX Meet People",
-      "found": 32,
+      "found": 33,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -152,7 +146,7 @@
     },
     {
       "source": "Helium Comedy Portland",
-      "found": 166,
+      "found": 165,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,

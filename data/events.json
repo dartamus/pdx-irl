@@ -1,354 +1,5 @@
 [
   {
-    "id": "special-event-jaime-french-20261123",
-    "title": "Special Event: Jaime French",
-    "date": "2026-11-23",
-    "time": "12:00 AM",
-    "venue": "Helium Comedy Club",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Comedy",
-      "Food + Drink",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy",
-      "Food + Drink",
-      "Nightlife"
-    ],
-    "event_url": "https://portland.heliumcomedy.com/shows/385518",
-    "ticket_url": "",
-    "source": "Helium Comedy Portland",
-    "source_url": "https://portland.heliumcomedy.com/",
-    "description": "Jaime French , the dynamic American comedian & YouTuber has left an indelible mark on the digital landscape with her unique blend of humor and creativity. Born in St. Louis, Missouri, in 1989, French’s passion for video creation ignited at a young age when she"
-  },
-  {
-    "id": "single-to-soulmate-90-minute-free-masterclass-for-women-20261123",
-    "title": "'Single To Soulmate!' - 90 Minute Free Masterclass for Women",
-    "date": "2026-11-23",
-    "time": "1:00 AM",
-    "venue": "Portland",
-    "category": "Singles",
-    "categories": [
-      "Singles",
-      "Social",
-      "Art",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Singles",
-      "Art",
-      "Sports",
-      "Social"
-    ],
-    "event_url": "https://www.meetup.com/conscious-women-manifesting-abundance-portland/events/317309602/",
-    "ticket_url": "",
-    "source": "Meetup Portland Singles",
-    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
-    "description": "You know it's time to do something different to bring in your 'person'..? ⁣ You watch others find their partners and wonder when it is going to be your turn. ⁣ I've met and spoken to thousands of singles who are over being single, but unsure how to change thin"
-  },
-  {
-    "id": "special-event-sheryl-underwood-i-need-a-job-tour-20261123",
-    "title": "Special Event: Sheryl Underwood: I Need A Job Tour",
-    "date": "2026-11-23",
-    "time": "3:00 AM",
-    "venue": "Helium Comedy Club",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Comedy",
-      "Food + Drink",
-      "Music",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Comedy",
-      "Food + Drink",
-      "Music",
-      "Nightlife"
-    ],
-    "event_url": "https://portland.heliumcomedy.com/shows/394746",
-    "ticket_url": "",
-    "source": "Helium Comedy Portland",
-    "source_url": "https://portland.heliumcomedy.com/",
-    "description": "Sheryl Underwood, a savvy businesswoman and multi-faceted, multi-media entrepreneur, skillfully balances the roles of in-demand Entertainer, Owner and Chief Executive Officer of Pack Rat Productions, movie and television actress, radio personality and philanth"
-  },
-  {
-    "id": "sunday-night-open-mic-at-laurelthirst-20261123",
-    "title": "Sunday Night Open Mic at LaurelThirst",
-    "date": "2026-11-23",
-    "time": "4:00 AM",
-    "venue": "LaurelThirst Public House",
-    "category": "Music",
-    "categories": [
-      "Music",
-      "Outdoors",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Music",
-      "Outdoors",
-      "Sports"
-    ],
-    "event_url": "https://www.funpdx.com/e/sunday-night-open-mic-at-laurelthirst-laurelthirst-public-house-2026-11-22/",
-    "ticket_url": "",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "A Portland songwriter institution: sign up at 8pm, music runs 9 to 11:30pm at this NE Glisan roadhouse. Famously supportive room for first-timers and regulars alike. Free.",
-    "endDate": "2026-11-23"
-  },
-  {
-    "id": "drag-aoke-at-suki-s-bar-20261123",
-    "title": "Drag-aoke at Suki's Bar",
-    "date": "2026-11-23",
-    "time": "5:00 AM",
-    "venue": "Suki's Bar",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music",
-      "Nightlife"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music",
-      "Nightlife"
-    ],
-    "event_url": "https://www.funpdx.com/e/drag-aoke-at-sukis-bar-2026-11-22/",
-    "ticket_url": "",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "Suki's beloved karaoke night gets a drag twist every Sunday at the Hawthorne location â sing your heart out alongside the house queens. 21+.",
-    "endDate": "2026-11-23"
-  },
-  {
-    "id": "stripparaoke-at-devils-point-20261123",
-    "title": "Stripparaoke at Devils Point",
-    "date": "2026-11-23",
-    "time": "5:00 AM",
-    "venue": "Devils Point",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music",
-      "Nightlife",
-      "Outdoors",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music",
-      "Nightlife",
-      "Outdoors",
-      "Sports"
-    ],
-    "event_url": "https://www.funpdx.com/e/stripparaoke-at-devils-point-2026-11-22/",
-    "ticket_url": "",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "The only-in-Portland original: karaoke shared with the stage's dancers, running since 2005 at this Foster-Powell punk dive/strip club. $5 cover. 21+.",
-    "endDate": "2026-11-23"
-  },
-  {
-    "id": "sinferno-cabaret-20261123",
-    "title": "Sinferno Cabaret",
-    "date": "2026-11-23",
-    "time": "6:00 AM",
-    "venue": "Dante's",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music",
-      "Nightlife",
-      "Outdoors",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music",
-      "Nightlife",
-      "Outdoors",
-      "Sports"
-    ],
-    "event_url": "https://www.funpdx.com/e/sinferno-cabaret-dantes-2026-11-22/",
-    "ticket_url": "https://www.ticketweb.com/event/sinferno-cabaret-dantes-tickets/14230834",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "Voted by BURLESQUE MAGAZINE as one of the Top 10 Burlesque shows in the USA! A sinful circus of burlesque, fire-dancing, DJs & debauchery. Every Sunday night for 20 years...the longest-running weekly cabaret show on the west coast! SEATING IS LIMITED and is fi"
-  },
-  {
-    "id": "cribbage-lucky-lab-hawthorne-20261123",
-    "title": "Cribbage @ Lucky Lab Hawthorne!",
-    "date": "2026-11-23",
-    "time": "6:00 PM",
-    "venue": "Portland",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "https://www.meetup.com/40plus-singles-portland-vancouver/events/316397037/",
-    "ticket_url": "",
-    "source": "Meetup Portland Singles",
-    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
-    "description": ""
-  },
-  {
-    "id": "senses-fail-koyo-initiate-20261123",
-    "title": "Senses Fail, Koyo & Initiate",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "venue": "McMenamins Crystal Ballroom",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/senses-fail-koyo-and-initiate-portland-monday-november-23-2026-700-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Senses Fail, Koyo & Initiate at McMenamins Crystal Ballroom in Portland, OR on Mon, November 23, 2026 at 7:00 PM."
-  },
-  {
-    "id": "square-dancing-caller-tighe-hauze-miss-praline-s-whip-lodge-tenderstro-20261123",
-    "title": "Square Dancing: Caller Tighe Hauze & Miss Praline's Whip Lodge Tenderstrokes",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "venue": "Showdown Saloon",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/square-dancing-caller-tighe-hauze-and-miss-pralines-whip-lodge-tenderstrokes-portland-showdown-saloon-monday-november-23-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Live event: Square Dancing: Caller Tighe Hauze & Miss Praline's Whip Lodge Tenderstrokes at Showdown Saloon in Portland, OR on Mon, November 23, 2026 at 7:00 PM."
-  },
-  {
-    "id": "the-outsiders-20261123",
-    "title": "The Outsiders",
-    "date": "2026-11-23",
-    "time": "7:30 PM",
-    "venue": "Keller Auditorium",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-outsiders-portland-monday-november-23-2026-730-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Show: The Outsiders at Keller Auditorium in Portland, OR on Mon, November 23, 2026 at 7:30 PM."
-  },
-  {
-    "id": "haley-heynderickx-20261123",
-    "title": "Haley Heynderickx",
-    "date": "2026-11-23",
-    "time": "8:00 PM",
-    "venue": "Aladdin Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/haley-heynderickx-portland-aladdin-theater-monday-november-23-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Haley Heynderickx at Aladdin Theater in Portland, OR on Mon, November 23, 2026 at 8:00 PM."
-  },
-  {
-    "id": "local-love-letter-20261123",
-    "title": "Local Love Letter",
-    "date": "2026-11-23",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/local-love-letter-portland-mississippi-studios-monday-november-23-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Local Love Letter at Mississippi Studios in Portland, OR on Mon, November 23, 2026 at 8:00 PM."
-  },
-  {
-    "id": "senses-fail-20261123",
-    "title": "Senses Fail",
-    "date": "2026-11-23",
-    "time": "8:00 PM",
-    "venue": "Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "https://www.crystalballroompdx.com/events/277292-senses-fail/",
-    "ticket_url": "",
-    "source": "Crystal Ballroom",
-    "source_url": "https://www.crystalballroompdx.com/",
-    "description": "Senses Fail have been called any number of things across their near 25 years as a band – emo, screamo, post-hardcore, metalcore, pop punk. It’s testament to the band’s perpetual…"
-  },
-  {
-    "id": "karaoke-from-hell-20261123",
-    "title": "Karaoke From Hell",
-    "date": "2026-11-23",
-    "time": "9:00 PM",
-    "venue": "Dante's Caffe Italiano",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/karaoke-from-hell-portland-monday-november-23-2026-900-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Karaoke From Hell at Dante's Caffe Italiano in Portland, OR on Mon, November 23, 2026 at 9:00 PM."
-  },
-  {
     "id": "beaverton-bike-happy-hour-20261124",
     "title": "Beaverton Bike Happy Hour",
     "date": "2026-11-24",
@@ -1554,6 +1205,26 @@
     "description": "Sports event: Portland State Vikings Women's Basketball vs. UC Santa Barbara Gauchos at Portland State's Viking Pavilion in Portland, OR on Sat, November 28, 2026 at 12:00 PM."
   },
   {
+    "id": "1st-annual-holiday-bazaar-brewfest-20261128",
+    "title": "1st Annual Holiday Bazaar Brewfest",
+    "date": "2026-11-28",
+    "time": "1:00 PM",
+    "venue": "McMenamins Crystal Ballroom",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/1st-annual-holiday-bazaar-brewfest-portland-mcmenamins-crystal-ballroom-saturday-november-28-2026-1-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Live event: 1st Annual Holiday Bazaar Brewfest at McMenamins Crystal Ballroom in Portland, OR on Sat, November 28, 2026 at 1:00 PM."
+  },
+  {
     "id": "inaugural-holiday-bazaar-brewfest-20261128",
     "title": "Inaugural Holiday Bazaar Brewfest",
     "date": "2026-11-28",
@@ -1669,6 +1340,28 @@
     "description": "Rhys Darby is an actor, writer, podcaster and stand-up comedian from New Zealand. Darby first captured US audiences as Murray, the loveable, but ultimately inept manager in HBO’s Flight of the Conchords. He has gone on to star in a plethora of TV and film role"
   },
   {
+    "id": "christmas-in-mexico-20261128",
+    "title": "Christmas in Mexico",
+    "date": "2026-11-28",
+    "time": "3:00 PM",
+    "venue": "Patricia Reser Center for the Arts",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/christmas-in-mexico-beaverton-patricia-reser-center-for-the-arts-saturday-november-28-2026-3-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Christmas in Mexico at Patricia Reser Center for the Arts in Beaverton, OR on Sat, November 28, 2026 at 3:00 PM."
+  },
+  {
     "id": "the-neon-room-at-helium-lizabanks-campagna-20261128",
     "title": "The Neon Room at Helium: LizaBanks Campagna",
     "date": "2026-11-28",
@@ -1695,6 +1388,28 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "LizaBanks Campagna is building an entirely new lane in the creator economy, one where comedy, culture, and civic curiosity collide. In 2025, she emerged as one of the most original voices reshaping how audiences engage with cities, institutions, and public lif"
+  },
+  {
+    "id": "trans-siberian-orchestra-20261128",
+    "title": "Trans-Siberian Orchestra",
+    "date": "2026-11-28",
+    "time": "3:30 PM",
+    "venue": "Moda Center at the Rose Quarter",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/trans-siberian-orchestra-portland-moda-center-at-the-rose-quarter-saturday-november-28-2026-3-30-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Trans-Siberian Orchestra at Moda Center at the Rose Quarter in Portland, OR on Sat, November 28, 2026 at 3:30 PM."
   },
   {
     "id": "naked-karaoke-20261128",
@@ -1790,6 +1505,26 @@
     "description": "Join us for the monthly potluck/game night meeting at Tabor Heights Methodist Church. We will meet at 6 o’clock, eat and play games until about 9 o’clock."
   },
   {
+    "id": "portland-winterhawks-vs-everett-silvertips-20261128",
+    "title": "Portland Winterhawks vs. Everett Silvertips",
+    "date": "2026-11-28",
+    "time": "6:00 PM",
+    "venue": "Portland Veterans Memorial Coliseum",
+    "category": "Sports",
+    "categories": [
+      "Sports"
+    ],
+    "adult": false,
+    "tags": [
+      "Sports"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/portland-winterhawks-vs-everett-silvertips-portland-saturday-november-28-2026-600-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Sports event: Portland Winterhawks vs. Everett Silvertips at Portland Veterans Memorial Coliseum in Portland, OR on Sat, November 28, 2026 at 6:00 PM."
+  },
+  {
     "id": "can-can-s-twas-the-night-before-nutcracker-20261128",
     "title": "Can Can's Twas The Night Before Nutcracker",
     "date": "2026-11-28",
@@ -1808,6 +1543,28 @@
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Sat, November 28, 2026 at 6:30 PM."
+  },
+  {
+    "id": "lizabanks-campagna-20261128",
+    "title": "LizaBanks Campagna",
+    "date": "2026-11-28",
+    "time": "6:30 PM",
+    "venue": "Neon Room at Helium Comedy Club - Portland",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/lizabanks-campagna-portland-saturday-november-28-2026-630-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Comedy show: LizaBanks Campagna at Neon Room at Helium Comedy Club - Portland in Portland, OR on Sat, November 28, 2026 at 6:30 PM."
   },
   {
     "id": "hotwax-disco-glam-metal-punk-hiphop-20261128",
@@ -2530,6 +2287,26 @@
     "description": "Life can feel lonely, especially when youâre on the grind. Take the opportunity to meet others over dinner! Country music fans edition."
   },
   {
+    "id": "foodies-new-friends-beaverton-giving-back-edition-20261130",
+    "title": "Foodies + New Friends: Beaverton | Giving Back Edition",
+    "date": "2026-11-30",
+    "time": "7:00 PM",
+    "venue": "Flora",
+    "category": "Food + Drink",
+    "categories": [
+      "Food + Drink"
+    ],
+    "adult": false,
+    "tags": [
+      "Food + Drink"
+    ],
+    "event_url": "https://www.funpdx.com/e/foodies-new-friends-beaverton-giving-back-edition-flora-2026-11-30/",
+    "ticket_url": "",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "Life can get lonely, especially when youâre always working. Make new friends, support a local business, and give back!"
+  },
+  {
     "id": "karaoke-from-hell-20261201",
     "title": "Karaoke from Hell",
     "date": "2026-12-01",
@@ -3038,18 +2815,18 @@
     "venue": "Salmon Street Springs",
     "category": "Social",
     "categories": [
-      "Social",
       "Art",
-      "Sports",
       "Outdoors",
+      "Social",
+      "Sports",
       "Weird"
     ],
     "adult": false,
     "tags": [
-      "Social",
       "Art",
-      "Sports",
       "Outdoors",
+      "Social",
+      "Sports",
       "Weird"
     ],
     "event_url": "https://www.funpdx.com/e/thursday-night-ride-salmon-street-springs-2026-12-03/",
@@ -3137,6 +2914,30 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, December 4, 2026 at 6:30 PM."
   },
   {
+    "id": "conversational-lube-the-first-live-comedy-dating-show-20261204",
+    "title": "Conversational Lube - The First Live Comedy Dating Show",
+    "date": "2026-12-04",
+    "time": "7:00 PM",
+    "venue": "McMenamins Al's Den",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Comedy",
+      "Social"
+    ],
+    "event_url": "https://portlandevents.org/event/conversational-lube-the-first-live-comedy-dating-show/",
+    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-december-4-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, December 4, 2026 at 7:00 PM."
+  },
+  {
     "id": "little-shop-of-horrors-20261204",
     "title": "Little Shop of Horrors",
     "date": "2026-12-04",
@@ -3209,13 +3010,13 @@
     "venue": "Wonderwood Springs",
     "category": "Social",
     "categories": [
-      "Social",
-      "Art"
+      "Art",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Art"
+      "Art",
+      "Social"
     ],
     "event_url": "https://www.funpdx.com/e/free-trivia-fridays-at-wonderwood-springs-2026-12-04/",
     "ticket_url": "",
@@ -3301,6 +3102,35 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "David Jolly is an American stand-up comedian known for his raw, fearless humor and magnetic stage presence. Hailing from Florida, Jolly has become a rising star in the national comedy scene, captivating audiences with his unfiltered storytelling and sharp wit."
+  },
+  {
+    "id": "stripparaoke-at-devils-point-20261205",
+    "title": "Stripparaoke at Devils Point",
+    "date": "2026-12-05",
+    "time": "5:00 AM",
+    "venue": "Devils Point",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Sports",
+      "Nightlife",
+      "Outdoors"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Sports",
+      "Nightlife",
+      "Outdoors"
+    ],
+    "event_url": "https://www.funpdx.com/e/stripparaoke-at-devils-point-2026-12-04/",
+    "ticket_url": "",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "The only-in-Portland original: karaoke shared with the stage's dancers, running since 2005 at this Foster-Powell punk dive/strip club. $5 cover. 21+.",
+    "endDate": "2026-12-05"
   },
   {
     "id": "can-can-s-twas-the-night-before-nutcracker-20261205",
@@ -3969,6 +3799,32 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Thu, December 10, 2026 at 6:30 PM."
   },
   {
+    "id": "karaoke-and-connections-delta-cafe-20261210",
+    "title": "Karaoke and Connections! 🥳 - Delta Cafe",
+    "date": "2026-12-10",
+    "time": "7:00 PM",
+    "venue": "Delta Cafe",
+    "category": "Music",
+    "categories": [
+      "Social",
+      "Music",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Social",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "event_url": "https://www.meetup.com/pdx-social-club/events/317186922/",
+    "ticket_url": "",
+    "source": "Meetup Portland Singles",
+    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
+    "description": "Sometimes the best connections happen over good food, music, and great company! Join PDX Social Club at Delta Café for a laid-back night of karaoke, delici"
+  },
+  {
     "id": "millennial-skip-the-small-talk-night-at-migration-brewing-williams-20261210",
     "title": "Millennial Skip the Small Talk Night at Migration Brewing - Williams",
     "date": "2026-12-10",
@@ -3997,17 +3853,17 @@
     "venue": "Delta Cafe",
     "category": "Music",
     "categories": [
-      "Social",
-      "Music",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
       "Food + Drink",
-      "Nightlife"
+      "Music",
+      "Nightlife",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/pdx-social-club/events/317186922/",
     "ticket_url": "",
@@ -4092,6 +3948,30 @@
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, December 11, 2026 at 6:30 PM."
+  },
+  {
+    "id": "conversational-lube-the-first-live-comedy-dating-show-20261211",
+    "title": "Conversational Lube - The First Live Comedy Dating Show",
+    "date": "2026-12-11",
+    "time": "7:00 PM",
+    "venue": "McMenamins Al's Den",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Comedy",
+      "Social"
+    ],
+    "event_url": "https://portlandevents.org/event/conversational-lube-the-first-live-comedy-dating-show/",
+    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-december-11-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, December 11, 2026 at 7:00 PM."
   },
   {
     "id": "little-shop-of-horrors-20261211",
@@ -4740,6 +4620,30 @@
     "description": "Show: Can Can's Twas The Night Before Nutcracker at Paris Theatre - Portland in Portland, OR on Fri, December 18, 2026 at 6:30 PM."
   },
   {
+    "id": "conversational-lube-the-first-live-comedy-dating-show-20261218",
+    "title": "Conversational Lube - The First Live Comedy Dating Show",
+    "date": "2026-12-18",
+    "time": "7:00 PM",
+    "venue": "McMenamins Al's Den",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Comedy"
+    ],
+    "adult": false,
+    "tags": [
+      "Singles",
+      "Comedy",
+      "Social"
+    ],
+    "event_url": "https://portlandevents.org/event/conversational-lube-the-first-live-comedy-dating-show/",
+    "ticket_url": "https://portlandevents.org/tickets/conversational-lube-the-first-live-comedy-dating-show-portland-friday-december-18-2026-700-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Live event: Conversational Lube - The First Live Comedy Dating Show at McMenamins Al's Den in Portland, OR on Fri, December 18, 2026 at 7:00 PM."
+  },
+  {
     "id": "little-shop-of-horrors-20261218",
     "title": "Little Shop of Horrors",
     "date": "2026-12-18",
@@ -5213,6 +5117,26 @@
     "description": ""
   },
   {
+    "id": "little-shop-of-horrors-20261223",
+    "title": "Little Shop of Horrors",
+    "date": "2026-12-23",
+    "time": "2:00 PM",
+    "venue": "Main Stage At Portland Center Stage",
+    "category": "Other",
+    "categories": [
+      "Other"
+    ],
+    "adult": false,
+    "tags": [
+      "Other"
+    ],
+    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
+    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-wednesday-december-23-2026-2-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Wed, December 23, 2026 at 2:00 PM."
+  },
+  {
     "id": "open-mic-night-20261223",
     "title": "Open Mic Night",
     "date": "2026-12-23",
@@ -5496,14 +5420,14 @@
     "venue": "Portland",
     "category": "Singles",
     "categories": [
+      "Art",
       "Singles",
-      "Social",
-      "Art"
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
+      "Singles",
       "Social"
     ],
     "event_url": "https://www.meetup.com/thursday-portland/events/317547492/",
@@ -5599,14 +5523,14 @@
     "venue": "Portland",
     "category": "Singles",
     "categories": [
+      "Art",
       "Singles",
-      "Social",
-      "Art"
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Singles",
       "Art",
+      "Singles",
       "Social"
     ],
     "event_url": "https://www.meetup.com/thursday-portland/events/317547492/",
@@ -7318,6 +7242,38 @@
     "description": "Originally hailing from San Francisco, CA, Caitlin Peluffo is a New York based comedian. Last year, Caitlin released a Comedy Central Featuring set and a Don't Tell Comedy set. She was also featured on the Late Show with James Corden, Late Show with Stephen Co"
   },
   {
+    "id": "the-neon-room-at-helium-madison-walser-20270305",
+    "title": "The Neon Room at Helium: Madison Walser",
+    "date": "2027-03-05",
+    "time": "4:00 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Singles",
+    "categories": [
+      "Singles",
+      "Social",
+      "Art",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife",
+      "Weird"
+    ],
+    "adult": false,
+    "tags": [
+      "Social",
+      "Singles",
+      "Art",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife",
+      "Weird"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/388884",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "Madison Walser is a comedian, writer, and producer originally from Texas, now based in Los Angeles. Her observational style pulls from dating, politics, religion, and the general chaos of being a woman with \"too many\" opinions. Her unique humor often discusses"
+  },
+  {
     "id": "the-neon-room-madison-walser-20270305",
     "title": "The Neon Room: Madison Walser",
     "date": "2027-03-05",
@@ -7952,6 +7908,84 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Shafi Hossain is a New York City-based stand-up comedian, writer, and producer. Originally from Bangladesh, he moved to the United States to study chemical engineering before falling in love with standup comedy. Now a regular performer at the prestigious Comed"
+  },
+  {
+    "id": "the-neon-room-francesco-de-carlo-20270326",
+    "title": "The Neon Room: Francesco De Carlo",
+    "date": "2027-03-26",
+    "time": "3:00 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/397202",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "Francesco De Carlo is an Italian stand-up comedian, radio host and TV writer from Rome. His Netflix one-hour stand up special “Cose di questo mondo” aired in 2019 and it is available in 190 countries worldwide. In Italy, in the last three years he hosted “Pour"
+  },
+  {
+    "id": "the-neon-room-francesco-de-carlo-20270327",
+    "title": "The Neon Room: Francesco De Carlo",
+    "date": "2027-03-27",
+    "time": "2:30 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/397203",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "Francesco De Carlo is an Italian stand-up comedian, radio host and TV writer from Rome. His Netflix one-hour stand up special “Cose di questo mondo” aired in 2019 and it is available in 190 countries worldwide. In Italy, in the last three years he hosted “Pour"
+  },
+  {
+    "id": "the-neon-room-francesco-de-carlo-20270328",
+    "title": "The Neon Room: Francesco De Carlo",
+    "date": "2027-03-28",
+    "time": "2:30 AM",
+    "venue": "Helium Comedy Club",
+    "category": "Art",
+    "categories": [
+      "Art",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Art",
+      "Comedy",
+      "Food + Drink",
+      "Nightlife"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/397205",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "Francesco De Carlo is an Italian stand-up comedian, radio host and TV writer from Rome. His Netflix one-hour stand up special “Cose di questo mondo” aired in 2019 and it is available in 190 countries worldwide. In Italy, in the last three years he hosted “Pour"
   },
   {
     "id": "special-event-dr-kojo-20270329",
@@ -8800,6 +8834,28 @@
     "source": "Helium Comedy Portland",
     "source_url": "https://portland.heliumcomedy.com/",
     "description": "Henry Sir is a Canadian comedian and writer based in Canada and New York where he performs at the top clubs like The Comedy Cellar and Gotham Comedy Club while touring North America. Known for his dry wit, sharp writing and punching up takes on the state of th"
+  },
+  {
+    "id": "special-event-jason-ladanye-20270529",
+    "title": "Special Event: Jason Ladanye",
+    "date": "2027-05-29",
+    "time": "11:00 PM",
+    "venue": "Helium Comedy Club",
+    "category": "Comedy",
+    "categories": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Comedy",
+      "Nightlife"
+    ],
+    "event_url": "https://portland.heliumcomedy.com/shows/397147",
+    "ticket_url": "",
+    "source": "Helium Comedy Portland",
+    "source_url": "https://portland.heliumcomedy.com/",
+    "description": "Jason Ladanye is a professional, award-winning sleight-of-hand entertainer who has performed card magic all around the world for the last twenty years. Jason exposes the underground world of cheating at cards and how to beat Las Vegas if you have the skills. H"
   },
   {
     "id": "the-neon-room-dan-carney-20270621",

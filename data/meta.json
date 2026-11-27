@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-27T04:16:25.453388+00:00",
-  "eventCount": 363,
-  "rawFound": 294,
+  "updatedAt": "2026-11-27T22:00:40.103260+00:00",
+  "eventCount": 366,
+  "rawFound": 271,
   "duplicatesWithinFresh": 0,
   "sources": [
     {
@@ -24,7 +24,7 @@
     },
     {
       "source": "Portland Events",
-      "found": 62,
+      "found": 41,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -128,10 +128,10 @@
     },
     {
       "source": "Meetup Portland Singles",
-      "found": 27,
+      "found": 25,
       "ok": true,
-      "candidatePages": 14,
-      "pagesChecked": 14,
+      "candidatePages": 12,
+      "pagesChecked": 12,
       "rejectedNoDirectLink": 0,
       "errors": []
     },

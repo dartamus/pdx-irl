@@ -681,6 +681,26 @@
     "endDate": "2026-11-27"
   },
   {
+    "id": "grabbitz-20261128",
+    "title": "Grabbitz",
+    "date": "2026-11-28",
+    "time": "10:00 PM",
+    "venue": "45 East",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/grabbitz-portland-45-east-saturday-november-28-2026-10-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Grabbitz at 45 East in Portland, OR on Sat, November 28, 2026 at 10:00 PM."
+  },
+  {
     "id": "portland-state-vikings-women-s-basketball-vs-uc-santa-barbara-gauchos-20261128",
     "title": "Portland State Vikings Women's Basketball vs. UC Santa Barbara Gauchos",
     "date": "2026-11-28",
@@ -1172,13 +1192,13 @@
     "venue": "Hawthorne Theatre",
     "category": "Music",
     "categories": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Art"
+      "Art",
+      "Music"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/ladrones-portland-hawthorne-theatre-saturday-november-28-2026-8-00-pm/",
@@ -1207,6 +1227,28 @@
     "description": "Concert: One Way Out - Tribute to The Allman Brothers at Jack London Revue in Portland, OR on Sat, November 28, 2026 at 8:00 PM."
   },
   {
+    "id": "the-amity-affliction-20261128",
+    "title": "The Amity Affliction",
+    "date": "2026-11-28",
+    "time": "8:00 PM",
+    "venue": "Roseland Theater",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/the-amity-affliction-portland-saturday-november-28-2026-800-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: The Amity Affliction at Roseland Theater in Portland, OR on Sat, November 28, 2026 at 8:00 PM."
+  },
+  {
     "id": "tony-furtado-20261128",
     "title": "Tony Furtado",
     "date": "2026-11-28",
@@ -1225,6 +1267,26 @@
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
     "description": "Concert: Tony Furtado at Mississippi Studios in Portland, OR on Sat, November 28, 2026 at 8:00 PM."
+  },
+  {
+    "id": "seven-lions-20261128",
+    "title": "Seven Lions",
+    "date": "2026-11-28",
+    "time": "9:00 PM",
+    "venue": "Realm - OR",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/seven-lions-portland-realm-or-saturday-november-28-2026-9-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Seven Lions at Realm - OR in Portland, OR on Sat, November 28, 2026 at 9:00 PM."
   },
   {
     "id": "30-s-40-s-singles-night-at-the-people-s-courts-20261128",
@@ -3308,14 +3370,14 @@
     "venue": "Suki's Bar",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://www.funpdx.com/e/drag-aoke-at-sukis-bar-2026-12-06/",

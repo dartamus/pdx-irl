@@ -1,281 +1,5 @@
 [
   {
-    "id": "last-call-trivia-20261125",
-    "title": "Last Call Trivia",
-    "date": "2026-11-25",
-    "time": "2:00 AM",
-    "venue": "Hillsboro Downtown Station",
-    "category": "Social",
-    "categories": [
-      "Social"
-    ],
-    "adult": false,
-    "tags": [
-      "Social"
-    ],
-    "event_url": "https://www.funpdx.com/e/last-call-trivia-hillsboro-downtown-station-2026-11-24/",
-    "ticket_url": "https://pdxparent.com/event-single/last-call-trivia/2026-11-24/",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "Trivia Tuesday at Hillsboro Downtown Station! Test your knowledge and compete for Station Taphouse gift cards! Prizes: 1st â $35, 2nd â $28, 3rd â $21. See you there!",
-    "endDate": "2026-11-25"
-  },
-  {
-    "id": "little-shop-of-horrors-20261125",
-    "title": "Little Shop of Horrors",
-    "date": "2026-11-25",
-    "time": "2:00 PM",
-    "venue": "Main Stage At Portland Center Stage",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "https://portlandevents.org/shows/little-shop-of-horrors/",
-    "ticket_url": "https://portlandevents.org/tickets/little-shop-of-horrors-portland-main-stage-at-portland-center-stage-wednesday-november-25-2026-2-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Show: Little Shop of Horrors at Main Stage At Portland Center Stage in Portland, OR on Wed, November 25, 2026 at 2:00 PM."
-  },
-  {
-    "id": "foster-night-ride-20261125",
-    "title": "Foster night ride",
-    "date": "2026-11-25",
-    "time": "3:00 AM",
-    "venue": "foster food carts",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Food + Drink"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Food + Drink"
-    ],
-    "event_url": "https://www.funpdx.com/e/foster-night-ride-foster-food-carts-2026-11-24/",
-    "ticket_url": "https://shift2bikes.org/calendar/event-23254",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "We meet up every other Tuesday. We ride in the Southeast Portland we have food carts and a beer tent at the start of the ride. And we go somewhere and generally have a fire. As a great close-knit ride open to you . i promise to make you dance like idot and cel"
-  },
-  {
-    "id": "untapped-trivia-at-grand-fir-brewing-20261125",
-    "title": "Untapped Trivia at Grand Fir Brewing",
-    "date": "2026-11-25",
-    "time": "3:00 AM",
-    "venue": "Grand Fir Brewing",
-    "category": "Social",
-    "categories": [
-      "Social"
-    ],
-    "adult": false,
-    "tags": [
-      "Social"
-    ],
-    "event_url": "https://www.funpdx.com/e/untapped-trivia-at-grand-fir-brewing-2026-11-24/",
-    "ticket_url": "",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "Free pen-and-paper trivia every Tuesday at Grand Fir Brewing, the SE Stark Street brewpub from Brewmaster Whitney Burnside and Chef Doug Adams. Prizes for the top 3 teams.",
-    "endDate": "2026-11-25"
-  },
-  {
-    "id": "small-group-trivia-bye-and-bye-20261125",
-    "title": "Small group trivia @ bye and bye",
-    "date": "2026-11-25",
-    "time": "6:45 PM",
-    "venue": "Bye and Bye",
-    "category": "Social",
-    "categories": [
-      "Food + Drink",
-      "Social"
-    ],
-    "adult": false,
-    "tags": [
-      "Food + Drink",
-      "Social"
-    ],
-    "event_url": "https://www.meetup.com/pdx-single-30-and-40-somethings/events/317531758/",
-    "ticket_url": "",
-    "source": "Meetup Portland Singles",
-    "source_url": "https://www.meetup.com/find/?keywords=singles&location=us--or--portland",
-    "description": "Bye and Bye does Untapped Trivia every Wednesday. Craft cocktails and vegan food. We are focused on growing a community of fun trivia loving individuals. H"
-  },
-  {
-    "id": "nba-cup-portland-trail-blazers-vs-san-antonio-spurs-20261125",
-    "title": "NBA Cup: Portland Trail Blazers vs. San Antonio Spurs",
-    "date": "2026-11-25",
-    "time": "7:00 PM",
-    "venue": "Moda Center at the Rose Quarter",
-    "category": "Art",
-    "categories": [
-      "Art",
-      "Outdoors",
-      "Sports"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Outdoors",
-      "Sports"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/nba-cup-portland-trail-blazers-vs-san-antonio-spurs-portland-moda-center-at-the-rose-quarter-wednesday-november-25-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Sports event: NBA Cup: Portland Trail Blazers vs. San Antonio Spurs at Moda Center at the Rose Quarter in Portland, OR on Wed, November 25, 2026 at 7:00 PM."
-  },
-  {
-    "id": "saosin-20261125",
-    "title": "Saosin",
-    "date": "2026-11-25",
-    "time": "7:00 PM",
-    "venue": "Roseland Theater",
-    "category": "Music",
-    "categories": [
-      "Art",
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Art",
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/saosin-portland-roseland-theater-wednesday-november-25-2026-7-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Saosin at Roseland Theater in Portland, OR on Wed, November 25, 2026 at 7:00 PM."
-  },
-  {
-    "id": "baby-only-open-gym-at-my-gym-children-s-fitness-center-20261125",
-    "title": "Baby Only Open Gym at My Gym Children's Fitness Center",
-    "date": "2026-11-25",
-    "time": "8:00 PM",
-    "venue": "My Gym SW Portland",
-    "category": "Other",
-    "categories": [
-      "Other"
-    ],
-    "adult": false,
-    "tags": [
-      "Other"
-    ],
-    "event_url": "https://www.funpdx.com/e/baby-only-open-gym-at-my-gym-childrens-fitness-center-my-gym-sw-portland-2026-11-25/",
-    "ticket_url": "https://pdxparent.com/event-single/baby-only-open-gym-at-my-gym-childrens-fitness-center/2026-11-25/",
-    "source": "FunPDX Meet People",
-    "source_url": "https://www.funpdx.com/meet-people-portland",
-    "description": "Looking for a fun and engaging way to bond with your baby while encouraging their physical and cognitive development? Come play at our Baby Only Open Gym held every Wednesday 12:10-1:00pm. Babies and their caregivers can explore our super clean and fun gym spa",
-    "endDate": "2026-11-25"
-  },
-  {
-    "id": "scott-bradlee-s-postmodern-jukebox-20261125",
-    "title": "Scott Bradlee's Postmodern Jukebox",
-    "date": "2026-11-25",
-    "time": "8:00 PM",
-    "venue": "Revolution Hall - Portland",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/scott-bradlees-postmodern-jukebox-portland-wednesday-november-25-2026-800-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Scott Bradlee's Postmodern Jukebox at Revolution Hall - Portland in Portland, OR on Wed, November 25, 2026 at 8:00 PM."
-  },
-  {
-    "id": "the-pynnacles-20261125",
-    "title": "The Pynnacles",
-    "date": "2026-11-25",
-    "time": "8:00 PM",
-    "venue": "Mississippi Studios",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/the-pynnacles-portland-mississippi-studios-wednesday-november-25-2026-8-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: The Pynnacles at Mississippi Studios in Portland, OR on Wed, November 25, 2026 at 8:00 PM."
-  },
-  {
-    "id": "brooklyn-del-and-the-revelators-20261125",
-    "title": "Brooklyn Del and the Revelators",
-    "date": "2026-11-25",
-    "time": "8:30 PM",
-    "venue": "Showdown Saloon",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/brooklyn-del-and-the-revelators-portland-showdown-saloon-wednesday-november-25-2026-8-30-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Brooklyn Del and the Revelators at Showdown Saloon in Portland, OR on Wed, November 25, 2026 at 8:30 PM."
-  },
-  {
-    "id": "dennett-20261125",
-    "title": "Dennett",
-    "date": "2026-11-25",
-    "time": "9:00 PM",
-    "venue": "Realm - OR",
-    "category": "Music",
-    "categories": [
-      "Music"
-    ],
-    "adult": false,
-    "tags": [
-      "Music"
-    ],
-    "event_url": "",
-    "ticket_url": "https://portlandevents.org/tickets/dennett-portland-realm-or-wednesday-november-25-2026-9-00-pm/",
-    "source": "Portland Events",
-    "source_url": "https://portlandevents.org/calendar/",
-    "description": "Concert: Dennett at Realm - OR in Portland, OR on Wed, November 25, 2026 at 9:00 PM."
-  },
-  {
-    "id": "thanksgiving-eve-date-night-in-eliot-cityswoon-ages-29-49-20261125",
-    "title": "Thanksgiving Eve Date Night in Eliot | Cityswoon | Ages 29-49",
-    "date": "2026-11-25",
-    "time": "See event",
-    "venue": "The Garden Tavern",
-    "category": "Singles",
-    "categories": [
-      "Singles",
-      "Social"
-    ],
-    "adult": false,
-    "tags": [
-      "Singles",
-      "Social"
-    ],
-    "event_url": "https://www.eventbrite.com/e/thanksgiving-eve-date-night-in-eliot-cityswoon-ages-29-49-tickets-2001156401667",
-    "ticket_url": "",
-    "source": "Eventbrite Portland Singles",
-    "source_url": "https://www.eventbrite.com/d/or--portland/singles-events/",
-    "description": "Speed Dating 2.0 @ The Garden Tavern on Thanksgiving Eve!",
-    "endDate": "2026-11-25"
-  },
-  {
     "id": "b-side-records-vintage-open-mic-all-ages-all-formats-20261126",
     "title": "B-Side Records & Vintage Open Mic: All Ages, All Formats",
     "date": "2026-11-26",
@@ -1346,13 +1070,13 @@
     "venue": "Providence Park",
     "category": "Sports",
     "categories": [
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "",
     "ticket_url": "https://portlandevents.org/tickets/mls-cup-first-round-portland-timbers-vs-tbd-home-game-1-series-game-2-date-tbd-if-necessary-portland-providence-park-friday-november-27-2026-tba/",
@@ -1441,6 +1165,28 @@
     "description": ""
   },
   {
+    "id": "ladrones-20261128",
+    "title": "Ladrones",
+    "date": "2026-11-28",
+    "time": "8:00 PM",
+    "venue": "Hawthorne Theatre",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/ladrones-portland-hawthorne-theatre-saturday-november-28-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Ladrones at Hawthorne Theatre in Portland, OR on Sat, November 28, 2026 at 8:00 PM."
+  },
+  {
     "id": "one-way-out-tribute-to-the-allman-brothers-20261128",
     "title": "One Way Out - Tribute to The Allman Brothers",
     "date": "2026-11-28",
@@ -1459,6 +1205,26 @@
     "source": "Portland Events",
     "source_url": "https://portlandevents.org/calendar/",
     "description": "Concert: One Way Out - Tribute to The Allman Brothers at Jack London Revue in Portland, OR on Sat, November 28, 2026 at 8:00 PM."
+  },
+  {
+    "id": "tony-furtado-20261128",
+    "title": "Tony Furtado",
+    "date": "2026-11-28",
+    "time": "8:00 PM",
+    "venue": "Mississippi Studios",
+    "category": "Music",
+    "categories": [
+      "Music"
+    ],
+    "adult": false,
+    "tags": [
+      "Music"
+    ],
+    "event_url": "",
+    "ticket_url": "https://portlandevents.org/tickets/tony-furtado-portland-mississippi-studios-saturday-november-28-2026-8-00-pm/",
+    "source": "Portland Events",
+    "source_url": "https://portlandevents.org/calendar/",
+    "description": "Concert: Tony Furtado at Mississippi Studios in Portland, OR on Sat, November 28, 2026 at 8:00 PM."
   },
   {
     "id": "30-s-40-s-singles-night-at-the-people-s-courts-20261128",
@@ -1616,21 +1382,21 @@
     "venue": "1020 Southwest Taylor Street",
     "category": "Singles",
     "categories": [
+      "Art",
+      "Music",
+      "Outdoors",
       "Singles",
       "Social",
-      "Music",
-      "Art",
-      "Sports",
-      "Outdoors"
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Singles",
       "Art",
-      "Sports",
+      "Music",
+      "Outdoors",
+      "Singles",
       "Social",
-      "Outdoors"
+      "Sports"
     ],
     "event_url": "https://www.meetup.com/mirrored-moves-k-pop-dance-jam/events/317593903/",
     "ticket_url": "",
@@ -2468,15 +2234,15 @@
     "venue": "Tomorrow's Verse ~ Taproom & Bottle Shop",
     "category": "Singles",
     "categories": [
+      "Music",
       "Singles",
-      "Social",
-      "Music"
+      "Social"
     ],
     "adult": false,
     "tags": [
       "Music",
-      "Social",
-      "Singles"
+      "Singles",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/meetsies-pdx/events/317598934/",
     "ticket_url": "",
@@ -2535,21 +2301,21 @@
     "venue": "Tomorrow's Verse ~ Taproom & Bottle Shop",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Social",
-      "Music",
       "Art",
       "Food + Drink",
-      "Outdoors"
+      "Music",
+      "Outdoors",
+      "Singles",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
-      "Singles",
       "Art",
       "Food + Drink",
-      "Outdoors"
+      "Music",
+      "Outdoors",
+      "Singles",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/meetsies-pdx/events/317598934/",
     "ticket_url": "",
@@ -2844,8 +2610,8 @@
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Singles"
+      "Singles",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/meetsies-pdx/events/317598974/",
     "ticket_url": "",
@@ -2970,17 +2736,17 @@
     "venue": "Loyal Legion",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Social",
       "Food + Drink",
-      "Outdoors"
+      "Outdoors",
+      "Singles",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Social",
-      "Singles",
       "Food + Drink",
-      "Outdoors"
+      "Outdoors",
+      "Singles",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/meetsies-pdx/events/317598974/",
     "ticket_url": "",
@@ -3315,14 +3081,14 @@
     "venue": "Clinton Street Theater",
     "category": "Music",
     "categories": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "adult": false,
     "tags": [
-      "Music",
       "Art",
+      "Music",
       "Nightlife"
     ],
     "event_url": "https://www.funpdx.com/e/the-rocky-horror-picture-show-with-the-clinton-street-clinton-street-theater-2026-12-05/",
@@ -3400,15 +3166,15 @@
     "venue": "Darcelle XV & Co.",
     "category": "Sports",
     "categories": [
-      "Sports",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
-      "Sports",
       "Nightlife",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/sunday-funday-drag-brunch-at-darcelle-xv-2026-12-06/",
     "ticket_url": "",
@@ -3496,14 +3262,14 @@
     "category": "Music",
     "categories": [
       "Music",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "adult": false,
     "tags": [
       "Music",
-      "Sports",
-      "Outdoors"
+      "Outdoors",
+      "Sports"
     ],
     "event_url": "https://www.funpdx.com/e/sunday-night-open-mic-at-laurelthirst-laurelthirst-public-house-2026-12-06/",
     "ticket_url": "",
@@ -3533,6 +3299,31 @@
     "source": "FunPDX Meet People",
     "source_url": "https://www.funpdx.com/meet-people-portland",
     "description": "CHURCH OF HIVEgothic - industrial - darkwave - dance party 9pm : $5 : 21+"
+  },
+  {
+    "id": "drag-aoke-at-suki-s-bar-20261207",
+    "title": "Drag-aoke at Suki's Bar",
+    "date": "2026-12-07",
+    "time": "5:00 AM",
+    "venue": "Suki's Bar",
+    "category": "Music",
+    "categories": [
+      "Music",
+      "Art",
+      "Nightlife"
+    ],
+    "adult": false,
+    "tags": [
+      "Music",
+      "Art",
+      "Nightlife"
+    ],
+    "event_url": "https://www.funpdx.com/e/drag-aoke-at-sukis-bar-2026-12-06/",
+    "ticket_url": "",
+    "source": "FunPDX Meet People",
+    "source_url": "https://www.funpdx.com/meet-people-portland",
+    "description": "Suki's beloved karaoke night gets a drag twist every Sunday at the Hawthorne location â sing your heart out alongside the house queens. 21+.",
+    "endDate": "2026-12-07"
   },
   {
     "id": "12-7-singles-speed-dating-sherwood-ages-35-45-20261207",
@@ -3889,17 +3680,17 @@
     "venue": "Hopworks Brewery - Powell Mothership",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Social",
+      "Food + Drink",
       "Music",
-      "Food + Drink"
+      "Singles",
+      "Social"
     ],
     "adult": false,
     "tags": [
+      "Food + Drink",
       "Music",
-      "Social",
       "Singles",
-      "Food + Drink"
+      "Social"
     ],
     "event_url": "https://www.meetup.com/meetsies-pdx/events/317598991/",
     "ticket_url": "",
@@ -3982,21 +3773,21 @@
     "venue": "Hopworks Brewery - Powell Mothership",
     "category": "Singles",
     "categories": [
-      "Singles",
-      "Social",
-      "Music",
       "Art",
       "Food + Drink",
-      "Outdoors"
+      "Music",
+      "Outdoors",
+      "Singles",
+      "Social"
     ],
     "adult": false,
     "tags": [
-      "Music",
-      "Social",
-      "Singles",
       "Art",
       "Food + Drink",
-      "Outdoors"
+      "Music",
+      "Outdoors",
+      "Singles",
+      "Social"
     ],
     "event_url": "https://www.meetup.com/meetsies-pdx/events/317598991/",
     "ticket_url": "",

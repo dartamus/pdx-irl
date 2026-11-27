@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-26T22:23:31.829548+00:00",
-  "eventCount": 373,
-  "rawFound": 305,
-  "duplicatesWithinFresh": 1,
+  "updatedAt": "2026-11-27T04:16:25.453388+00:00",
+  "eventCount": 363,
+  "rawFound": 294,
+  "duplicatesWithinFresh": 0,
   "sources": [
     {
       "source": "Travel Portland",
@@ -24,7 +24,7 @@
     },
     {
       "source": "Portland Events",
-      "found": 65,
+      "found": 62,
       "ok": true,
       "candidatePages": 14,
       "pagesChecked": 14,
@@ -33,7 +33,7 @@
     },
     {
       "source": "PDX Pipeline",
-      "found": 1,
+      "found": 0,
       "ok": true,
       "candidatePages": 3,
       "pagesChecked": 3,
@@ -98,10 +98,10 @@
     },
     {
       "source": "Crystal Ballroom",
-      "found": 7,
+      "found": 0,
       "ok": true,
-      "candidatePages": 14,
-      "pagesChecked": 14,
+      "candidatePages": 0,
+      "pagesChecked": 0,
       "rejectedNoDirectLink": 0,
       "errors": []
     },
